@@ -1,0 +1,39 @@
+name: Daily issue scan
+
+on:
+  schedule:
+    # Her gün 06:00 UTC (TR saatiyle 09:00)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find matching issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/find_issues.py
+
+      - name: Commit ISSUES.md if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- ISSUES.md; then
+            echo "no changes, skipping commit"
+          else
+            git add ISSUES.md
+            git commit -m "chore: update suggested issues ($(date -u +%Y-%m-%d))"
+            git push
+          fi
