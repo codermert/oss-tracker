@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-07 06:59 UTC_
+_Son güncelleme: 2026-08-08 06:33 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Timeseries Bar (stacked): zero-value series label overlaps the adjacent segment's label when percentage_threshold is 0](https://github.com/lspinheiro/superset/issues/13) — `lspinheiro/superset` (güncellendi: 2026-08-07)
-- [ ] [chore: implement load_calendar() to read universities/<slug>/calendar.yaml](https://github.com/saajann/openuni/issues/51) — `saajann/openuni` (güncellendi: 2026-08-07)
-- [ ] [docs: examples that references code should link to actual files in github](https://github.com/open-telemetry/opentelemetry-python/issues/5427) — `open-telemetry/opentelemetry-python` (güncellendi: 2026-08-07)
-- [ ] [A "|" or newline in an inbox item corrupts the digest table](https://github.com/WingedGuardian/GENesis-AGI/issues/1310) — `WingedGuardian/GENesis-AGI` (güncellendi: 2026-08-07)
-- [ ] [[ENHANCEMENT]: Show the creation date in the README table](https://github.com/drkrillo/good-first-issues/issues/138) — `drkrillo/good-first-issues` (güncellendi: 2026-08-07)
-- [ ] [[Documentation] Add a deployment guide](https://github.com/mertey19/skillmatch-ai/issues/3) — `mertey19/skillmatch-ai` (güncellendi: 2026-08-07)
-- [ ] [[Feature]: Improve DCP error messages](https://github.com/vllm-project/vllm/issues/28407) — `vllm-project/vllm` (güncellendi: 2026-08-07)
-- [ ] [[Feature]: Default eplb num_redundant_experts to the lowest valid value if unspecified](https://github.com/vllm-project/vllm/issues/30075) — `vllm-project/vllm` (güncellendi: 2026-08-07)
+- [ ] [Observe: tab labels say "Primary Graph" and "Comparison Graph" but content shows data tables](https://github.com/future-agi/future-agi/issues/1686) — `future-agi/future-agi` (güncellendi: 2026-08-08)
+- [ ] [fix(security): dismiss or scrub plan_date in day_plan.py log sink (Alert #7200)](https://github.com/greeves89/AI-Employee/issues/542) — `greeves89/AI-Employee` (güncellendi: 2026-08-08)
+- [ ] [Expand CONTRIBUTING.md](https://github.com/nredd/pytest-airflow-in-a-box/issues/40) — `nredd/pytest-airflow-in-a-box` (güncellendi: 2026-08-08)
+- [ ] [Extend coding-agent CLI examples to Gemini CLI, Qwen Code, and Kimi CLI](https://github.com/EvAlssment/boxxkite/issues/97) — `EvAlssment/boxxkite` (güncellendi: 2026-08-08)
+- [ ] [[ENH] `tirex-2` foundation model](https://github.com/sktime/sktime/issues/10773) — `sktime/sktime` (güncellendi: 2026-08-08)
+- [ ] [[Feature]: Keyboard shortcut discoverability modal (? trigger, platform-aware)](https://github.com/Adit-Jain-srm/NightmareNet/issues/692) — `Adit-Jain-srm/NightmareNet` (güncellendi: 2026-08-08)
+- [ ] [[DOC] add explicit formulae to docstrings of distributions](https://github.com/sktime/skpro/issues/1120) — `sktime/skpro` (güncellendi: 2026-08-08)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-08-08)
 
 ## Javascript
 
