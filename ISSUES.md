@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-09 06:37 UTC_
+_Son güncelleme: 2026-08-10 07:09 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [endorse https://pypi.org/project/pytest-skip-slow/ for the slow marker](https://github.com/pytest-dev/pytest/issues/14834) — `pytest-dev/pytest` (güncellendi: 2026-08-09)
-- [ ] [Add `--skip-validation` optional flag to `dmr_export_schema` CLI command](https://github.com/wemake-services/django-modern-rest/issues/1225) — `wemake-services/django-modern-rest` (güncellendi: 2026-08-09)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-08-09)
-- [ ] [Add --version CLI argument](https://github.com/AnouarSbia/printbridge/issues/2) — `AnouarSbia/printbridge` (güncellendi: 2026-08-09)
-- [ ] [Ruff RUF046: redundant int() casts in gpu_recorder.py](https://github.com/squid-protocol/gitgalaxy/issues/494) — `squid-protocol/gitgalaxy` (güncellendi: 2026-08-09)
-- [ ] [Improvement :-  SPF/DKIM/DMARC record validation + minor cleanup in email_security_check](https://github.com/AynOps/AynOps/issues/152) — `AynOps/AynOps` (güncellendi: 2026-08-09)
-- [ ] [python -m tlakit.install can hang forever, and jar.py still says downloading is a future feature](https://github.com/LUC-AI4FM/tlakit/issues/97) — `LUC-AI4FM/tlakit` (güncellendi: 2026-08-09)
-- [ ] [The Worker's 64 KB cap counts characters, so a Unicode spec is measured wrong](https://github.com/LUC-AI4FM/tlakit/issues/96) — `LUC-AI4FM/tlakit` (güncellendi: 2026-08-09)
+- [ ] [Add a conda-forge recipe](https://github.com/precice/micro-manager/issues/319) — `precice/micro-manager` (güncellendi: 2026-08-10)
+- [ ] [Privacy: allow manifests to suppress sample ID previews](https://github.com/seva9523/EvalRepro/issues/5) — `seva9523/EvalRepro` (güncellendi: 2026-08-10)
+- [ ] [Refine is not able to make many simplifications](https://github.com/sympy/sympy/issues/27888) — `sympy/sympy` (güncellendi: 2026-08-10)
+- [ ] [Installation instructions beyond Claude Code](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/10) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
+- [ ] [Eval fixtures in languages other than Python](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/8) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
+- [ ] [Reference: idempotency review checklist](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/7) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
+- [ ] [Add a local validator script](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/5) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
+- [ ] [GiteaProvider uses the API base URL for user-facing links, breaking self-hosted Gitea/Forgejo behind a reverse proxy](https://github.com/The-PR-Agent/pr-agent/issues/2612) — `The-PR-Agent/pr-agent` (güncellendi: 2026-08-10)
 
 ## Javascript
 
