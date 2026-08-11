@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-10 07:09 UTC_
+_Son güncelleme: 2026-08-11 06:46 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Add a conda-forge recipe](https://github.com/precice/micro-manager/issues/319) — `precice/micro-manager` (güncellendi: 2026-08-10)
-- [ ] [Privacy: allow manifests to suppress sample ID previews](https://github.com/seva9523/EvalRepro/issues/5) — `seva9523/EvalRepro` (güncellendi: 2026-08-10)
-- [ ] [Refine is not able to make many simplifications](https://github.com/sympy/sympy/issues/27888) — `sympy/sympy` (güncellendi: 2026-08-10)
-- [ ] [Installation instructions beyond Claude Code](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/10) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
-- [ ] [Eval fixtures in languages other than Python](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/8) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
-- [ ] [Reference: idempotency review checklist](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/7) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
-- [ ] [Add a local validator script](https://github.com/abhisheksharma2411/distributed-systems-skills/issues/5) — `abhisheksharma2411/distributed-systems-skills` (güncellendi: 2026-08-10)
-- [ ] [GiteaProvider uses the API base URL for user-facing links, breaking self-hosted Gitea/Forgejo behind a reverse proxy](https://github.com/The-PR-Agent/pr-agent/issues/2612) — `The-PR-Agent/pr-agent` (güncellendi: 2026-08-10)
+- [ ] [Documentation gap for the stricter plan loader: accepted/rejected/defaulted/coerced shapes per field](https://github.com/sipyourdrink-ltd/bernstein/issues/3552) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
+- [ ] [load_plan coerces non-string files items via str() while plan validate rejects them](https://github.com/sipyourdrink-ltd/bernstein/issues/3556) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
+- [ ] [Review-coverage warning is invisible on fork PRs: sticky summary POST fails with 403 and the gate still passes](https://github.com/sipyourdrink-ltd/bernstein/issues/3533) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
+- [ ] [context-file staleness: curated context files lag their subtrees](https://github.com/sipyourdrink-ltd/bernstein/issues/3532) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
+- [ ] [📝 Documentation: Add a tutorial page for `easy_numbers`](https://github.com/sara-czasak/py-simple-wrap/issues/107) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-08-11)
+- [ ] [📝 Documentation: Add a tutorial page for `easy_json`](https://github.com/sara-czasak/py-simple-wrap/issues/115) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-08-11)
+- [ ] [`maintain check` populates `data.findings` while `data.axes[*].findings` stay empty](https://github.com/exmergo/dex/issues/279) — `exmergo/dex` (güncellendi: 2026-08-11)
+- [ ] [fix: make the Windows PowerShell installer reliable](https://github.com/yeony-park/paws-on-codex/issues/8) — `yeony-park/paws-on-codex` (güncellendi: 2026-08-11)
 
 ## Javascript
 
