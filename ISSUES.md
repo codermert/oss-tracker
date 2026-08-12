@@ -1,24 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-11 06:46 UTC_
+_Son güncelleme: 2026-08-12 07:07 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Documentation gap for the stricter plan loader: accepted/rejected/defaulted/coerced shapes per field](https://github.com/sipyourdrink-ltd/bernstein/issues/3552) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
-- [ ] [load_plan coerces non-string files items via str() while plan validate rejects them](https://github.com/sipyourdrink-ltd/bernstein/issues/3556) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
-- [ ] [Review-coverage warning is invisible on fork PRs: sticky summary POST fails with 403 and the gate still passes](https://github.com/sipyourdrink-ltd/bernstein/issues/3533) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
-- [ ] [context-file staleness: curated context files lag their subtrees](https://github.com/sipyourdrink-ltd/bernstein/issues/3532) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-08-11)
-- [ ] [📝 Documentation: Add a tutorial page for `easy_numbers`](https://github.com/sara-czasak/py-simple-wrap/issues/107) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-08-11)
-- [ ] [📝 Documentation: Add a tutorial page for `easy_json`](https://github.com/sara-czasak/py-simple-wrap/issues/115) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-08-11)
-- [ ] [`maintain check` populates `data.findings` while `data.axes[*].findings` stay empty](https://github.com/exmergo/dex/issues/279) — `exmergo/dex` (güncellendi: 2026-08-11)
-- [ ] [fix: make the Windows PowerShell installer reliable](https://github.com/yeony-park/paws-on-codex/issues/8) — `yeony-park/paws-on-codex` (güncellendi: 2026-08-11)
+- [ ] [docs(errors): add troubleshooting links for common errors](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/671) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [test(logging): cover newline-safe structured fields](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/670) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [docs(extensions): add extension compatibility table](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/669) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [test(config): cover invalid boolean environment values](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/672) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [docs(repository): add test-directory navigation note](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/673) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [test(auth): cover whitespace-only API key input](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/665) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [docs(rlm): add a local Ollama setup example](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/664) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
+- [ ] [test(cli): cover help output for a maintenance command](https://github.com/Abhigyan-Shekhar/Waggle-mcp/issues/667) — `Abhigyan-Shekhar/Waggle-mcp` (güncellendi: 2026-08-12)
 
 ## Javascript
 
-_Şu an uygun issue bulunamadı._
+- [ ] [Add CODEOWNERS file for predictable review routing](https://github.com/Flamki/stellarmind/issues/41) — `Flamki/stellarmind` (güncellendi: 2026-08-12)
+- [ ] [Document environment variables in a structured table](https://github.com/Flamki/stellarmind/issues/43) — `Flamki/stellarmind` (güncellendi: 2026-08-12)
+- [ ] [Add task checklist template section to issue descriptions guide](https://github.com/Flamki/stellarmind/issues/47) — `Flamki/stellarmind` (güncellendi: 2026-08-12)
+- [ ] [Add basic repository map section for new contributors](https://github.com/Flamki/stellarmind/issues/48) — `Flamki/stellarmind` (güncellendi: 2026-08-12)
+- [ ] [Add security checklist before push section to CONTRIBUTING](https://github.com/Flamki/stellarmind/issues/50) — `Flamki/stellarmind` (güncellendi: 2026-08-12)
+- [ ] [Support Prism.js grammar parsing but use the Highlight.js HTML/theme pipeline](https://github.com/highlightjs/highlight.js/issues/3619) — `highlightjs/highlight.js` (güncellendi: 2026-08-12)
+- [ ] [theme switcher initial state for icon is wrong](https://github.com/nodejs/doc-kit/issues/903) — `nodejs/doc-kit` (güncellendi: 2026-08-12)
+- [ ] [Bug: Static Status Indicator Styled as Action Button with Typographical Error](https://github.com/Tadreeb-LMS/tadreeblms/issues/935) — `Tadreeb-LMS/tadreeblms` (güncellendi: 2026-08-12)
 
 ## Typescript
 
