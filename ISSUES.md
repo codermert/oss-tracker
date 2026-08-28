@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-27 17:03 UTC_
+_Son güncelleme: 2026-08-28 17:51 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Start here: build a private decision brief](https://github.com/OthmaneBlial/Storyboard-Studio/issues/4) — `OthmaneBlial/Storyboard-Studio` (güncellendi: 2026-08-27)
-- [ ] [Template: contribute a synthetic nonprofit decision brief](https://github.com/OthmaneBlial/Storyboard-Studio/issues/11) — `OthmaneBlial/Storyboard-Studio` (güncellendi: 2026-08-27)
-- [ ] [Renderer: add a long-title wrapping fixture](https://github.com/OthmaneBlial/Storyboard-Studio/issues/9) — `OthmaneBlial/Storyboard-Studio` (güncellendi: 2026-08-27)
-- [ ] [Accessibility: verify preview focus order](https://github.com/OthmaneBlial/Storyboard-Studio/issues/8) — `OthmaneBlial/Storyboard-Studio` (güncellendi: 2026-08-27)
-- [ ] [Contributor-quickstart-examples](https://github.com/saifromih-glitch/doaa-prism-engine/issues/3) — `saifromih-glitch/doaa-prism-engine` (güncellendi: 2026-08-27)
-- [ ] [[FEAT] Expose `ratio` for random resized crop](https://github.com/lightly-ai/lightly-train/issues/958) — `lightly-ai/lightly-train` (güncellendi: 2026-08-27)
-- [ ] [[Bug]: Dispatcher description counts the unfiltered route registry — a scoped caller can compute the size of the surface hidden from it](https://github.com/Frisian-MCP/frisian-mcp/issues/71) — `Frisian-MCP/frisian-mcp` (güncellendi: 2026-08-27)
-- [ ] [Add --sort savings and --top N to rank games by cents saved](https://github.com/JacobiusMakes/parlayapi-line-shopper/issues/3) — `JacobiusMakes/parlayapi-line-shopper` (güncellendi: 2026-08-27)
+- [ ] [Verify CHANGELOG.md follows Keep a Changelog format and document the process](https://github.com/OpenAgentHQ/openagent-eval/issues/338) — `OpenAgentHQ/openagent-eval` (güncellendi: 2026-08-28)
+- [ ] [Add a market-hours gate](https://github.com/jbisaccia-9/trade-gate/issues/3) — `jbisaccia-9/trade-gate` (güncellendi: 2026-08-28)
+- [ ] [[Docs] Document the preview-before-persist transform contract](https://github.com/c2siorg/dataloom/issues/238) — `c2siorg/dataloom` (güncellendi: 2026-08-28)
+- [ ] [Migrate remaining VariableTrackers to declarative `tp_methods` / `tp_getset` / `tp_members`](https://github.com/pytorch/pytorch/issues/195165) — `pytorch/pytorch` (güncellendi: 2026-08-28)
+- [ ] [`experiment check` says the run matches when there is no run](https://github.com/deepskandpal/LangChef/issues/64) — `deepskandpal/LangChef` (güncellendi: 2026-08-28)
+- [ ] [Consider using `syrupy` for tests](https://github.com/ag2ai/faststream/issues/2978) — `ag2ai/faststream` (güncellendi: 2026-08-28)
+- [ ] [Reading in CSVs with glob](https://github.com/microsoft/vasim/issues/18) — `microsoft/vasim` (güncellendi: 2026-08-28)
+- [ ] [Add a --json report flag for CI annotations](https://github.com/jbisaccia-9/brand-gate/issues/3) — `jbisaccia-9/brand-gate` (güncellendi: 2026-08-28)
 
 ## Javascript
 
-- [ ] [Store course.subject, not section.subject, so a course label fits a row](https://github.com/EnesYilmazcode/Vacant/issues/55) — `EnesYilmazcode/Vacant` (güncellendi: 2026-08-27)
-- [ ] [Program Model Schema Definition](https://github.com/parthbuilds-community/FitMart/issues/984) — `parthbuilds-community/FitMart` (güncellendi: 2026-08-27)
-- [ ] [Program Seed Data Creation](https://github.com/parthbuilds-community/FitMart/issues/987) — `parthbuilds-community/FitMart` (güncellendi: 2026-08-27)
-- [ ] [A reusable slim scrollbar: the tracker board, the tracker's card lists, and the page bar in wide mode](https://github.com/gagewillette/Diomedes/issues/172) — `gagewillette/Diomedes` (güncellendi: 2026-08-27)
-- [ ] [Improve the notification border design](https://github.com/pradipNP/ferilo-ecommerce-FullstackWebsite/issues/19) — `pradipNP/ferilo-ecommerce-FullstackWebsite` (güncellendi: 2026-08-27)
-- [ ] [infra(nginx): Implement static file caching headers](https://github.com/Deen-Bridge/dnb-backend/issues/255) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-08-27)
-- [ ] [Failed fetch requests with empty responses can fail to set errors](https://github.com/google/site-kit-wp/issues/13293) — `google/site-kit-wp` (güncellendi: 2026-08-27)
-- [ ] [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/santifer/career-ops/issues/3408) — `santifer/career-ops` (güncellendi: 2026-08-27)
+- [ ] [Help wanted: documentation](https://github.com/WesleyHanauer/moracarta/issues/16) — `WesleyHanauer/moracarta` (güncellendi: 2026-08-28)
+- [ ] [Block-count label ("N blocs") hardcoded in two schematic tiles, not translated](https://github.com/yamakajump/mindustry-forge/issues/117) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
+- [ ] ["My schematics" list prints power with a raw string, not a translation key](https://github.com/yamakajump/mindustry-forge/issues/116) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
+- [ ] [Missing accent on 'energie' in schema.php lang file](https://github.com/yamakajump/mindustry-forge/issues/115) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
+- [ ] [Build tool summaries print in French instead of English](https://github.com/yamakajump/mindustry-forge/issues/114) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
+- [ ] [Add the CI badge to the four READMEs](https://github.com/jason5ng32/MyIP/issues/408) — `jason5ng32/MyIP` (güncellendi: 2026-08-28)
+- [ ] [Fix missing gap between Install button and GitHub button in header toolbar](https://github.com/pradipNP/khelzon/issues/14) — `pradipNP/khelzon` (güncellendi: 2026-08-28)
+- [ ] [Leftover console.log](https://github.com/IskandarovFirdavs/oldindan-app/issues/10) — `IskandarovFirdavs/oldindan-app` (güncellendi: 2026-08-28)
 
 ## Typescript
 
