@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-08-28 17:51 UTC_
+_Son güncelleme: 2026-08-29 11:56 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Verify CHANGELOG.md follows Keep a Changelog format and document the process](https://github.com/OpenAgentHQ/openagent-eval/issues/338) — `OpenAgentHQ/openagent-eval` (güncellendi: 2026-08-28)
-- [ ] [Add a market-hours gate](https://github.com/jbisaccia-9/trade-gate/issues/3) — `jbisaccia-9/trade-gate` (güncellendi: 2026-08-28)
-- [ ] [[Docs] Document the preview-before-persist transform contract](https://github.com/c2siorg/dataloom/issues/238) — `c2siorg/dataloom` (güncellendi: 2026-08-28)
-- [ ] [Migrate remaining VariableTrackers to declarative `tp_methods` / `tp_getset` / `tp_members`](https://github.com/pytorch/pytorch/issues/195165) — `pytorch/pytorch` (güncellendi: 2026-08-28)
-- [ ] [`experiment check` says the run matches when there is no run](https://github.com/deepskandpal/LangChef/issues/64) — `deepskandpal/LangChef` (güncellendi: 2026-08-28)
-- [ ] [Consider using `syrupy` for tests](https://github.com/ag2ai/faststream/issues/2978) — `ag2ai/faststream` (güncellendi: 2026-08-28)
-- [ ] [Reading in CSVs with glob](https://github.com/microsoft/vasim/issues/18) — `microsoft/vasim` (güncellendi: 2026-08-28)
-- [ ] [Add a --json report flag for CI annotations](https://github.com/jbisaccia-9/brand-gate/issues/3) — `jbisaccia-9/brand-gate` (güncellendi: 2026-08-28)
+- [ ] [Test: Tests break when pycountries updates its list of countries](https://github.com/openedx/openedx-platform/issues/37611) — `openedx/openedx-platform` (güncellendi: 2026-08-29)
+- [ ] [Docs: add Windows development setup commands](https://github.com/seva9523/EvalRepro/issues/36) — `seva9523/EvalRepro` (güncellendi: 2026-08-29)
+- [ ] [OSS: Add py.typed marker for type hint distribution](https://github.com/mkarots/benedict/issues/70) — `mkarots/benedict` (güncellendi: 2026-08-29)
+- [ ] [Drive health check is silent when smartctl is missing](https://github.com/MuataSr/carekeeper/issues/1) — `MuataSr/carekeeper` (güncellendi: 2026-08-29)
+- [ ] [OSS: Add .editorconfig for consistent formatting](https://github.com/mkarots/benedict/issues/60) — `mkarots/benedict` (güncellendi: 2026-08-29)
+- [ ] [Migrations: no guard against duplicate or out-of-sequence version numbers](https://github.com/bijay-odyssey/the-sect/issues/12) — `bijay-odyssey/the-sect` (güncellendi: 2026-08-29)
+- [ ] [Build AI evaluation: the hand-count schema does not state its value set, but its sibling does](https://github.com/Hebbian-Robotics/hflow/issues/257) — `Hebbian-Robotics/hflow` (güncellendi: 2026-08-29)
+- [ ] [peak-template config reader strips '#' even inside quoted values](https://github.com/bijay-odyssey/the-sect/issues/19) — `bijay-odyssey/the-sect` (güncellendi: 2026-08-29)
 
 ## Javascript
 
-- [ ] [Help wanted: documentation](https://github.com/WesleyHanauer/moracarta/issues/16) — `WesleyHanauer/moracarta` (güncellendi: 2026-08-28)
-- [ ] [Block-count label ("N blocs") hardcoded in two schematic tiles, not translated](https://github.com/yamakajump/mindustry-forge/issues/117) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
-- [ ] ["My schematics" list prints power with a raw string, not a translation key](https://github.com/yamakajump/mindustry-forge/issues/116) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
-- [ ] [Missing accent on 'energie' in schema.php lang file](https://github.com/yamakajump/mindustry-forge/issues/115) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
-- [ ] [Build tool summaries print in French instead of English](https://github.com/yamakajump/mindustry-forge/issues/114) — `yamakajump/mindustry-forge` (güncellendi: 2026-08-28)
-- [ ] [Add the CI badge to the four READMEs](https://github.com/jason5ng32/MyIP/issues/408) — `jason5ng32/MyIP` (güncellendi: 2026-08-28)
-- [ ] [Fix missing gap between Install button and GitHub button in header toolbar](https://github.com/pradipNP/khelzon/issues/14) — `pradipNP/khelzon` (güncellendi: 2026-08-28)
-- [ ] [Leftover console.log](https://github.com/IskandarovFirdavs/oldindan-app/issues/10) — `IskandarovFirdavs/oldindan-app` (güncellendi: 2026-08-28)
+- [ ] [docs: add a troubleshooting guide for common local dev setup failures](https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block/issues/780) — `Soroban-Smart-Block-Explorer/Soroban-Smart-Block` (güncellendi: 2026-08-29)
+- [ ] [dx: document the contributor onboarding path end-to-end](https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block/issues/791) — `Soroban-Smart-Block-Explorer/Soroban-Smart-Block` (güncellendi: 2026-08-29)
+- [ ] [BONUS: Ability to delete an earlier message+reply combo earlier in the conversation](https://github.com/AllYourBot/hostedgpt/issues/28) — `AllYourBot/hostedgpt` (güncellendi: 2026-08-29)
+- [ ] [Get chrome driver/system tests working in docker compose](https://github.com/AllYourBot/hostedgpt/issues/137) — `AllYourBot/hostedgpt` (güncellendi: 2026-08-29)
+- [ ] [Better handling of super large images](https://github.com/AllYourBot/hostedgpt/issues/142) — `AllYourBot/hostedgpt` (güncellendi: 2026-08-29)
+- [ ] [[ENHANCEMENT] Add tooltip explanations to DORA metrics scores](https://github.com/eshaanag/CommitIQ/issues/365) — `eshaanag/CommitIQ` (güncellendi: 2026-08-29)
+- [ ] [[UI] Standardize button border-radius across the application](https://github.com/eshaanag/CommitIQ/issues/366) — `eshaanag/CommitIQ` (güncellendi: 2026-08-29)
+- [ ] [Better icon library](https://github.com/AllYourBot/hostedgpt/issues/287) — `AllYourBot/hostedgpt` (güncellendi: 2026-08-29)
 
 ## Typescript
 
