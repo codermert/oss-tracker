@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-02 10:09 UTC_
+_Son güncelleme: 2026-09-03 10:21 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Inconsistency in link settings terminology](https://github.com/suitenumerique/docs/issues/2612) — `suitenumerique/docs` (güncellendi: 2026-09-02)
-- [ ] [Skill chips are 23.5 px tall, under the WCAG 2.2 minimum tap target of 24x24](https://github.com/codelab69/Resume_Analyzer/issues/2) — `codelab69/Resume_Analyzer` (güncellendi: 2026-09-02)
-- [ ] [Add $heap(offset) convenience function](https://github.com/pwndbg/pwndbg/issues/2849) — `pwndbg/pwndbg` (güncellendi: 2026-09-02)
-- [ ] [Add Dropbox source adapter to ingest_source](https://github.com/IBM/docling-pipelines/issues/24) — `IBM/docling-pipelines` (güncellendi: 2026-09-02)
-- [ ] [The canonical event-type catalogue is a schema-validated data file; ingest maps through it, never by string comparison in code](https://github.com/sipyourdrink-ltd/bernstein/issues/5132) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-09-02)
-- [ ] [Inventory and report reads are freshness-gated: older than the TTL triggers the producer and waits for a terminal state](https://github.com/sipyourdrink-ltd/bernstein/issues/5130) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-09-02)
-- [ ] [Batch runs: a per-item checkpoint ledger gives crash-safe resume, and the daily cap is derived from the ledger](https://github.com/sipyourdrink-ltd/bernstein/issues/5126) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-09-02)
-- [ ] [Derived classification facts come from declared maps, record the rule that produced them, and are `unknown` when no rule matches](https://github.com/sipyourdrink-ltd/bernstein/issues/5121) — `sipyourdrink-ltd/bernstein` (güncellendi: 2026-09-02)
+- [ ] [[Enhancement]: Counting react trophy on highscore and 💯 on each 100 multiple](https://github.com/TheCodeVerseHub/Eigen-Bot/issues/24) — `TheCodeVerseHub/Eigen-Bot` (güncellendi: 2026-09-03)
+- [ ] [[ENH] ensure that all estimators have two test parameter sets](https://github.com/sktime/sktime/issues/3429) — `sktime/sktime` (güncellendi: 2026-09-03)
+- [ ] [Forward hook config to `OpenSearchServerlessCollectionActiveTrigger`](https://github.com/apache/airflow/issues/72280) — `apache/airflow` (güncellendi: 2026-09-03)
+- [ ] [Export a conversation as a Markdown file](https://github.com/erudi-app/erudi/issues/430) — `erudi-app/erudi` (güncellendi: 2026-09-03)
+- [ ] [Search across conversation history](https://github.com/erudi-app/erudi/issues/429) — `erudi-app/erudi` (güncellendi: 2026-09-03)
+- [ ] [Ephemeral chats: a conversation that is never saved](https://github.com/erudi-app/erudi/issues/428) — `erudi-app/erudi` (güncellendi: 2026-09-03)
+- [ ] [skill: Spring Boot](https://github.com/Aarvion-AI/stackwise-skills/issues/5) — `Aarvion-AI/stackwise-skills` (güncellendi: 2026-09-03)
+- [ ] [Implement monitoring control via .env](https://github.com/nestthub/v2hub-api/issues/23) — `nestthub/v2hub-api` (güncellendi: 2026-09-03)
 
 ## Javascript
 
