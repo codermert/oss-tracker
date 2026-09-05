@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-04 10:08 UTC_
+_Son güncelleme: 2026-09-05 09:37 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [research(digital-human): evaluate provider API and adapter fit](https://github.com/CaiusLuo/liuliangchuhai/issues/21) — `CaiusLuo/liuliangchuhai` (güncellendi: 2026-09-04)
-- [ ] [[Help wanted] Windows Login Authentication Failure](https://github.com/pinacus/Gamico-Claim/issues/1) — `pinacus/Gamico-Claim` (güncellendi: 2026-09-04)
-- [ ] [Support text-emphasis](https://github.com/Kozea/WeasyPrint/issues/2024) — `Kozea/WeasyPrint` (güncellendi: 2026-09-04)
-- [ ] [[Feature] Add separate GUI popup for RAWG API Key setup](https://github.com/pinacus/Gamico-Claim/issues/2) — `pinacus/Gamico-Claim` (güncellendi: 2026-09-04)
-- [ ] [Evaluation script missing](https://github.com/suvasish114/Hinglish-LID-and-Sentiment-Analysis/issues/1) — `suvasish114/Hinglish-LID-and-Sentiment-Analysis` (güncellendi: 2026-09-04)
-- [ ] [[ENH] YingLong forecasting foundation models](https://github.com/sktime/sktime/issues/10994) — `sktime/sktime` (güncellendi: 2026-09-04)
-- [ ] [Feedback wanted: real-world agent-config regressions](https://github.com/LE0-Lin/AgentConfigScore/issues/8) — `LE0-Lin/AgentConfigScore` (güncellendi: 2026-09-04)
-- [ ] [FEAT: Add Garak latent injection scenario](https://github.com/microsoft/PyRIT/issues/2530) — `microsoft/PyRIT` (güncellendi: 2026-09-04)
+- [ ] [chatml / audio / video converters silently keep a non-dict message instead of dropping the row](https://github.com/MakazhanAlpamys/Soup/issues/676) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-05)
+- [ ] [S-05 [仕上げ] Cabinの電装室・接合・目座が確定した部品を組む](https://github.com/hapx2yuki/Tachikoma/issues/64) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
+- [ ] [P-02 [運営] 印刷済みパーツの棚卸し・検品・ラベリング (旧 rev 混入チェック)](https://github.com/hapx2yuki/Tachikoma/issues/12) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
+- [ ] [P-01 [運営] 購入部品の棚卸し・検品 (BOM / shopping.md D-1 と照合)](https://github.com/hapx2yuki/Tachikoma/issues/11) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
+- [ ] [[ENH] ensure that all estimators have two test parameter sets](https://github.com/sktime/sktime/issues/3429) — `sktime/sktime` (güncellendi: 2026-09-05)
+- [ ] [Reproduce the setup on another Apple Silicon Mac / 独立安装复现](https://github.com/YZune/harmattan-qemu/issues/1) — `YZune/harmattan-qemu` (güncellendi: 2026-09-05)
+- [ ] [docs: add more real-world example scripts](https://github.com/gorakhargosh/watchdog/issues/1190) — `gorakhargosh/watchdog` (güncellendi: 2026-09-05)
+- [ ] [[Need support]: Fix duplicated text in AGENTS.md first-time setup section](https://github.com/mloda-ai/mloda-plugin-template/issues/135) — `mloda-ai/mloda-plugin-template` (güncellendi: 2026-09-05)
 
 ## Javascript
 
