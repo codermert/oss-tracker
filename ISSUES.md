@@ -1,24 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-05 09:37 UTC_
+_Son güncelleme: 2026-09-06 09:53 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [chatml / audio / video converters silently keep a non-dict message instead of dropping the row](https://github.com/MakazhanAlpamys/Soup/issues/676) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-05)
-- [ ] [S-05 [仕上げ] Cabinの電装室・接合・目座が確定した部品を組む](https://github.com/hapx2yuki/Tachikoma/issues/64) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
-- [ ] [P-02 [運営] 印刷済みパーツの棚卸し・検品・ラベリング (旧 rev 混入チェック)](https://github.com/hapx2yuki/Tachikoma/issues/12) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
-- [ ] [P-01 [運営] 購入部品の棚卸し・検品 (BOM / shopping.md D-1 と照合)](https://github.com/hapx2yuki/Tachikoma/issues/11) — `hapx2yuki/Tachikoma` (güncellendi: 2026-09-05)
-- [ ] [[ENH] ensure that all estimators have two test parameter sets](https://github.com/sktime/sktime/issues/3429) — `sktime/sktime` (güncellendi: 2026-09-05)
-- [ ] [Reproduce the setup on another Apple Silicon Mac / 独立安装复现](https://github.com/YZune/harmattan-qemu/issues/1) — `YZune/harmattan-qemu` (güncellendi: 2026-09-05)
-- [ ] [docs: add more real-world example scripts](https://github.com/gorakhargosh/watchdog/issues/1190) — `gorakhargosh/watchdog` (güncellendi: 2026-09-05)
-- [ ] [[Need support]: Fix duplicated text in AGENTS.md first-time setup section](https://github.com/mloda-ai/mloda-plugin-template/issues/135) — `mloda-ai/mloda-plugin-template` (güncellendi: 2026-09-05)
+- [ ] [Auto-save every snip to a folder](https://github.com/felsenuboot/snip-pin/issues/82) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Optional sound effect on copy and save](https://github.com/felsenuboot/snip-pin/issues/88) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Print a pin (Ctrl+P)](https://github.com/felsenuboot/snip-pin/issues/85) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Default annotation tool preselected on a new pin](https://github.com/felsenuboot/snip-pin/issues/78) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Option to capture the mouse cursor](https://github.com/felsenuboot/snip-pin/issues/75) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Selection appearance from config: border width, border and mask colour](https://github.com/felsenuboot/snip-pin/issues/74) — `felsenuboot/snip-pin` (güncellendi: 2026-09-06)
+- [ ] [Verify HTML page reflects receipt fields unescaped (stored XSS)](https://github.com/AgentPostmortem/Answerproof/issues/11) — `AgentPostmortem/Answerproof` (güncellendi: 2026-09-06)
+- [ ] [Tracker: Add beginner-friendly documentation with MkDocs](https://github.com/pytorch-ignite/trainite/issues/156) — `pytorch-ignite/trainite` (güncellendi: 2026-09-06)
 
 ## Javascript
 
-_Şu an uygun issue bulunamadı._
+- [ ] [Code-split scenarios: production build is a single 1.9 MB JS chunk](https://github.com/b-gowland/ai-risk-training/issues/12) — `b-gowland/ai-risk-training` (güncellendi: 2026-09-06)
+- [ ] [🚀 Issue: Add an API Error Normalizer Utility](https://github.com/moizycodes/moizy-open-source-issues/issues/183) — `moizycodes/moizy-open-source-issues` (güncellendi: 2026-09-06)
+- [ ] [Add a --version CLI test](https://github.com/Kaap10/build-with-ai/issues/7) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
+- [ ] [Add a Node.js version to the CI matrix](https://github.com/Kaap10/build-with-ai/issues/21) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
+- [ ] [Test empty and completed workflows in resume](https://github.com/Kaap10/build-with-ai/issues/20) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
+- [ ] [Add a dry-run mode for export](https://github.com/Kaap10/build-with-ai/issues/19) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
+- [ ] [Document non-interactive JSON usage](https://github.com/Kaap10/build-with-ai/issues/18) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
+- [ ] [Add a Discord bot workflow template](https://github.com/Kaap10/build-with-ai/issues/17) — `Kaap10/build-with-ai` (güncellendi: 2026-09-06)
 
 ## Typescript
 
