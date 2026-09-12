@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-11 10:11 UTC_
+_Son güncelleme: 2026-09-12 09:45 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [[BOTTUBE: 1 RTC] Start a Discussion Thread Under a Video](https://github.com/Scottcjn/rustchain-bounties/issues/2796) — `Scottcjn/rustchain-bounties` (güncellendi: 2026-09-11)
-- [ ] [[BOTTUBE: 1 RTC] Upvote 10 Videos + Pick Your Favorite](https://github.com/Scottcjn/rustchain-bounties/issues/2792) — `Scottcjn/rustchain-bounties` (güncellendi: 2026-09-11)
-- [ ] [[BOTTUBE: 1 RTC] Leave Thoughtful Comments on 5 Videos](https://github.com/Scottcjn/rustchain-bounties/issues/2791) — `Scottcjn/rustchain-bounties` (güncellendi: 2026-09-11)
-- [ ] [test: `RFMTransformer(include_tenure=True)` is documented but never constructed in any test](https://github.com/PhilanthroPy-Project/PhilanthroPy/issues/150) — `PhilanthroPy-Project/PhilanthroPy` (güncellendi: 2026-09-11)
-- [ ] [[BOUNTY] Run a RustChain Miner on Real Hardware — Earn 25 RTC + Mining Rewards](https://github.com/Scottcjn/Rustchain/issues/7) — `Scottcjn/Rustchain` (güncellendi: 2026-09-11)
-- [ ] [Repositories static sitemap lastmod always uses current time instead of latest repository update](https://github.com/OWASP/Nest/issues/5259) — `OWASP/Nest` (güncellendi: 2026-09-11)
-- [ ] [Duplicate frontmatter keys: check the mapping, not the lines](https://github.com/dmarx/luria/issues/240) — `dmarx/luria` (güncellendi: 2026-09-11)
-- [ ] [Download group/supergroup chat photos](https://github.com/soxoj/telegram-bot-dumper/issues/35) — `soxoj/telegram-bot-dumper` (güncellendi: 2026-09-11)
+- [ ] [Add CLI argument parsing with argparse](https://github.com/IEEE-VIT/stock-price-predictor/issues/11) — `IEEE-VIT/stock-price-predictor` (güncellendi: 2026-09-12)
+- [ ] [request: Add Reusable Kind cluster creation CI action](https://github.com/kubeflow/testing/issues/1068) — `kubeflow/testing` (güncellendi: 2026-09-12)
+- [ ] [Improve path customization tests, `__dmr_converter_schema__` is never tested](https://github.com/wemake-services/django-modern-rest/issues/1440) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
+- [ ] [Support `SlugConverter` and `PathConverter` from Django in path parameters](https://github.com/wemake-services/django-modern-rest/issues/1441) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
+- [ ] [Add a one-line install (curl … | sh) so people don't need pip, poetry, or uv first](https://github.com/rxdt/loopgate_harness/issues/58) — `rxdt/loopgate_harness` (güncellendi: 2026-09-12)
+- [ ] [Improve `re_path` default parameter schema](https://github.com/wemake-services/django-modern-rest/issues/1439) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
+- [ ] [Move template-field validation/transformation out of operator __init__ (exemption-list burn-down)](https://github.com/apache/airflow/issues/70296) — `apache/airflow` (güncellendi: 2026-09-12)
+- [ ] [Add convenience factories for the PROV-DM agent subtypes (Person/Organization/SoftwareAgent) and EmptyCollection](https://github.com/trungdong/prov/issues/260) — `trungdong/prov` (güncellendi: 2026-09-12)
 
 ## Javascript
 
-- [ ] [Fill the empty state with the outlined wordmark](https://github.com/darshi1337/apogee/issues/243) — `darshi1337/apogee` (güncellendi: 2026-09-11)
-- [ ] [Confirm the API contract test still passes after the removal](https://github.com/vicharanashala/tenali/issues/228) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Drop the three stale vite proxy entries on main](https://github.com/vicharanashala/tenali/issues/226) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Fold Guess the Number into its parent topic (bases - it is a binary trick)](https://github.com/vicharanashala/tenali/issues/210) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Fold Idli Vada Sambhar and The Car Journey into their parent topics](https://github.com/vicharanashala/tenali/issues/208) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Fold Comic Addition into Addition](https://github.com/vicharanashala/tenali/issues/207) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Fix the contradictory puzzle counts in the README](https://github.com/vicharanashala/tenali/issues/231) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
-- [ ] [Remove or implement the null trackProgress mode](https://github.com/vicharanashala/tenali/issues/219) — `vicharanashala/tenali` (güncellendi: 2026-09-11)
+- [ ] [make Navbar responsive for smaller screens](https://github.com/akshita568/silentStrokes/issues/13) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
+- [ ] [documentation: Improve README](https://github.com/akshita568/silentStrokes/issues/14) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
+- [ ] [Add a dry-run mode for export](https://github.com/PicadoLabs/build-with-ai/issues/19) — `PicadoLabs/build-with-ai` (güncellendi: 2026-09-12)
+- [ ] [UI/UX Improvement: Help Reduce Negative Space and Enhance the Overall Experience](https://github.com/akshita568/silentStrokes/issues/12) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
+- [ ] [Make the console usable on smaller screens](https://github.com/Wvdstoep/ghost-browser/issues/3) — `Wvdstoep/ghost-browser` (güncellendi: 2026-09-12)
+- [ ] [Console live view renders black on static pages](https://github.com/Wvdstoep/ghost-browser/issues/1) — `Wvdstoep/ghost-browser` (güncellendi: 2026-09-12)
+- [ ] [Fine-tune Mobile Visual Layout and Responsiveness](https://github.com/akshita568/silentStrokes/issues/11) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
+- [ ] [Wire BKT into lil/masteryEngine so mastery is actually computed and persisted](https://github.com/vicharanashala/tenali/issues/289) — `vicharanashala/tenali` (güncellendi: 2026-09-12)
 
 ## Typescript
 
