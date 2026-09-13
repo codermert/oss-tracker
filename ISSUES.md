@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-12 09:45 UTC_
+_Son güncelleme: 2026-09-13 10:46 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Add CLI argument parsing with argparse](https://github.com/IEEE-VIT/stock-price-predictor/issues/11) — `IEEE-VIT/stock-price-predictor` (güncellendi: 2026-09-12)
-- [ ] [request: Add Reusable Kind cluster creation CI action](https://github.com/kubeflow/testing/issues/1068) — `kubeflow/testing` (güncellendi: 2026-09-12)
-- [ ] [Improve path customization tests, `__dmr_converter_schema__` is never tested](https://github.com/wemake-services/django-modern-rest/issues/1440) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
-- [ ] [Support `SlugConverter` and `PathConverter` from Django in path parameters](https://github.com/wemake-services/django-modern-rest/issues/1441) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
-- [ ] [Add a one-line install (curl … | sh) so people don't need pip, poetry, or uv first](https://github.com/rxdt/loopgate_harness/issues/58) — `rxdt/loopgate_harness` (güncellendi: 2026-09-12)
-- [ ] [Improve `re_path` default parameter schema](https://github.com/wemake-services/django-modern-rest/issues/1439) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-12)
-- [ ] [Move template-field validation/transformation out of operator __init__ (exemption-list burn-down)](https://github.com/apache/airflow/issues/70296) — `apache/airflow` (güncellendi: 2026-09-12)
-- [ ] [Add convenience factories for the PROV-DM agent subtypes (Person/Organization/SoftwareAgent) and EmptyCollection](https://github.com/trungdong/prov/issues/260) — `trungdong/prov` (güncellendi: 2026-09-12)
+- [ ] [Change how we work with `FileMetadata` validation](https://github.com/wemake-services/django-modern-rest/issues/1493) — `wemake-services/django-modern-rest` (güncellendi: 2026-09-13)
+- [ ] [feat(adapter/goose): Block's Goose agentic CLI skill runtime](https://github.com/apache/magpie/issues/319) — `apache/magpie` (güncellendi: 2026-09-13)
+- [ ] [新手任务：为轻量关键词检索补充可复现测试](https://github.com/shengjidaguai-china/xiaoguan/issues/5) — `shengjidaguai-china/xiaoguan` (güncellendi: 2026-09-13)
+- [ ] [[Feature Request]: Migrate acceptance tests for logged-in-user from Puppeteer to Playwright](https://github.com/oppia/oppia/issues/26832) — `oppia/oppia` (güncellendi: 2026-09-13)
+- [ ] [Implement the user input and image display](https://github.com/IEEE-VIT/SourceSprint_ML/issues/8) — `IEEE-VIT/SourceSprint_ML` (güncellendi: 2026-09-13)
+- [ ] [ci: run the desktop app's unit tests in PR CI](https://github.com/lihor-hub/news-dashboard/issues/1321) — `lihor-hub/news-dashboard` (güncellendi: 2026-09-13)
+- [ ] [docs: add a Helm chart README and install NOTES.txt](https://github.com/lihor-hub/news-dashboard/issues/1320) — `lihor-hub/news-dashboard` (güncellendi: 2026-09-13)
+- [ ] [[Feature Request]: Migrate acceptance tests for exploration-creator from Puppeteer to Playwright](https://github.com/oppia/oppia/issues/26799) — `oppia/oppia` (güncellendi: 2026-09-13)
 
 ## Javascript
 
-- [ ] [make Navbar responsive for smaller screens](https://github.com/akshita568/silentStrokes/issues/13) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
-- [ ] [documentation: Improve README](https://github.com/akshita568/silentStrokes/issues/14) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
-- [ ] [Add a dry-run mode for export](https://github.com/PicadoLabs/build-with-ai/issues/19) — `PicadoLabs/build-with-ai` (güncellendi: 2026-09-12)
-- [ ] [UI/UX Improvement: Help Reduce Negative Space and Enhance the Overall Experience](https://github.com/akshita568/silentStrokes/issues/12) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
-- [ ] [Make the console usable on smaller screens](https://github.com/Wvdstoep/ghost-browser/issues/3) — `Wvdstoep/ghost-browser` (güncellendi: 2026-09-12)
-- [ ] [Console live view renders black on static pages](https://github.com/Wvdstoep/ghost-browser/issues/1) — `Wvdstoep/ghost-browser` (güncellendi: 2026-09-12)
-- [ ] [Fine-tune Mobile Visual Layout and Responsiveness](https://github.com/akshita568/silentStrokes/issues/11) — `akshita568/silentStrokes` (güncellendi: 2026-09-12)
-- [ ] [Wire BKT into lil/masteryEngine so mastery is actually computed and persisted](https://github.com/vicharanashala/tenali/issues/289) — `vicharanashala/tenali` (güncellendi: 2026-09-12)
+- [ ] [Feature Request: Update Snippet Card Buttons to Outlined Style with Color-Coded Hovers](https://github.com/IEEE-VIT/code-block/issues/15) — `IEEE-VIT/code-block` (güncellendi: 2026-09-13)
+- [ ] [reviewer export --file should normalize the path before matching](https://github.com/dheerajjha/reviewer/issues/14) — `dheerajjha/reviewer` (güncellendi: 2026-09-13)
+- [ ] [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167) — `codeaashu/DevDisplay` (güncellendi: 2026-09-13)
+- [ ] [Align contributor setup and testing docs with the current toolchain](https://github.com/chrisriv10/Soterios/issues/127) — `chrisriv10/Soterios` (güncellendi: 2026-09-13)
+- [ ] [Image URL validation rejects valid URLs with query strings, including the app's own seed images](https://github.com/jhoang304/Bobabnb/issues/27) — `jhoang304/Bobabnb` (güncellendi: 2026-09-13)
+- [ ] [[Bug] The "Result" header shown on duality/attack roll chat cards is not translatable.](https://github.com/Foundryborne/daggerheart/issues/2364) — `Foundryborne/daggerheart` (güncellendi: 2026-09-13)
+- [ ] [feat(scan): domain-level aggregator repost list, complementing the SimHash cross-listing warning](https://github.com/career-ops-hq/career-ops/issues/3577) — `career-ops-hq/career-ops` (güncellendi: 2026-09-13)
+- [ ] [安装脚本支持 --dry-run 与 --uninstall](https://github.com/wwwangzilin/dsh-character-presets/issues/11) — `wwwangzilin/dsh-character-presets` (güncellendi: 2026-09-13)
 
 ## Typescript
 
