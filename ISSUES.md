@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-15 10:39 UTC_
+_Son güncelleme: 2026-09-16 10:28 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [[EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI](https://github.com/Scottcjn/rustchain-bounties/issues/1618) — `Scottcjn/rustchain-bounties` (güncellendi: 2026-09-15)
-- [ ] [log_level is read from config but logging is never configured](https://github.com/taha-kms/CLASSMATE-RAG/issues/17) — `taha-kms/CLASSMATE-RAG` (güncellendi: 2026-09-15)
-- [ ] [feat: mark SBOM from `requirements` as "incomplete"](https://github.com/CycloneDX/cyclonedx-python/issues/898) — `CycloneDX/cyclonedx-python` (güncellendi: 2026-09-15)
-- [ ] [pytest and pytest-cov are in the runtime requirements](https://github.com/taha-kms/CLASSMATE-RAG/issues/5) — `taha-kms/CLASSMATE-RAG` (güncellendi: 2026-09-15)
-- [ ] [No linter or formatter configured](https://github.com/taha-kms/CLASSMATE-RAG/issues/8) — `taha-kms/CLASSMATE-RAG` (güncellendi: 2026-09-15)
-- [ ] [Leftover citation markers in pipeline docstrings](https://github.com/taha-kms/CLASSMATE-RAG/issues/4) — `taha-kms/CLASSMATE-RAG` (güncellendi: 2026-09-15)
-- [ ] [Switch to `mitmproxy` for proxy tests](https://github.com/Qiskit/qiskit-ibm-runtime/issues/3003) — `Qiskit/qiskit-ibm-runtime` (güncellendi: 2026-09-15)
-- [ ] [`computer` tool: `coordinate` description names 2 actions; 9 require it and 2 more act on it](https://github.com/UKGovernmentBEIS/inspect_ai/issues/5386) — `UKGovernmentBEIS/inspect_ai` (güncellendi: 2026-09-15)
+- [ ] [Replace aragorn par pyaragorn](https://github.com/labgem/PPanGGOLiN/issues/401) — `labgem/PPanGGOLiN` (güncellendi: 2026-09-16)
+- [ ] [A bare "$" is assumed to be USD, so Canadian and Australian bands are mislabelled](https://github.com/dheerajjha/blind-mcp/issues/17) — `dheerajjha/blind-mcp` (güncellendi: 2026-09-16)
+- [ ] [Workday tenants are only found under the company name, so Intuit and Dell are unreachable](https://github.com/dheerajjha/blind-mcp/issues/18) — `dheerajjha/blind-mcp` (güncellendi: 2026-09-16)
+- [ ] [sorts: make algorithms sort any comparable items, not just ints](https://github.com/TheAlgorithms/Python/issues/15234) — `TheAlgorithms/Python` (güncellendi: 2026-09-16)
+- [ ] [Test the 404 and metrics labels for unknown routes](https://github.com/Sudo-oy/devops-portfolio/issues/7) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
+- [ ] [Add a GitLab CI version of the pipeline](https://github.com/Sudo-oy/devops-portfolio/issues/6) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
+- [ ] [Add a `ServiceMonitor` for the Prometheus Operator](https://github.com/Sudo-oy/devops-portfolio/issues/5) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
+- [ ] [Deploy the manifests to kind in CI](https://github.com/Sudo-oy/devops-portfolio/issues/4) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
 
 ## Javascript
 
-- [ ] [good first issue: densify remaining 3 port↔city stacks (Obskaya/Chevak/Steensby)](https://github.com/International-Arctic/Arctic-Trade-Lanes/issues/32) — `International-Arctic/Arctic-Trade-Lanes` (güncellendi: 2026-09-15)
-- [ ] [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227) — `open-telemetry/opentelemetry.io` (güncellendi: 2026-09-15)
-- [ ] [🚀 Issue: Add an API Error Normalizer Utility](https://github.com/moizycodes/moizy-open-source-issues/issues/183) — `moizycodes/moizy-open-source-issues` (güncellendi: 2026-09-15)
-- [ ] [🛡️ Issue: Add an HTTP Security Headers Checker](https://github.com/moizycodes/moizy-open-source-issues/issues/185) — `moizycodes/moizy-open-source-issues` (güncellendi: 2026-09-15)
-- [ ] [Good first issue: Add a cross-browser accessibility smoke-check guide](https://github.com/zubin-li/life-ledger-deep-review/issues/6) — `zubin-li/life-ledger-deep-review` (güncellendi: 2026-09-15)
-- [ ] [Auto-fill /online sermon passage from the published sermon notes](https://github.com/hmcc-global/hmcchk-web/issues/1436) — `hmcc-global/hmcchk-web` (güncellendi: 2026-09-15)
-- [ ] [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167) — `codeaashu/DevDisplay` (güncellendi: 2026-09-15)
-- [ ] [Add MongoDB reconnection logic on connection drop 🔄](https://github.com/anoopcodehack/DevBoard/issues/523) — `anoopcodehack/DevBoard` (güncellendi: 2026-09-15)
+- [ ] [altis-cli --help / --version should work without configuration](https://github.com/humanmade/altis-cli/issues/47) — `humanmade/altis-cli` (güncellendi: 2026-09-16)
+- [ ] [External Link Check Report](https://github.com/microcks/microcks.io/issues/584) — `microcks/microcks.io` (güncellendi: 2026-09-16)
+- [ ] [good first issue: densify remaining 2 port↔city stacks (Obskaya/Chevak)](https://github.com/International-Arctic/Arctic-Trade-Lanes/issues/32) — `International-Arctic/Arctic-Trade-Lanes` (güncellendi: 2026-09-16)
+- [ ] [[Docs] Wave maintainer checklist in CONTRIBUTING](https://github.com/CemAyyildiz/helios-lab/issues/10) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
+- [ ] [[Feature] Memo types (text / id / hash)](https://github.com/CemAyyildiz/helios-lab/issues/6) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
+- [ ] [[Feature] Account info panel (sequence, subentries)](https://github.com/CemAyyildiz/helios-lab/issues/5) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
+- [ ] [[Feature] Remove trustline (limit 0)](https://github.com/CemAyyildiz/helios-lab/issues/3) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
+- [ ] [[Feature] Path payment on Testnet](https://github.com/CemAyyildiz/helios-lab/issues/1) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
 
 ## Typescript
 
