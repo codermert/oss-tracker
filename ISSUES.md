@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-16 10:28 UTC_
+_Son güncelleme: 2026-09-17 10:37 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Replace aragorn par pyaragorn](https://github.com/labgem/PPanGGOLiN/issues/401) — `labgem/PPanGGOLiN` (güncellendi: 2026-09-16)
-- [ ] [A bare "$" is assumed to be USD, so Canadian and Australian bands are mislabelled](https://github.com/dheerajjha/blind-mcp/issues/17) — `dheerajjha/blind-mcp` (güncellendi: 2026-09-16)
-- [ ] [Workday tenants are only found under the company name, so Intuit and Dell are unreachable](https://github.com/dheerajjha/blind-mcp/issues/18) — `dheerajjha/blind-mcp` (güncellendi: 2026-09-16)
-- [ ] [sorts: make algorithms sort any comparable items, not just ints](https://github.com/TheAlgorithms/Python/issues/15234) — `TheAlgorithms/Python` (güncellendi: 2026-09-16)
-- [ ] [Test the 404 and metrics labels for unknown routes](https://github.com/Sudo-oy/devops-portfolio/issues/7) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
-- [ ] [Add a GitLab CI version of the pipeline](https://github.com/Sudo-oy/devops-portfolio/issues/6) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
-- [ ] [Add a `ServiceMonitor` for the Prometheus Operator](https://github.com/Sudo-oy/devops-portfolio/issues/5) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
-- [ ] [Deploy the manifests to kind in CI](https://github.com/Sudo-oy/devops-portfolio/issues/4) — `Sudo-oy/devops-portfolio` (güncellendi: 2026-09-16)
+- [ ] [bug: repo sync overview broken](https://github.com/eclipse-score/.github/issues/101) — `eclipse-score/.github` (güncellendi: 2026-09-17)
+- [ ] [Document that pyproject.toml support covers all PEP 621 backends (uv, hatchling, flit, PDM), not just setuptools and poetry](https://github.com/Materials-Data-Science-and-Informatics/somesy/issues/140) — `Materials-Data-Science-and-Informatics/somesy` (güncellendi: 2026-09-17)
+- [ ] [[Help wanted] Add one adversarial test for the evolving-session keep gate](https://github.com/jaden3824/urusilla/issues/9) — `jaden3824/urusilla` (güncellendi: 2026-09-17)
+- [ ] [Add a worked-example page to the documentation site](https://github.com/sulcantonin/torchmodal/issues/9) — `sulcantonin/torchmodal` (güncellendi: 2026-09-17)
+- [ ] [GET on /api/v1/apps/<id> returns 500 instead of 405](https://github.com/nextcloud/appstore/issues/1896) — `nextcloud/appstore` (güncellendi: 2026-09-17)
+- [ ] [Update and Improve README Documentation](https://github.com/Shahrayar123/Python-Projects/issues/331) — `Shahrayar123/Python-Projects` (güncellendi: 2026-09-17)
+- [ ] [docs: make 100% coverage and local gate workflow explicit](https://github.com/rxdt/loopgate_harness/issues/70) — `rxdt/loopgate_harness` (güncellendi: 2026-09-17)
+- [ ] [[TODO] Improve towncrier check to support postfix number and extra suffices](https://github.com/sanitizers/chronographer-github-app/issues/4) — `sanitizers/chronographer-github-app` (güncellendi: 2026-09-17)
 
 ## Javascript
 
-- [ ] [altis-cli --help / --version should work without configuration](https://github.com/humanmade/altis-cli/issues/47) — `humanmade/altis-cli` (güncellendi: 2026-09-16)
-- [ ] [External Link Check Report](https://github.com/microcks/microcks.io/issues/584) — `microcks/microcks.io` (güncellendi: 2026-09-16)
-- [ ] [good first issue: densify remaining 2 port↔city stacks (Obskaya/Chevak)](https://github.com/International-Arctic/Arctic-Trade-Lanes/issues/32) — `International-Arctic/Arctic-Trade-Lanes` (güncellendi: 2026-09-16)
-- [ ] [[Docs] Wave maintainer checklist in CONTRIBUTING](https://github.com/CemAyyildiz/helios-lab/issues/10) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
-- [ ] [[Feature] Memo types (text / id / hash)](https://github.com/CemAyyildiz/helios-lab/issues/6) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
-- [ ] [[Feature] Account info panel (sequence, subentries)](https://github.com/CemAyyildiz/helios-lab/issues/5) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
-- [ ] [[Feature] Remove trustline (limit 0)](https://github.com/CemAyyildiz/helios-lab/issues/3) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
-- [ ] [[Feature] Path payment on Testnet](https://github.com/CemAyyildiz/helios-lab/issues/1) — `CemAyyildiz/helios-lab` (güncellendi: 2026-09-16)
+- [ ] [Add a README to the hello-world plugin explaining how to write a plugin](https://github.com/Venari-Hunt/Noctivago/issues/43) — `Venari-Hunt/Noctivago` (güncellendi: 2026-09-17)
+- [ ] [Add domain-age + typosquat check to inspect_claim](https://github.com/urelkdubdqwr/signalshield/issues/1) — `urelkdubdqwr/signalshield` (güncellendi: 2026-09-17)
+- [ ] [Toogle Light Dark](https://github.com/AlcalaAaron/claude-tetris/issues/7) — `AlcalaAaron/claude-tetris` (güncellendi: 2026-09-17)
+- [ ] [[Bug]: dhbd](https://github.com/MTCodes01/GtiHub-Trial-Repo/issues/11) — `MTCodes01/GtiHub-Trial-Repo` (güncellendi: 2026-09-17)
+- [ ] [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176) — `stdlib-js/stdlib` (güncellendi: 2026-09-17)
+- [ ] [Contract: document the behaviour and failure modes of `__constructor` (registry contract)](https://github.com/Stellar-Ecosystem/lodestar/issues/725) — `Stellar-Ecosystem/lodestar` (güncellendi: 2026-09-17)
+- [ ] [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167) — `codeaashu/DevDisplay` (güncellendi: 2026-09-17)
+- [ ] [Renamed files are listed as `old => new` in lastCommit mode, so they open to an empty diff and never get reviewed](https://github.com/dheerajjha/reviewer/issues/25) — `dheerajjha/reviewer` (güncellendi: 2026-09-17)
 
 ## Typescript
 
