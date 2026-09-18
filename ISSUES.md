@@ -1,31 +1,24 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-17 10:37 UTC_
+_Son güncelleme: 2026-09-18 10:13 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [bug: repo sync overview broken](https://github.com/eclipse-score/.github/issues/101) — `eclipse-score/.github` (güncellendi: 2026-09-17)
-- [ ] [Document that pyproject.toml support covers all PEP 621 backends (uv, hatchling, flit, PDM), not just setuptools and poetry](https://github.com/Materials-Data-Science-and-Informatics/somesy/issues/140) — `Materials-Data-Science-and-Informatics/somesy` (güncellendi: 2026-09-17)
-- [ ] [[Help wanted] Add one adversarial test for the evolving-session keep gate](https://github.com/jaden3824/urusilla/issues/9) — `jaden3824/urusilla` (güncellendi: 2026-09-17)
-- [ ] [Add a worked-example page to the documentation site](https://github.com/sulcantonin/torchmodal/issues/9) — `sulcantonin/torchmodal` (güncellendi: 2026-09-17)
-- [ ] [GET on /api/v1/apps/<id> returns 500 instead of 405](https://github.com/nextcloud/appstore/issues/1896) — `nextcloud/appstore` (güncellendi: 2026-09-17)
-- [ ] [Update and Improve README Documentation](https://github.com/Shahrayar123/Python-Projects/issues/331) — `Shahrayar123/Python-Projects` (güncellendi: 2026-09-17)
-- [ ] [docs: make 100% coverage and local gate workflow explicit](https://github.com/rxdt/loopgate_harness/issues/70) — `rxdt/loopgate_harness` (güncellendi: 2026-09-17)
-- [ ] [[TODO] Improve towncrier check to support postfix number and extra suffices](https://github.com/sanitizers/chronographer-github-app/issues/4) — `sanitizers/chronographer-github-app` (güncellendi: 2026-09-17)
+- [ ] [agreement.py: also score second_annotation spans embedded in LLM-drafted questions](https://github.com/RizgarOzan/turkish-rag-eval/issues/15) — `RizgarOzan/turkish-rag-eval` (güncellendi: 2026-09-18)
+- [ ] [Define where plugin/device docs live — root docs/ vs co-located plugins/<name>/docs/](https://github.com/madeinoz67/benchweave/issues/49) — `madeinoz67/benchweave` (güncellendi: 2026-09-18)
+- [ ] [Report Apache Section 4 notices separately](https://github.com/aboutcode-org/scancode-toolkit/issues/2708) — `aboutcode-org/scancode-toolkit` (güncellendi: 2026-09-18)
+- [ ] [card(html): print-friendly stylesheet](https://github.com/kunko-ai-labs/agent-assurance/issues/26) — `kunko-ai-labs/agent-assurance` (güncellendi: 2026-09-18)
+- [ ] [cli(validate): validate a policy file (--policy)](https://github.com/kunko-ai-labs/agent-assurance/issues/25) — `kunko-ai-labs/agent-assurance` (güncellendi: 2026-09-18)
+- [ ] [scan(claude-code): extend the read-only shell command list](https://github.com/kunko-ai-labs/agent-assurance/issues/24) — `kunko-ai-labs/agent-assurance` (güncellendi: 2026-09-18)
+- [ ] [catalog: add Supabase, Firecrawl, Tavily, Exa and Cloudflare MCP servers](https://github.com/kunko-ai-labs/agent-assurance/issues/23) — `kunko-ai-labs/agent-assurance` (güncellendi: 2026-09-18)
+- [ ] [Handle repositories with no commits](https://github.com/alibro005/beforepush/issues/4) — `alibro005/beforepush` (güncellendi: 2026-09-18)
 
 ## Javascript
 
-- [ ] [Add a README to the hello-world plugin explaining how to write a plugin](https://github.com/Venari-Hunt/Noctivago/issues/43) — `Venari-Hunt/Noctivago` (güncellendi: 2026-09-17)
-- [ ] [Add domain-age + typosquat check to inspect_claim](https://github.com/urelkdubdqwr/signalshield/issues/1) — `urelkdubdqwr/signalshield` (güncellendi: 2026-09-17)
-- [ ] [Toogle Light Dark](https://github.com/AlcalaAaron/claude-tetris/issues/7) — `AlcalaAaron/claude-tetris` (güncellendi: 2026-09-17)
-- [ ] [[Bug]: dhbd](https://github.com/MTCodes01/GtiHub-Trial-Repo/issues/11) — `MTCodes01/GtiHub-Trial-Repo` (güncellendi: 2026-09-17)
-- [ ] [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176) — `stdlib-js/stdlib` (güncellendi: 2026-09-17)
-- [ ] [Contract: document the behaviour and failure modes of `__constructor` (registry contract)](https://github.com/Stellar-Ecosystem/lodestar/issues/725) — `Stellar-Ecosystem/lodestar` (güncellendi: 2026-09-17)
-- [ ] [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167) — `codeaashu/DevDisplay` (güncellendi: 2026-09-17)
-- [ ] [Renamed files are listed as `old => new` in lastCommit mode, so they open to an empty diff and never get reviewed](https://github.com/dheerajjha/reviewer/issues/25) — `dheerajjha/reviewer` (güncellendi: 2026-09-17)
+_Şu an uygun issue bulunamadı._
 
 ## Typescript
 
