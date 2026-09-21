@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-20 10:16 UTC_
+_Son güncelleme: 2026-09-21 11:23 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Document the fixture reset script](https://github.com/TheDancingDeveloper-org/vogt-fixture/issues/8) — `TheDancingDeveloper-org/vogt-fixture` (güncellendi: 2026-09-20)
-- [ ] [[BUG] Missing focus-visible styles and no prefers-reduced-motion support](https://github.com/andrewthetechie/jelly-swipe/issues/353) — `andrewthetechie/jelly-swipe` (güncellendi: 2026-09-20)
-- [ ] [feat: set custom User-Agent header for GitHub API requests](https://github.com/yunaremaia/aipr/issues/96) — `yunaremaia/aipr` (güncellendi: 2026-09-20)
-- [ ] [Feature: Support for EPICS NTTable](https://github.com/python-accelerator-middle-layer/pyaml/issues/269) — `python-accelerator-middle-layer/pyaml` (güncellendi: 2026-09-20)
-- [ ] [similar-issue: max_issues_to_scan indexes one issue fewer than set](https://github.com/The-PR-Agent/pr-agent/issues/3538) — `The-PR-Agent/pr-agent` (güncellendi: 2026-09-20)
-- [ ] [[BUG] fix `CutoffFhSplitter` failures and/or adapt splitter tests](https://github.com/sktime/sktime/issues/11202) — `sktime/sktime` (güncellendi: 2026-09-20)
-- [ ] [feat: make parallel read timeouts configurable via .driftcheck.toml](https://github.com/yunaremaia/driftcheck/issues/238) — `yunaremaia/driftcheck` (güncellendi: 2026-09-20)
-- [ ] [Toolsets with AuthType.NONE are never treated as authenticated](https://github.com/pipeshub-ai/pipeshub-ai/issues/3065) — `pipeshub-ai/pipeshub-ai` (güncellendi: 2026-09-20)
+- [ ] [Publish to PyPI](https://github.com/raphgm/cloudcost-cli/issues/4) — `raphgm/cloudcost-cli` (güncellendi: 2026-09-21)
+- [ ] [Add GCP FinOps checks](https://github.com/raphgm/cloudcost-cli/issues/2) — `raphgm/cloudcost-cli` (güncellendi: 2026-09-21)
+- [ ] [Add AWS FinOps checks to match Azure coverage](https://github.com/raphgm/cloudcost-cli/issues/1) — `raphgm/cloudcost-cli` (güncellendi: 2026-09-21)
+- [ ] [[Feature Request]: Migrate acceptance tests for translation-coordinator from Puppeteer to Playwright](https://github.com/oppia/oppia/issues/26840) — `oppia/oppia` (güncellendi: 2026-09-21)
+- [ ] [bug: context_builder extracts 'async' instead of function name for TS/JS — wrong regex capture group](https://github.com/yunaremaia/ci-test-gate/issues/81) — `yunaremaia/ci-test-gate` (güncellendi: 2026-09-21)
+- [ ] [Weight Change in Dashboard is Incorrect](https://github.com/babybuddy/babybuddy/issues/587) — `babybuddy/babybuddy` (güncellendi: 2026-09-21)
+- [ ] [docs: add agent-playbook.md to the mkdocs nav](https://github.com/yeongseon/azure-functions-openapi-python/issues/588) — `yeongseon/azure-functions-openapi-python` (güncellendi: 2026-09-21)
+- [ ] [feat(frontend): map backend errors to actionable UI](https://github.com/harpocrates-stellar/main/issues/303) — `harpocrates-stellar/main` (güncellendi: 2026-09-21)
 
 ## Javascript
 
