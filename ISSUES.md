@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-22 10:32 UTC_
+_Son güncelleme: 2026-09-23 10:26 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Independent proof: a target that doesn't advertise its own bugs](https://github.com/kulchankas/paranoid/issues/16) — `kulchankas/paranoid` (güncellendi: 2026-09-22)
-- [ ] [Benchmark: add a multi-file app task, where the bug is in the wiring](https://github.com/kulchankas/paranoid/issues/15) — `kulchankas/paranoid` (güncellendi: 2026-09-22)
-- [ ] [leads: UI follow-ups from the #476 review](https://github.com/dentalpin/dentalpin/issues/500) — `dentalpin/dentalpin` (güncellendi: 2026-09-22)
-- [ ] [A stored null makes a key unreadable and undeletable, and delete() mutates before raising](https://github.com/danieldeer/seriousdb/issues/275) — `danieldeer/seriousdb` (güncellendi: 2026-09-22)
-- [ ] [get rid of OT official_tip_rack_identity](https://github.com/PyLabRobot/pylabrobot/issues/1286) — `PyLabRobot/pylabrobot` (güncellendi: 2026-09-22)
-- [ ] [Fix VADER sentiment score for 'profit booking'](https://github.com/AshayK003/nse-sentiment-analyzer/issues/34) — `AshayK003/nse-sentiment-analyzer` (güncellendi: 2026-09-22)
-- [ ] [Add a tripwire test for the guarded private LiteLLM imports](https://github.com/The-PR-Agent/pr-agent/issues/3608) — `The-PR-Agent/pr-agent` (güncellendi: 2026-09-22)
-- [ ] [Nine shipped recipes name a Hugging Face repo that does not exist, and `recipe repo ids` is red on main](https://github.com/MakazhanAlpamys/Soup/issues/1122) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-22)
+- [ ] [Point the backend root URL to the API docs and health check](https://github.com/FasterThanAi/ai-lead-generation-mvp/issues/59) — `FasterThanAi/ai-lead-generation-mvp` (güncellendi: 2026-09-23)
+- [ ] [[EYE-DOC-001] Correct stale Face-Gesture implementation claims](https://github.com/MSKazemi/yazses/issues/392) — `MSKazemi/yazses` (güncellendi: 2026-09-23)
+- [ ] [[BUG]: Console error in chapter editor page.](https://github.com/oppia/oppia/issues/19816) — `oppia/oppia` (güncellendi: 2026-09-23)
+- [ ] [TiktokenCounter raises ValueError on literal special-token strings like `<|endoftext|>`](https://github.com/deepset-ai/haystack/issues/12869) — `deepset-ai/haystack` (güncellendi: 2026-09-23)
+- [ ] [[Feature Request]: Add tests to fully cover all branches of the backend code.](https://github.com/oppia/oppia/issues/21308) — `oppia/oppia` (güncellendi: 2026-09-23)
+- [ ] [feat: sprint selection beyond @current](https://github.com/SimAin/gh-plate/issues/20) — `SimAin/gh-plate` (güncellendi: 2026-09-23)
+- [ ] [[Docs] CLAUDE.md のフロントエンド構成図に載っていないページ・lib を追記する](https://github.com/mitry06/ATJC-learn/issues/180) — `mitry06/ATJC-learn` (güncellendi: 2026-09-23)
+- [ ] [[Bug] 一部の入力エラーが「入力値の値が正しくありません」になり、どこが悪いかわからない](https://github.com/mitry06/ATJC-learn/issues/177) — `mitry06/ATJC-learn` (güncellendi: 2026-09-23)
 
 ## Javascript
 
-- [ ] [Backfill video.streams[] per-stream breakdown (name/resolution/fps/codec)](https://github.com/ch-bas/cctv-camera-database/issues/177) — `ch-bas/cctv-camera-database` (güncellendi: 2026-09-22)
-- [ ] [good first issue: densify US soft shipyard pins (Vigor / VT Halter / Eastern)](https://github.com/International-Arctic/Arctic-Trade-Lanes/issues/46) — `International-Arctic/Arctic-Trade-Lanes` (güncellendi: 2026-09-22)
-- [ ] [good first issue: densify remaining 2 port↔city stacks (Obskaya/Chevak)](https://github.com/International-Arctic/Arctic-Trade-Lanes/issues/32) — `International-Arctic/Arctic-Trade-Lanes` (güncellendi: 2026-09-22)
-- [ ] [Neo.toolbar.Paging has no coverage, and its page maths has edges](https://github.com/neomjs/neo/issues/19038) — `neomjs/neo` (güncellendi: 2026-09-22)
-- [ ] [Backfill dimensions_mm + weight_g (physical size / weight)](https://github.com/ch-bas/cctv-camera-database/issues/178) — `ch-bas/cctv-camera-database` (güncellendi: 2026-09-22)
-- [ ] [Redesign About page with hero section and feature cards](https://github.com/kiinshuk/kinshow/issues/86) — `kiinshuk/kinshow` (güncellendi: 2026-09-22)
-- [ ] [Set the page title and add a favicon](https://github.com/kalviumcommunity/devlinks-05/issues/24) — `kalviumcommunity/devlinks-05` (güncellendi: 2026-09-22)
-- [ ] [Finish field_of_view_deg lane (84% — ~1,850 left; box/PTZ largely N/A)](https://github.com/ch-bas/cctv-camera-database/issues/179) — `ch-bas/cctv-camera-database` (güncellendi: 2026-09-22)
+- [ ] [feat(security): Implement honeypot endpoints for attack detection](https://github.com/Deen-Bridge/dnb-backend/issues/143) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [feat(notifications): Implement notification preferences](https://github.com/Deen-Bridge/dnb-backend/issues/144) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [feat(auth): Add security questions for account recovery](https://github.com/Deen-Bridge/dnb-backend/issues/136) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [feat(security): Add CSP violation reporting endpoint](https://github.com/Deen-Bridge/dnb-backend/issues/140) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [feat(notifications): Implement Do Not Disturb schedules](https://github.com/Deen-Bridge/dnb-backend/issues/150) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [feat(notifications): Add notification sound/vibration settings](https://github.com/Deen-Bridge/dnb-backend/issues/151) — `Deen-Bridge/dnb-backend` (güncellendi: 2026-09-23)
+- [ ] [Add og:image PNG (1200×630) for social previews](https://github.com/meviza/konsenxia-landing/issues/2) — `meviza/konsenxia-landing` (güncellendi: 2026-09-23)
+- [ ] [Create Admin Dashboard with Users, Events & Analytics](https://github.com/Harsh-vardhan09/AthLead/issues/126) — `Harsh-vardhan09/AthLead` (güncellendi: 2026-09-23)
 
 ## Typescript
 
