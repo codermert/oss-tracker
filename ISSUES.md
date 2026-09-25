@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-24 10:43 UTC_
+_Son güncelleme: 2026-09-25 10:47 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [tools/validate/validate.py: RPC_METHODS constant has no comment noting it must track canary-rpc's supported methods](https://github.com/StellarCanary/ProtocolCanary-Fixtures/issues/22) — `StellarCanary/ProtocolCanary-Fixtures` (güncellendi: 2026-09-24)
-- [ ] [Add cursor_hooks_spec.py declarative hook spec](https://github.com/Observal/Observal/issues/835) — `Observal/Observal` (güncellendi: 2026-09-24)
-- [ ] [Allow inserting multiqubit operations in qml.transforms.insert](https://github.com/PennyLaneAI/pennylane/issues/1877) — `PennyLaneAI/pennylane` (güncellendi: 2026-09-24)
-- [ ] [arguments-differ: number of parameters was some number ... and is now the same number in overridden ...](https://github.com/pylint-dev/pylint/issues/5793) — `pylint-dev/pylint` (güncellendi: 2026-09-24)
-- [ ] [--fail-under has no visual impact on terminal output](https://github.com/pylint-dev/pylint/issues/8503) — `pylint-dev/pylint` (güncellendi: 2026-09-24)
-- [ ] [Add tests for stdlib pinnings to pre-commit CI](https://github.com/conda-forge/conda-forge-pinning-feedstock/issues/7307) — `conda-forge/conda-forge-pinning-feedstock` (güncellendi: 2026-09-24)
-- [ ] [Session tokens don't have a prefix](https://github.com/liberapay/liberapay.com/issues/2741) — `liberapay/liberapay.com` (güncellendi: 2026-09-24)
-- [ ] [Raise an error or warning in `qml.compile` if `basis_set` contains operations instead of strings.](https://github.com/PennyLaneAI/pennylane/issues/6132) — `PennyLaneAI/pennylane` (güncellendi: 2026-09-24)
+- [ ] [Comparison of Different Fine-Tuning Techniques for Conversational AI](https://github.com/huggingface/peft/issues/2310) — `huggingface/peft` (güncellendi: 2026-09-25)
+- [ ] [📊 Tracking Issue: Structured Quantum Programs](https://github.com/munich-quantum-toolkit/bench/issues/691) — `munich-quantum-toolkit/bench` (güncellendi: 2026-09-25)
+- [ ] [Docs: document how to run a single unit test and a single connector module](https://github.com/aisecnomad/Project-Nexus/issues/63) — `aisecnomad/Project-Nexus` (güncellendi: 2026-09-25)
+- [ ] [Add a tracker playbook for Jira](https://github.com/bks-lab/open-bridge/issues/257) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
+- [ ] [First-time setup from zero: time it and report where it snags](https://github.com/bks-lab/open-bridge/issues/259) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
+- [ ] [Fresh install on native Windows: does bin/setup.ps1 work?](https://github.com/bks-lab/open-bridge/issues/258) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
+- [ ] [test_sharded_ivf_gpu_build_matches_recall fails instead of skipping when CuPy is installed but no GPU is visible](https://github.com/ahb-sjsu/turboquant-pro/issues/229) — `ahb-sjsu/turboquant-pro` (güncellendi: 2026-09-25)
+- [ ] [A revision build with --out drops the names sidecar: the toml's names path does not resolve and every function comes out FUN_/sub_ with only an info line](https://github.com/Scotho/socom-unzipped/issues/48) — `Scotho/socom-unzipped` (güncellendi: 2026-09-25)
 
 ## Javascript
 
-- [ ] [[FRONTEND] feat(frontend): Implement Post-Game Result Modal with PGN Copy, Rematch, and Social Share](https://github.com/Kaycee276/Chesster/issues/254) — `Kaycee276/Chesster` (güncellendi: 2026-09-24)
-- [ ] [[FRONTEND] feat(frontend): Add Network Connection Alert Banner & Stellar Network Mismatch Warning](https://github.com/Kaycee276/Chesster/issues/256) — `Kaycee276/Chesster` (güncellendi: 2026-09-24)
-- [ ] [[MCP] [Feature] Add mindvault_terms tool to set/get terms hash](https://github.com/mind-vault-1/mindvault/issues/872) — `mind-vault-1/mindvault` (güncellendi: 2026-09-24)
-- [ ] [docs: agregar ejemplo concreto del flujo de "reaplicación de PR" en CONTRIBUTING.md](https://github.com/David1984TK/Bimex/issues/348) — `David1984TK/Bimex` (güncellendi: 2026-09-24)
-- [ ] [[MCP] [Feature] Add mindvault_pending_transfer tool to read open proposals](https://github.com/mind-vault-1/mindvault/issues/867) — `mind-vault-1/mindvault` (güncellendi: 2026-09-24)
-- [ ] [[GOOD FIRST ISSUE]: Add a "Clear Input" button to reset the text input form](https://github.com/AOSSIE-Org/EduAid/issues/668) — `AOSSIE-Org/EduAid` (güncellendi: 2026-09-24)
-- [ ] [[Frontend] `ApplicationForm.tsx` — proposal text area lacks character counter](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1416) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-09-24)
-- [ ] [[Frontend] `BoostJobModal.tsx` — boost price shown only in XLM, not USD equivalent](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1419) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-09-24)
+- [ ] [Add a social preview image](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/34) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-09-25)
+- [ ] [[Contract] [Feature] Add explicit `listed_count` for a given creator (creator-scoped count)](https://github.com/mind-vault-1/mindvault/issues/816) — `mind-vault-1/mindvault` (güncellendi: 2026-09-25)
+- [ ] [[BACKEND] feat(backend): Implement PGN Export Service with Clock Timestamps and Centipawn Annotations](https://github.com/Kaycee276/Chesster/issues/291) — `Kaycee276/Chesster` (güncellendi: 2026-09-25)
+- [ ] [[BACKEND] feat(backend): Implement Prometheus Metrics Exporter for WebSocket Active Room & Player Telemetry](https://github.com/Kaycee276/Chesster/issues/294) — `Kaycee276/Chesster` (güncellendi: 2026-09-25)
+- [ ] [test(devx): test named-network configuration](https://github.com/mimir-stellar/telegram-bot/issues/144) — `mimir-stellar/telegram-bot` (güncellendi: 2026-09-25)
+- [ ] [Search box: a pasted details/... path should open what it points at](https://github.com/amponce/archive-movie-browser/issues/293) — `amponce/archive-movie-browser` (güncellendi: 2026-09-25)
+- [ ] [feat(bot): report status command latency](https://github.com/mimir-stellar/telegram-bot/issues/66) — `mimir-stellar/telegram-bot` (güncellendi: 2026-09-25)
+- [ ] [Add JSON output to the benchmark summary CLI](https://github.com/socai-io/jev-social/issues/50) — `socai-io/jev-social` (güncellendi: 2026-09-25)
 
 ## Typescript
 
