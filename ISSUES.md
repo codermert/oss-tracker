@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-25 10:47 UTC_
+_Son güncelleme: 2026-09-26 10:29 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Comparison of Different Fine-Tuning Techniques for Conversational AI](https://github.com/huggingface/peft/issues/2310) — `huggingface/peft` (güncellendi: 2026-09-25)
-- [ ] [📊 Tracking Issue: Structured Quantum Programs](https://github.com/munich-quantum-toolkit/bench/issues/691) — `munich-quantum-toolkit/bench` (güncellendi: 2026-09-25)
-- [ ] [Docs: document how to run a single unit test and a single connector module](https://github.com/aisecnomad/Project-Nexus/issues/63) — `aisecnomad/Project-Nexus` (güncellendi: 2026-09-25)
-- [ ] [Add a tracker playbook for Jira](https://github.com/bks-lab/open-bridge/issues/257) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
-- [ ] [First-time setup from zero: time it and report where it snags](https://github.com/bks-lab/open-bridge/issues/259) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
-- [ ] [Fresh install on native Windows: does bin/setup.ps1 work?](https://github.com/bks-lab/open-bridge/issues/258) — `bks-lab/open-bridge` (güncellendi: 2026-09-25)
-- [ ] [test_sharded_ivf_gpu_build_matches_recall fails instead of skipping when CuPy is installed but no GPU is visible](https://github.com/ahb-sjsu/turboquant-pro/issues/229) — `ahb-sjsu/turboquant-pro` (güncellendi: 2026-09-25)
-- [ ] [A revision build with --out drops the names sidecar: the toml's names path does not resolve and every function comes out FUN_/sub_ with only an info line](https://github.com/Scotho/socom-unzipped/issues/48) — `Scotho/socom-unzipped` (güncellendi: 2026-09-25)
+- [ ] [Fail Fast for Unsupported Realtime STT Configuration](https://github.com/amit-agarwal2267/BoloRide/issues/17) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
+- [ ] [Return a Typed Result from Notification Delivery](https://github.com/amit-agarwal2267/BoloRide/issues/16) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
+- [ ] [Improve Hindi and Hinglish STT Recognition for Ride-Specific Phrases](https://github.com/amit-agarwal2267/BoloRide/issues/15) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
+- [ ] [Upgrade pre-commit hooks to latest versions](https://github.com/WesternFriend/westernfriend.org/issues/1231) — `WesternFriend/westernfriend.org` (güncellendi: 2026-09-26)
+- [ ] [Error when installing this package with pip](https://github.com/Lewiscowles1986/py-call-graph/issues/29) — `Lewiscowles1986/py-call-graph` (güncellendi: 2026-09-26)
+- [ ] [Add reproducible terminal demo generation script](https://github.com/tayfuryldz/headerproof/issues/8) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
+- [ ] [Add release binary smoke test for invalid target handling](https://github.com/tayfuryldz/headerproof/issues/7) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
+- [ ] [Add evidence schema reader example](https://github.com/tayfuryldz/headerproof/issues/6) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
 
 ## Javascript
 
-- [ ] [Add a social preview image](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/34) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-09-25)
-- [ ] [[Contract] [Feature] Add explicit `listed_count` for a given creator (creator-scoped count)](https://github.com/mind-vault-1/mindvault/issues/816) — `mind-vault-1/mindvault` (güncellendi: 2026-09-25)
-- [ ] [[BACKEND] feat(backend): Implement PGN Export Service with Clock Timestamps and Centipawn Annotations](https://github.com/Kaycee276/Chesster/issues/291) — `Kaycee276/Chesster` (güncellendi: 2026-09-25)
-- [ ] [[BACKEND] feat(backend): Implement Prometheus Metrics Exporter for WebSocket Active Room & Player Telemetry](https://github.com/Kaycee276/Chesster/issues/294) — `Kaycee276/Chesster` (güncellendi: 2026-09-25)
-- [ ] [test(devx): test named-network configuration](https://github.com/mimir-stellar/telegram-bot/issues/144) — `mimir-stellar/telegram-bot` (güncellendi: 2026-09-25)
-- [ ] [Search box: a pasted details/... path should open what it points at](https://github.com/amponce/archive-movie-browser/issues/293) — `amponce/archive-movie-browser` (güncellendi: 2026-09-25)
-- [ ] [feat(bot): report status command latency](https://github.com/mimir-stellar/telegram-bot/issues/66) — `mimir-stellar/telegram-bot` (güncellendi: 2026-09-25)
-- [ ] [Add JSON output to the benchmark summary CLI](https://github.com/socai-io/jev-social/issues/50) — `socai-io/jev-social` (güncellendi: 2026-09-25)
+- [ ] [Add live rate ticker badge and smooth scroll anchor behavior in Hero.jsx](https://github.com/EF-CHAIN/SendAm/issues/508) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
+- [ ] [Description truncation can split a surrogate pair and emit invalid UTF-16](https://github.com/accensa/x402-facilitator-stellar/issues/218) — `accensa/x402-facilitator-stellar` (güncellendi: 2026-09-26)
+- [ ] [[План] Очередь реализации ColaBike и зависимости задач — 26.09.2026](https://github.com/grayhex/cola/issues/136) — `grayhex/cola` (güncellendi: 2026-09-26)
+- [ ] [Add accessible labels to the filter controls in `FilterBar.jsx`](https://github.com/EF-CHAIN/SendAm/issues/470) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
+- [ ] [Add interactive column sorting indicators and click handlers in DataTable.jsx](https://github.com/EF-CHAIN/SendAm/issues/513) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
+- [ ] [Support node-redis, possibly along with ioredis?](https://github.com/fastify/fastify-rate-limit/issues/368) — `fastify/fastify-rate-limit` (güncellendi: 2026-09-26)
+- [ ] [Valkey support](https://github.com/fastify/fastify-rate-limit/issues/436) — `fastify/fastify-rate-limit` (güncellendi: 2026-09-26)
+- [ ] [Add a Manufacturing industry template](https://github.com/easytestdata/easytestdata/issues/4) — `easytestdata/easytestdata` (güncellendi: 2026-09-26)
 
 ## Typescript
 
