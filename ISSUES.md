@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-09-26 10:29 UTC_
+_Son güncelleme: 2026-09-27 11:00 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Fail Fast for Unsupported Realtime STT Configuration](https://github.com/amit-agarwal2267/BoloRide/issues/17) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
-- [ ] [Return a Typed Result from Notification Delivery](https://github.com/amit-agarwal2267/BoloRide/issues/16) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
-- [ ] [Improve Hindi and Hinglish STT Recognition for Ride-Specific Phrases](https://github.com/amit-agarwal2267/BoloRide/issues/15) — `amit-agarwal2267/BoloRide` (güncellendi: 2026-09-26)
-- [ ] [Upgrade pre-commit hooks to latest versions](https://github.com/WesternFriend/westernfriend.org/issues/1231) — `WesternFriend/westernfriend.org` (güncellendi: 2026-09-26)
-- [ ] [Error when installing this package with pip](https://github.com/Lewiscowles1986/py-call-graph/issues/29) — `Lewiscowles1986/py-call-graph` (güncellendi: 2026-09-26)
-- [ ] [Add reproducible terminal demo generation script](https://github.com/tayfuryldz/headerproof/issues/8) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
-- [ ] [Add release binary smoke test for invalid target handling](https://github.com/tayfuryldz/headerproof/issues/7) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
-- [ ] [Add evidence schema reader example](https://github.com/tayfuryldz/headerproof/issues/6) — `tayfuryldz/headerproof` (güncellendi: 2026-09-26)
+- [ ] [The PII email pattern is quadratic on long `[\w.+-]` runs: a single 50 KB row takes 14-20 s in `soup expect`, `soup data pii` and `soup data score`, and the 50 KB cap bounds a row, not a dataset](https://github.com/MakazhanAlpamys/Soup/issues/1329) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-27)
+- [ ] [The #361 NF4 throughput harness records `git rev-parse HEAD` of its own checkout: no `-dirty` marker, and not the `soup_cli` tree it actually imported](https://github.com/MakazhanAlpamys/Soup/issues/1327) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-27)
+- [ ] [`expand_layers` (LLaMA Pro) loads on 13 other tasks, on `backend: unsloth` / `mlx`, and on SFT vision/audio, and the model is never expanded](https://github.com/MakazhanAlpamys/Soup/issues/1325) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-27)
+- [ ] [`training.loraplus_lr_ratio` loads on `backend: mlx` and nothing reads it: the MLX run trains LoRA A and B at one learning rate, and `soup doctor --config` reports all-clear](https://github.com/MakazhanAlpamys/Soup/issues/1324) — `MakazhanAlpamys/Soup` (güncellendi: 2026-09-27)
+- [ ] [dllddwbb](https://github.com/dilshodbekhalimov29-max/sabrina-ai-bot/issues/1) — `dilshodbekhalimov29-max/sabrina-ai-bot` (güncellendi: 2026-09-27)
+- [ ] [[Good first issue] Add Windows CLI smoke coverage to CI](https://github.com/aifabrice/jev-rag/issues/3) — `aifabrice/jev-rag` (güncellendi: 2026-09-27)
+- [ ] [Add Python 3.13 to the supported CI matrix](https://github.com/admiralpunk/Provena/issues/5) — `admiralpunk/Provena` (güncellendi: 2026-09-27)
+- [ ] [Hackathon [Feature]: Add AWS S3 data-source connector](https://github.com/topoteretes/cognee/issues/4760) — `topoteretes/cognee` (güncellendi: 2026-09-27)
 
 ## Javascript
 
-- [ ] [Add live rate ticker badge and smooth scroll anchor behavior in Hero.jsx](https://github.com/EF-CHAIN/SendAm/issues/508) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
-- [ ] [Description truncation can split a surrogate pair and emit invalid UTF-16](https://github.com/accensa/x402-facilitator-stellar/issues/218) — `accensa/x402-facilitator-stellar` (güncellendi: 2026-09-26)
-- [ ] [[План] Очередь реализации ColaBike и зависимости задач — 26.09.2026](https://github.com/grayhex/cola/issues/136) — `grayhex/cola` (güncellendi: 2026-09-26)
-- [ ] [Add accessible labels to the filter controls in `FilterBar.jsx`](https://github.com/EF-CHAIN/SendAm/issues/470) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
-- [ ] [Add interactive column sorting indicators and click handlers in DataTable.jsx](https://github.com/EF-CHAIN/SendAm/issues/513) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-26)
-- [ ] [Support node-redis, possibly along with ioredis?](https://github.com/fastify/fastify-rate-limit/issues/368) — `fastify/fastify-rate-limit` (güncellendi: 2026-09-26)
-- [ ] [Valkey support](https://github.com/fastify/fastify-rate-limit/issues/436) — `fastify/fastify-rate-limit` (güncellendi: 2026-09-26)
-- [ ] [Add a Manufacturing industry template](https://github.com/easytestdata/easytestdata/issues/4) — `easytestdata/easytestdata` (güncellendi: 2026-09-26)
+- [ ] [Fix feature card grid orphan layout and add icon hover micro-interactions in Features.jsx](https://github.com/EF-CHAIN/SendAm/issues/495) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-27)
+- [ ] [Add auto-refresh polling toggle and countdown indicator to OnboardingStatus.jsx](https://github.com/EF-CHAIN/SendAm/issues/497) — `EF-CHAIN/SendAm` (güncellendi: 2026-09-27)
+- [ ] [Bug: Render pipeline outputs solid black or white frames](https://github.com/LazyKaddu/FluxClusture/issues/1) — `LazyKaddu/FluxClusture` (güncellendi: 2026-09-27)
+- [ ] [Input in truth table generator should be visible](https://github.com/CircuitVerse/Interactive-Book/issues/631) — `CircuitVerse/Interactive-Book` (güncellendi: 2026-09-27)
+- [ ] [[Feature]: add the wasm openai denoiser at the end of the render](https://github.com/LazyKaddu/FluxClusture/issues/2) — `LazyKaddu/FluxClusture` (güncellendi: 2026-09-27)
+- [ ] [[Contract] [Feature] Add tx-hash → resource attribution memo requirement warning](https://github.com/mind-vault-1/mindvault/issues/817) — `mind-vault-1/mindvault` (güncellendi: 2026-09-27)
+- [ ] [Show "Last visited X ago" on board load 🕐](https://github.com/anoopcodehack/DevBoard/issues/518) — `anoopcodehack/DevBoard` (güncellendi: 2026-09-27)
+- [ ] [Add response time header to all API responses ⚡](https://github.com/anoopcodehack/DevBoard/issues/487) — `anoopcodehack/DevBoard` (güncellendi: 2026-09-27)
 
 ## Typescript
 
