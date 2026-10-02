@@ -1,24 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-01 12:01 UTC_
+_Son güncelleme: 2026-10-02 11:33 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [[BUG]: Embedded exploration player causes infinite re-renders when changing language to Arabic](https://github.com/oppia/oppia/issues/21220) — `oppia/oppia` (güncellendi: 2026-10-01)
-- [ ] [new product: a measure of dispersion of the droplet population](https://github.com/open-atmos/PySDM/issues/1953) — `open-atmos/PySDM` (güncellendi: 2026-10-01)
-- [ ] [chore: replace f-string logger calls and misplaced print() statements across src/docpipe](https://github.com/IBM/docling-pipelines/issues/126) — `IBM/docling-pipelines` (güncellendi: 2026-10-01)
-- [ ] [crypto_lookup: one CoinGecko request instead of three copies of the same function](https://github.com/NovaCode37/Prism-platform/issues/447) — `NovaCode37/Prism-platform` (güncellendi: 2026-10-01)
-- [ ] [github_recon says ok with 0 repos and no commit emails when the follow-up calls are rate limited](https://github.com/NovaCode37/Prism-platform/issues/445) — `NovaCode37/Prism-platform` (güncellendi: 2026-10-01)
-- [ ] [Docs: workflow for Flutter apps](https://github.com/FidelisMM/shipstores/issues/8) — `FidelisMM/shipstores` (güncellendi: 2026-10-01)
-- [ ] [Docs: workflow for native Xcode / Gradle projects (no Expo)](https://github.com/FidelisMM/shipstores/issues/7) — `FidelisMM/shipstores` (güncellendi: 2026-10-01)
-- [ ] [Unit tests for apple_console.set_privacy validation](https://github.com/FidelisMM/shipstores/issues/5) — `FidelisMM/shipstores` (güncellendi: 2026-10-01)
+- [ ] [More scenarios: new kinds of conflict](https://github.com/JoaquinRuiz/medula/issues/6) — `JoaquinRuiz/medula` (güncellendi: 2026-10-02)
+- [ ] [Define weather scenario weightings once](https://github.com/open-energy-transition/open-tyndp/issues/1029) — `open-energy-transition/open-tyndp` (güncellendi: 2026-10-02)
+- [ ] [Missing encoding='utf-8' on read_text() calls across test suite](https://github.com/knight22-21/DevAgent/issues/82) — `knight22-21/DevAgent` (güncellendi: 2026-10-02)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-02)
+- [ ] [Allow creation of invitations that do not expire](https://github.com/snikket-im/snikket-web-portal/issues/179) — `snikket-im/snikket-web-portal` (güncellendi: 2026-10-02)
+- [ ] [Introduce dark theme](https://github.com/openzim/sotoki/issues/349) — `openzim/sotoki` (güncellendi: 2026-10-02)
+- [ ] [coleman_liau_index uses 0.058 instead of 0.0588 for the letters coefficient](https://github.com/textstat/textstat/issues/222) — `textstat/textstat` (güncellendi: 2026-10-02)
+- [ ] [feat(tui): add an "RDS is not public" example to the playground](https://github.com/StackGuardian/tirith/issues/385) — `StackGuardian/tirith` (güncellendi: 2026-10-02)
 
 ## Javascript
 
-_Şu an uygun issue bulunamadı._
+- [ ] [Nothing checks the "Install a bundle in one command" table's per-bundle skill counts](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/281) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [Coding & CS Education has no beginner data-science (pandas/NumPy) fundamentals skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/280) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [Coding & CS Education has no beginner mobile app development (Android/iOS) skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/279) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [Language Learning's only pronunciation entry teaches IPA notation, not audio-based feedback](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/278) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [Study & Productivity has no handwritten-notes OCR / digitization skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/277) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [College Applications & Career has no letter-of-recommendation request/tracking skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/276) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [College Applications & Career has no admissions/college-interview prep skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/275) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
+- [ ] [Writing & Humanities has no AP English Language & Composition (rhetorical analysis) skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/274) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-10-02)
 
 ## Typescript
 
