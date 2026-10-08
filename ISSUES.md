@@ -1,31 +1,24 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-07 12:16 UTC_
+_Son güncelleme: 2026-10-08 12:26 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-07)
-- [ ] [Every keystroke in model search sends a Hugging Face request](https://github.com/MODSetter/SurfSense/issues/1978) — `MODSetter/SurfSense` (güncellendi: 2026-10-07)
-- [ ] [[Bug] Reality-check trade-offs print their text twice in the HTML report and UI](https://github.com/aws-samples/sample-aws-genai-db-modernizer/issues/234) — `aws-samples/sample-aws-genai-db-modernizer` (güncellendi: 2026-10-07)
-- [ ] [Add parsing tests for every electricity demand data source](https://github.com/open-energy-transition/demandcast/issues/161) — `open-energy-transition/demandcast` (güncellendi: 2026-10-07)
-- [ ] [Document running the CLI in non-GitHub CI (GitLab, Jenkins, git hooks)](https://github.com/rodny90/pr-policy/issues/6) — `rodny90/pr-policy` (güncellendi: 2026-10-07)
-- [ ] [Try pr-policy init on real-world PR templates and add fixtures](https://github.com/rodny90/pr-policy/issues/5) — `rodny90/pr-policy` (güncellendi: 2026-10-07)
-- [ ] [Add more coding-agent identities to AGENT_IDENTITIES](https://github.com/rodny90/pr-policy/issues/4) — `rodny90/pr-policy` (güncellendi: 2026-10-07)
-- [ ] [Hackathon [Feature]: Add Postman data-source connector](https://github.com/topoteretes/cognee/issues/4711) — `topoteretes/cognee` (güncellendi: 2026-10-07)
+- [ ] [EELS -> Subtract Background from Spectrum only works when an interval graphic already exists in the selected data item](https://github.com/nion-software/eels-analysis/issues/16) — `nion-software/eels-analysis` (güncellendi: 2026-10-08)
+- [ ] [Add a R quickstart](https://github.com/TanbirRamim/open-source-radar/issues/59) — `TanbirRamim/open-source-radar` (güncellendi: 2026-10-08)
+- [ ] [Hackathon [Feature]: Add Rollbar data-source connector](https://github.com/topoteretes/cognee/issues/4778) — `topoteretes/cognee` (güncellendi: 2026-10-08)
+- [ ] [Sleep score: show source provider for OW (internal) scores on dashboard](https://github.com/the-momentum/open-wearables/issues/983) — `the-momentum/open-wearables` (güncellendi: 2026-10-08)
+- [ ] [Hackathon [Feature]: Add Stack Overflow data-source connector](https://github.com/topoteretes/cognee/issues/4809) — `topoteretes/cognee` (güncellendi: 2026-10-08)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-08)
+- [ ] [dependency-check: pre-releases sort after the release they precede](https://github.com/NovaCode37/claude-security-skills/issues/74) — `NovaCode37/claude-security-skills` (güncellendi: 2026-10-08)
+- [ ] [Add an optional pandas/CSV example that preserves the temporal contract](https://github.com/dev-belly/PITBridge/issues/7) — `dev-belly/PITBridge` (güncellendi: 2026-10-08)
 
 ## Javascript
 
-- [ ] [# [DOCS]: Replace generic Template-Repo content in CONTRIBUTING.md](https://github.com/AOSSIE-Org/Skills/issues/8) — `AOSSIE-Org/Skills` (güncellendi: 2026-10-07)
-- [ ] [Add an empty-state message when there are no notes](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/7) — `Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026` (güncellendi: 2026-10-07)
-- [ ] [Document query parameter synchronization and cursor pagination mechanism in apps/admin/README.md](https://github.com/EF-CHAIN/SendAm/issues/542) — `EF-CHAIN/SendAm` (güncellendi: 2026-10-07)
-- [ ] [Document local development flow with mock WhatsApp messages via chat-sim in README.md](https://github.com/EF-CHAIN/SendAm/issues/544) — `EF-CHAIN/SendAm` (güncellendi: 2026-10-07)
-- [ ] [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807) — `nextcloud/mail` (güncellendi: 2026-10-07)
-- [ ] [Crée l'instrument « maracas » (maracas)](https://github.com/IamFonky/Les-Zinzinstruments---2CCI1---B/issues/9) — `IamFonky/Les-Zinzinstruments---2CCI1---B` (güncellendi: 2026-10-07)
-- [ ] [Add clear state indicators and warning banners in user deactivation modal in apps/admin/src/pages/Users.jsx](https://github.com/EF-CHAIN/SendAm/issues/546) — `EF-CHAIN/SendAm` (güncellendi: 2026-10-07)
-- [ ] [Implement Initial Version of cfn-nested-aws-sns](https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-sns/issues/3) — `subhamay-bhattacharyya-cfn/cfn-nested-aws-sns` (güncellendi: 2026-10-07)
+_Şu an uygun issue bulunamadı._
 
 ## Typescript
 
