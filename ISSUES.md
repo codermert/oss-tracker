@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-11 11:46 UTC_
+_Son güncelleme: 2026-10-12 13:50 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Show live progress while probing](https://github.com/ErenYeager1836/reconflow/issues/1) — `ErenYeager1836/reconflow` (güncellendi: 2026-10-11)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-11)
-- [ ] [Docs: some operator settings appear in no doc](https://github.com/hubzoid/hubzoid/issues/45) — `hubzoid/hubzoid` (güncellendi: 2026-10-11)
-- [ ] [[bug] REST API: device monitoring API mentions unused fields "example" and "Model"](https://github.com/openwisp/openwisp-monitoring/issues/716) — `openwisp/openwisp-monitoring` (güncellendi: 2026-10-11)
-- [ ] [Cooling power consumptions](https://github.com/pmq/stiebel-eltron-http/issues/82) — `pmq/stiebel-eltron-http` (güncellendi: 2026-10-11)
-- [ ] [Instantaneous electrical power](https://github.com/pmq/stiebel-eltron-http/issues/102) — `pmq/stiebel-eltron-http` (güncellendi: 2026-10-11)
-- [ ] [🧪 Real User Lab #1 — 10 independent first-run reports wanted](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) — `alptugharun/ai-social-media-toolkit` (güncellendi: 2026-10-11)
-- [ ] [Technical feedback and implementation review for VATE](https://github.com/Poke-nushi/Verifiable-Agent-Trust-Envelope/issues/2) — `Poke-nushi/Verifiable-Agent-Trust-Envelope` (güncellendi: 2026-10-11)
+- [ ] [[BUG] `SundialForecaster` foundation model inconsistent `_predict_proba`](https://github.com/sktime/sktime/issues/10533) — `sktime/sktime` (güncellendi: 2026-10-12)
+- [ ] [`soup doctor --config` reports settings by spelling, not value: a flag written as `false` is listed as ignored or rejected, so every MLX "rejected" row it can print is a false positive](https://github.com/MakazhanAlpamys/Soup/issues/1330) — `MakazhanAlpamys/Soup` (güncellendi: 2026-10-12)
+- [ ] [[ENH] Regression tests validating foundation model outputs against original/source implementations](https://github.com/sktime/sktime/issues/10672) — `sktime/sktime` (güncellendi: 2026-10-12)
+- [ ] [Default `output_format`  to  `"dataframe"`](https://github.com/openml/openml-python/issues/1115) — `openml/openml-python` (güncellendi: 2026-10-12)
+- [ ] [`budget.paradigm` is a config key nothing reads, and `dex config get` reports it as `free_local` on every warehouse](https://github.com/exmergo/dex/issues/557) — `exmergo/dex` (güncellendi: 2026-10-12)
+- [ ] [[HUB-HW-001] Verify Grok Gadgets with one hardware setup of your choice](https://github.com/adidshaft/grok-gadgets/issues/15) — `adidshaft/grok-gadgets` (güncellendi: 2026-10-12)
+- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/3) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-10-12)
+- [ ] [check-branches should parse comma-separated locations](https://github.com/xianyu-sheng/SmartBench/issues/29) — `xianyu-sheng/SmartBench` (güncellendi: 2026-10-12)
 
 ## Javascript
 
