@@ -1,24 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-12 13:50 UTC_
+_Son güncelleme: 2026-10-13 13:08 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [[BUG] `SundialForecaster` foundation model inconsistent `_predict_proba`](https://github.com/sktime/sktime/issues/10533) — `sktime/sktime` (güncellendi: 2026-10-12)
-- [ ] [`soup doctor --config` reports settings by spelling, not value: a flag written as `false` is listed as ignored or rejected, so every MLX "rejected" row it can print is a false positive](https://github.com/MakazhanAlpamys/Soup/issues/1330) — `MakazhanAlpamys/Soup` (güncellendi: 2026-10-12)
-- [ ] [[ENH] Regression tests validating foundation model outputs against original/source implementations](https://github.com/sktime/sktime/issues/10672) — `sktime/sktime` (güncellendi: 2026-10-12)
-- [ ] [Default `output_format`  to  `"dataframe"`](https://github.com/openml/openml-python/issues/1115) — `openml/openml-python` (güncellendi: 2026-10-12)
-- [ ] [`budget.paradigm` is a config key nothing reads, and `dex config get` reports it as `free_local` on every warehouse](https://github.com/exmergo/dex/issues/557) — `exmergo/dex` (güncellendi: 2026-10-12)
-- [ ] [[HUB-HW-001] Verify Grok Gadgets with one hardware setup of your choice](https://github.com/adidshaft/grok-gadgets/issues/15) — `adidshaft/grok-gadgets` (güncellendi: 2026-10-12)
-- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/3) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-10-12)
-- [ ] [check-branches should parse comma-separated locations](https://github.com/xianyu-sheng/SmartBench/issues/29) — `xianyu-sheng/SmartBench` (güncellendi: 2026-10-12)
+- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-doctor-python/issues/444) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
+- [ ] [implement  Zimop, Zcmop extensions](https://github.com/kuznia-rdzeni/coreblocks/issues/1127) — `kuznia-rdzeni/coreblocks` (güncellendi: 2026-10-13)
+- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-db-python/issues/307) — `yeongseon/azure-functions-db-python` (güncellendi: 2026-10-13)
+- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-validation-python/issues/396) — `yeongseon/azure-functions-validation-python` (güncellendi: 2026-10-13)
+- [ ] [test(cli): keep summary sidecar write failures non-fatal](https://github.com/yeongseon/azure-functions-doctor-python/issues/449) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
+- [ ] [test(config): pin IaC storage precedence over local emulator settings](https://github.com/yeongseon/azure-functions-doctor-python/issues/447) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
+- [ ] [docs(readme): document the undocumented GitHub Action inputs and outputs](https://github.com/yeongseon/azure-functions-doctor-python/issues/445) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
+- [ ] [Move version history out of user documentation](https://github.com/guardana/guardana/issues/161) — `guardana/guardana` (güncellendi: 2026-10-13)
 
 ## Javascript
 
-_Şu an uygun issue bulunamadı._
+- [ ] [[Doc] Fix typos and grammar issues in docs/00-introduction/02whatis.md](https://github.com/apache/rocketmq-site/issues/800) — `apache/rocketmq-site` (güncellendi: 2026-10-13)
+- [ ] [Page titles, category names, and Site Goals totals show HTML entity codes in the plain text email report](https://github.com/google/site-kit-wp/issues/13537) — `google/site-kit-wp` (güncellendi: 2026-10-13)
+- [ ] [[good first issue] Explorer: a "Doesn't train on prompts" filter chip](https://github.com/pacocartones/free-llm-api-hub/issues/289) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
+- [ ] [✨ Add: Print a coloured/styled app banner on startup](https://github.com/Rajath2005/SmartCityApp/issues/78) — `Rajath2005/SmartCityApp` (güncellendi: 2026-10-13)
+- [ ] [[good first issue] What does Upstage do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/261) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
+- [ ] [[good first issue] What does IBM watsonx.ai (Lite plan) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/260) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
+- [ ] [[good first issue] What does AI21 Labs do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/259) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
+- [ ] [[good first issue] What does Typhoon (SCB 10X) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/288) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
 
 ## Typescript
 
