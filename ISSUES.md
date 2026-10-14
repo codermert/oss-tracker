@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-13 13:08 UTC_
+_Son güncelleme: 2026-10-14 10:49 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-doctor-python/issues/444) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
-- [ ] [implement  Zimop, Zcmop extensions](https://github.com/kuznia-rdzeni/coreblocks/issues/1127) — `kuznia-rdzeni/coreblocks` (güncellendi: 2026-10-13)
-- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-db-python/issues/307) — `yeongseon/azure-functions-db-python` (güncellendi: 2026-10-13)
-- [ ] [test: cover a module that has no dedicated test file](https://github.com/yeongseon/azure-functions-validation-python/issues/396) — `yeongseon/azure-functions-validation-python` (güncellendi: 2026-10-13)
-- [ ] [test(cli): keep summary sidecar write failures non-fatal](https://github.com/yeongseon/azure-functions-doctor-python/issues/449) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
-- [ ] [test(config): pin IaC storage precedence over local emulator settings](https://github.com/yeongseon/azure-functions-doctor-python/issues/447) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
-- [ ] [docs(readme): document the undocumented GitHub Action inputs and outputs](https://github.com/yeongseon/azure-functions-doctor-python/issues/445) — `yeongseon/azure-functions-doctor-python` (güncellendi: 2026-10-13)
-- [ ] [Move version history out of user documentation](https://github.com/guardana/guardana/issues/161) — `guardana/guardana` (güncellendi: 2026-10-13)
+- [ ] [hooks: inbox for inter-agent messages (sentinel tags since the last check)](https://github.com/doobidoo/mcp-memory-service/issues/1526) — `doobidoo/mcp-memory-service` (güncellendi: 2026-10-14)
+- [ ] [Add a .gitattributes so contributions keep LF line endings](https://github.com/pyrite-wiki/pyrite/issues/888) — `pyrite-wiki/pyrite` (güncellendi: 2026-10-14)
+- [ ] [Page monitor: leadershipconnect-io](https://github.com/markramm/data-broker-registry/issues/39) — `markramm/data-broker-registry` (güncellendi: 2026-10-14)
+- [ ] [Page monitor: contactout-com](https://github.com/markramm/data-broker-registry/issues/6) — `markramm/data-broker-registry` (güncellendi: 2026-10-14)
+- [ ] [Page monitor: intelius-com](https://github.com/markramm/data-broker-registry/issues/8) — `markramm/data-broker-registry` (güncellendi: 2026-10-14)
+- [ ] [feat(rules): Cross-agent instruction minifier and cache-stabilizer (CLAUDE.md, AGENTS.md, .cursorrules)](https://github.com/00200200/usagetrim/issues/54) — `00200200/usagetrim` (güncellendi: 2026-10-14)
+- [ ] [Expose per-source health as an MCP tool](https://github.com/rookslog/zlibrary-mcp/issues/53) — `rookslog/zlibrary-mcp` (güncellendi: 2026-10-14)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-14)
 
 ## Javascript
 
-- [ ] [[Doc] Fix typos and grammar issues in docs/00-introduction/02whatis.md](https://github.com/apache/rocketmq-site/issues/800) — `apache/rocketmq-site` (güncellendi: 2026-10-13)
-- [ ] [Page titles, category names, and Site Goals totals show HTML entity codes in the plain text email report](https://github.com/google/site-kit-wp/issues/13537) — `google/site-kit-wp` (güncellendi: 2026-10-13)
-- [ ] [[good first issue] Explorer: a "Doesn't train on prompts" filter chip](https://github.com/pacocartones/free-llm-api-hub/issues/289) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
-- [ ] [✨ Add: Print a coloured/styled app banner on startup](https://github.com/Rajath2005/SmartCityApp/issues/78) — `Rajath2005/SmartCityApp` (güncellendi: 2026-10-13)
-- [ ] [[good first issue] What does Upstage do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/261) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
-- [ ] [[good first issue] What does IBM watsonx.ai (Lite plan) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/260) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
-- [ ] [[good first issue] What does AI21 Labs do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/259) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
-- [ ] [[good first issue] What does Typhoon (SCB 10X) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/288) — `pacocartones/free-llm-api-hub` (güncellendi: 2026-10-13)
+- [ ] [[FEAT] Extract YouTube chapter markers for timestamped notes breakdown](https://github.com/hari45wavin/video-notes-to-gemini/issues/2) — `hari45wavin/video-notes-to-gemini` (güncellendi: 2026-10-14)
+- [ ] [[FEAT] Add keyboard shortcut (e.g. Alt+Shift+N) to trigger Gemini notes](https://github.com/hari45wavin/video-notes-to-gemini/issues/1) — `hari45wavin/video-notes-to-gemini` (güncellendi: 2026-10-14)
+- [ ] [[Hacktoberfest '26] Revamp and improve the coding-platform UI](https://github.com/osl-vvce/coding-platform/issues/73) — `osl-vvce/coding-platform` (güncellendi: 2026-10-14)
+- [ ] [💡to remove gifs from comment section](https://github.com/code-charity/youtube/issues/4390) — `code-charity/youtube` (güncellendi: 2026-10-14)
+- [ ] [Exit non-zero when the sample contains no files](https://github.com/Bubblegunn/surviving-lines/issues/28) — `Bubblegunn/surviving-lines` (güncellendi: 2026-10-14)
+- [ ] [Improvements for the 'Admins' Page](https://github.com/avniproject/avni-webapp/issues/1444) — `avniproject/avni-webapp` (güncellendi: 2026-10-14)
+- [ ] [[Bug]: EventCard crashes on missing tags and is keyboard inaccessible](https://github.com/Harsh-vardhan09/AthLead/issues/296) — `Harsh-vardhan09/AthLead` (güncellendi: 2026-10-14)
+- [ ] [[Bug]: deleteEvent bypasses central error handler, rate limiter env unparsed, rank reads unthrottled](https://github.com/Harsh-vardhan09/AthLead/issues/295) — `Harsh-vardhan09/AthLead` (güncellendi: 2026-10-14)
 
 ## Typescript
 
