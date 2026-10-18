@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-17 09:52 UTC_
+_Son güncelleme: 2026-10-18 10:04 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Check and fix Azure specs mismatches](https://github.com/Boavizta/boaviztapi/issues/596) — `Boavizta/boaviztapi` (güncellendi: 2026-10-17)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-17)
-- [ ] [Bug: Intermittent Translation Errors When Using Free NVIDIA Models via OpenRouter](https://github.com/petertzy/markdown-reader/issues/427) — `petertzy/markdown-reader` (güncellendi: 2026-10-17)
-- [ ] [Tracking: `async def` route handlers that only use the sync DB session should be plain `def`](https://github.com/AutomatosAI/automatos-ai/issues/1065) — `AutomatosAI/automatos-ai` (güncellendi: 2026-10-17)
-- [ ] [vibey-gh hooks: read self_source from local git config, not branch-controlled .vibey-gh.toml](https://github.com/the-vibey-project/vibey/issues/1292) — `the-vibey-project/vibey` (güncellendi: 2026-10-17)
-- [ ] [add support for fedora as well](https://github.com/the-vibey-project/vibey/issues/1188) — `the-vibey-project/vibey` (güncellendi: 2026-10-17)
-- [ ] [为什么使用原问题检索、HyDE 和网络搜索？RRF 与重排序分别解决什么问题？](https://github.com/pyy666620/product-knowledge-rag/issues/1) — `pyy666620/product-knowledge-rag` (güncellendi: 2026-10-17)
-- [ ] [gptossloop web search](https://github.com/the-vibey-project/vibey/issues/1172) — `the-vibey-project/vibey` (güncellendi: 2026-10-17)
+- [ ] [Memory save stores "the user" instead of the user's name ("Priya, the user's sister, lives in Mumbai")](https://github.com/existence-master/Sentient/issues/475) — `existence-master/Sentient` (güncellendi: 2026-10-18)
+- [ ] [Add language-aware normalization tests](https://github.com/Rajinikanth-Kakarla/indian-asr-benchmark/issues/2) — `Rajinikanth-Kakarla/indian-asr-benchmark` (güncellendi: 2026-10-18)
+- [ ] [Document how to add audio samples to the benchmark](https://github.com/Rajinikanth-Kakarla/indian-asr-benchmark/issues/1) — `Rajinikanth-Kakarla/indian-asr-benchmark` (güncellendi: 2026-10-18)
+- [ ] [[13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital signal processing library](https://github.com/dwebagents/AgentPipe/issues/95) — `dwebagents/AgentPipe` (güncellendi: 2026-10-18)
+- [ ] [Arabic: "Borrowed from …" stays in English](https://github.com/LightningEg/Lightning/issues/37) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
+- [ ] [The "borrowed from your phone" line disappears after five seconds](https://github.com/LightningEg/Lightning/issues/36) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
+- [ ] [Charts: two end labels draw on top of each other](https://github.com/LightningEg/Lightning/issues/35) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
+- [ ] [Arabic: the holdings table's price and FX split reads out of order](https://github.com/LightningEg/Lightning/issues/34) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
 
 ## Javascript
 
-- [ ] [Registration token subject should match returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2768) — `SecureBananaLabs/bug-bounty` (güncellendi: 2026-10-17)
-- [ ] [Toggle Light Dark](https://github.com/Tucanero/claude-tetris/issues/5) — `Tucanero/claude-tetris` (güncellendi: 2026-10-17)
-- [ ] [Inconsistent error envelopes across routes ({error: string} vs {error: {code, message}})](https://github.com/godwinishaku506-hub/stellar-CrowdPay--Blockchain/issues/262) — `godwinishaku506-hub/stellar-CrowdPay--Blockchain` (güncellendi: 2026-10-17)
-- [ ] [Improve text-selection icon positioning on Firefox](https://github.com/Translate-It-App/Translate-It/issues/219) — `Translate-It-App/Translate-It` (güncellendi: 2026-10-17)
-- [ ] [[bug] Selected-text input has no size cap unlike paste and files](https://github.com/darshi1337/apogee/issues/471) — `darshi1337/apogee` (güncellendi: 2026-10-17)
-- [ ] [Some pages scroll sideways on small phones](https://github.com/amponce/archive-movie-browser/issues/331) — `amponce/archive-movie-browser` (güncellendi: 2026-10-17)
-- [ ] [Add quick task templates for common task types 📝](https://github.com/anoopcodehack/DevBoard/issues/575) — `anoopcodehack/DevBoard` (güncellendi: 2026-10-17)
-- [ ] [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80) — `SecureBananaLabs/bug-bounty` (güncellendi: 2026-10-17)
+- [ ] [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543) — `medic/cht-core` (güncellendi: 2026-10-18)
+- [ ] [02-fund-accounts.js exits 0 when funding fails and crashes on non-JSON responses](https://github.com/SynapsVault/deploy/issues/31) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
+- [ ] [Add ESLint and Prettier for the Node scripts](https://github.com/SynapsVault/deploy/issues/38) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
+- [ ] [rollback-contracts.cjs: parseEnvFile does not handle `export KEY=value` lines](https://github.com/SynapsVault/deploy/issues/29) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
+- [ ] [deploy-contracts.cjs: minimum balance check (1 XLM) is too low for three WASM uploads](https://github.com/SynapsVault/deploy/issues/23) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
+- [ ] [Tell remixers what to change after "Use this template"](https://github.com/philaconvalley/projectionMapper/issues/10) — `philaconvalley/projectionMapper` (güncellendi: 2026-10-18)
+- [ ] [Fix date boundaries and overdue-task handling](https://github.com/qwerty274/taskmanager-nsoc2/issues/3) — `qwerty274/taskmanager-nsoc2` (güncellendi: 2026-10-18)
+- [ ] [Add rate limiting to /api/v1/artifacts endpoint](https://github.com/mozzimorzam-sudo/project100-mcp/issues/7) — `mozzimorzam-sudo/project100-mcp` (güncellendi: 2026-10-18)
 
 ## Typescript
 
