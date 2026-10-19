@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-18 10:04 UTC_
+_Son güncelleme: 2026-10-19 11:31 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Memory save stores "the user" instead of the user's name ("Priya, the user's sister, lives in Mumbai")](https://github.com/existence-master/Sentient/issues/475) — `existence-master/Sentient` (güncellendi: 2026-10-18)
-- [ ] [Add language-aware normalization tests](https://github.com/Rajinikanth-Kakarla/indian-asr-benchmark/issues/2) — `Rajinikanth-Kakarla/indian-asr-benchmark` (güncellendi: 2026-10-18)
-- [ ] [Document how to add audio samples to the benchmark](https://github.com/Rajinikanth-Kakarla/indian-asr-benchmark/issues/1) — `Rajinikanth-Kakarla/indian-asr-benchmark` (güncellendi: 2026-10-18)
-- [ ] [[13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital signal processing library](https://github.com/dwebagents/AgentPipe/issues/95) — `dwebagents/AgentPipe` (güncellendi: 2026-10-18)
-- [ ] [Arabic: "Borrowed from …" stays in English](https://github.com/LightningEg/Lightning/issues/37) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
-- [ ] [The "borrowed from your phone" line disappears after five seconds](https://github.com/LightningEg/Lightning/issues/36) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
-- [ ] [Charts: two end labels draw on top of each other](https://github.com/LightningEg/Lightning/issues/35) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
-- [ ] [Arabic: the holdings table's price and FX split reads out of order](https://github.com/LightningEg/Lightning/issues/34) — `LightningEg/Lightning` (güncellendi: 2026-10-18)
+- [ ] [Welcome guide: mentoring family](https://github.com/apache/magpie/issues/1659) — `apache/magpie` (güncellendi: 2026-10-19)
+- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/4) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-10-19)
+- [ ] [Vectorization can filter randomly, the random state should be settable to allow reproducibility](https://github.com/goldener-data/goldener/issues/371) — `goldener-data/goldener` (güncellendi: 2026-10-19)
+- [ ] [fix(api): populate next/previous links in by_contracts](https://github.com/SoroScan/soroscan/issues/1662) — `SoroScan/soroscan` (güncellendi: 2026-10-19)
+- [ ] [Implement keyboard shortcut for toggling between light and dark mode](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3085) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
+- [ ] [Backend .env.example is 3.5KB but there's no documentation about which vars are required vs optional](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3082) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
+- [ ] [Add unit tests for useClipboard hook edge cases](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3076) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
+- [ ] [Add a robots.txt file for the frontend](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3072) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
 
 ## Javascript
 
-- [ ] [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543) — `medic/cht-core` (güncellendi: 2026-10-18)
-- [ ] [02-fund-accounts.js exits 0 when funding fails and crashes on non-JSON responses](https://github.com/SynapsVault/deploy/issues/31) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
-- [ ] [Add ESLint and Prettier for the Node scripts](https://github.com/SynapsVault/deploy/issues/38) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
-- [ ] [rollback-contracts.cjs: parseEnvFile does not handle `export KEY=value` lines](https://github.com/SynapsVault/deploy/issues/29) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
-- [ ] [deploy-contracts.cjs: minimum balance check (1 XLM) is too low for three WASM uploads](https://github.com/SynapsVault/deploy/issues/23) — `SynapsVault/deploy` (güncellendi: 2026-10-18)
-- [ ] [Tell remixers what to change after "Use this template"](https://github.com/philaconvalley/projectionMapper/issues/10) — `philaconvalley/projectionMapper` (güncellendi: 2026-10-18)
-- [ ] [Fix date boundaries and overdue-task handling](https://github.com/qwerty274/taskmanager-nsoc2/issues/3) — `qwerty274/taskmanager-nsoc2` (güncellendi: 2026-10-18)
-- [ ] [Add rate limiting to /api/v1/artifacts endpoint](https://github.com/mozzimorzam-sudo/project100-mcp/issues/7) — `mozzimorzam-sudo/project100-mcp` (güncellendi: 2026-10-18)
+- [ ] [Create a glossary of marketplace and Stellar terms](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1863) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-10-19)
+- [ ] [Add "Rosé Pine" Color Theme](https://github.com/AkulTyagi11/StarStruck/issues/3) — `AkulTyagi11/StarStruck` (güncellendi: 2026-10-19)
+- [ ] [Add a troubleshooting entry for the duplicate-migration-version error](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1861) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-10-19)
+- [ ] [export: a single readable Markdown file](https://github.com/laaielichter/Stashpad/issues/5) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
+- [ ] [Built-in synonyms for German and French](https://github.com/laaielichter/Stashpad/issues/4) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
+- [ ] [setup: add Gemini CLI and Cline snippets](https://github.com/laaielichter/Stashpad/issues/3) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
+- [ ] [Tell us about a risky AI agent setting AgathOS does not warn about yet](https://github.com/laaielichter/AgathOS/issues/9) — `laaielichter/AgathOS` (güncellendi: 2026-10-19)
+- [ ] [Try AgathOS on your machine and report what you see (Windows 10, Windows on ARM, Intel Mac)](https://github.com/laaielichter/AgathOS/issues/8) — `laaielichter/AgathOS` (güncellendi: 2026-10-19)
 
 ## Typescript
 
