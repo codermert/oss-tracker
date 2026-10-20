@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-19 11:31 UTC_
+_Son güncelleme: 2026-10-20 10:36 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Welcome guide: mentoring family](https://github.com/apache/magpie/issues/1659) — `apache/magpie` (güncellendi: 2026-10-19)
-- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/4) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-10-19)
-- [ ] [Vectorization can filter randomly, the random state should be settable to allow reproducibility](https://github.com/goldener-data/goldener/issues/371) — `goldener-data/goldener` (güncellendi: 2026-10-19)
-- [ ] [fix(api): populate next/previous links in by_contracts](https://github.com/SoroScan/soroscan/issues/1662) — `SoroScan/soroscan` (güncellendi: 2026-10-19)
-- [ ] [Implement keyboard shortcut for toggling between light and dark mode](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3085) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
-- [ ] [Backend .env.example is 3.5KB but there's no documentation about which vars are required vs optional](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3082) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
-- [ ] [Add unit tests for useClipboard hook edge cases](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3076) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
-- [ ] [Add a robots.txt file for the frontend](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/issues/3072) — `nandinigoyaldev/Open-Source-Contribution-Atelier` (güncellendi: 2026-10-19)
+- [ ] [🖋️ Add a new function to easy_hash](https://github.com/sara-czasak/py-simple-wrap/issues/464) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-10-20)
+- [ ] [🖋️ Add a new function to easy_async](https://github.com/sara-czasak/py-simple-wrap/issues/463) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-10-20)
+- [ ] [Add screenshots or a short GIF for each module in the README](https://github.com/hackersong/demand-forecast/issues/8) — `hackersong/demand-forecast` (güncellendi: 2026-10-20)
+- [ ] [docs: model examples set config.fallback_models to the primary model, so each failed call runs twice on the same model](https://github.com/The-PR-Agent/pr-agent/issues/4203) — `The-PR-Agent/pr-agent` (güncellendi: 2026-10-20)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-20)
+- [ ] [Published date and author are not displayed](https://github.com/django-cms/djangocms-stories/issues/117) — `django-cms/djangocms-stories` (güncellendi: 2026-10-20)
+- [ ] [Add BDD scenario for testing the LDAP access filter](https://github.com/canonical/sssd-operator/issues/81) — `canonical/sssd-operator` (güncellendi: 2026-10-20)
+- [ ] [Add a `--dry-run` flag to `crewforge write`](https://github.com/aimanmalib/crewforge/issues/6) — `aimanmalib/crewforge` (güncellendi: 2026-10-20)
 
 ## Javascript
 
-- [ ] [Create a glossary of marketplace and Stellar terms](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1863) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-10-19)
-- [ ] [Add "Rosé Pine" Color Theme](https://github.com/AkulTyagi11/StarStruck/issues/3) — `AkulTyagi11/StarStruck` (güncellendi: 2026-10-19)
-- [ ] [Add a troubleshooting entry for the duplicate-migration-version error](https://github.com/Emmy123222/Stellar-MarketPay-/issues/1861) — `Emmy123222/Stellar-MarketPay-` (güncellendi: 2026-10-19)
-- [ ] [export: a single readable Markdown file](https://github.com/laaielichter/Stashpad/issues/5) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
-- [ ] [Built-in synonyms for German and French](https://github.com/laaielichter/Stashpad/issues/4) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
-- [ ] [setup: add Gemini CLI and Cline snippets](https://github.com/laaielichter/Stashpad/issues/3) — `laaielichter/Stashpad` (güncellendi: 2026-10-19)
-- [ ] [Tell us about a risky AI agent setting AgathOS does not warn about yet](https://github.com/laaielichter/AgathOS/issues/9) — `laaielichter/AgathOS` (güncellendi: 2026-10-19)
-- [ ] [Try AgathOS on your machine and report what you see (Windows 10, Windows on ARM, Intel Mac)](https://github.com/laaielichter/AgathOS/issues/8) — `laaielichter/AgathOS` (güncellendi: 2026-10-19)
+- [ ] [[NSoC 2026] There is no way to skip the navigation and reach the main content](https://github.com/DivyashreeR008/Open-Agents/issues/342) — `DivyashreeR008/Open-Agents` (güncellendi: 2026-10-20)
+- [ ] [test(fml-dsa): cover ACVP sigGen/sigVer through the public API](https://github.com/Lennonhaha/fibemate/issues/296) — `Lennonhaha/fibemate` (güncellendi: 2026-10-20)
+- [ ] [ci: stop letting jest pass with no tests (--passWithNoTests hides a dead test suite)](https://github.com/Lennonhaha/fibemate-react-native/issues/67) — `Lennonhaha/fibemate-react-native` (güncellendi: 2026-10-20)
+- [ ] [ci: make CBOM drift and schema validation a pull-request gate](https://github.com/Lennonhaha/fibemate/issues/298) — `Lennonhaha/fibemate` (güncellendi: 2026-10-20)
+- [ ] [Sorted grid and table headers do not announce their sort direction](https://github.com/neomjs/neo/issues/19886) — `neomjs/neo` (güncellendi: 2026-10-20)
+- [ ] [Dark Mode: toggle between light and dark themes](https://github.com/thomas-more-devops/taskflow-group-7-IADI3/issues/5) — `thomas-more-devops/taskflow-group-7-IADI3` (güncellendi: 2026-10-20)
+- [ ] [A restore whose media index rebuild cannot reach Postgres reports an empty reason](https://github.com/atomantic/PortOS/issues/12628) — `atomantic/PortOS` (güncellendi: 2026-10-20)
+- [ ] [Related memories fail with a negative SQL LIMIT for memories with more links than the limit](https://github.com/atomantic/PortOS/issues/12601) — `atomantic/PortOS` (güncellendi: 2026-10-20)
 
 ## Typescript
 
