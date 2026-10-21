@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-20 10:36 UTC_
+_Son güncelleme: 2026-10-21 10:48 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [🖋️ Add a new function to easy_hash](https://github.com/sara-czasak/py-simple-wrap/issues/464) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-10-20)
-- [ ] [🖋️ Add a new function to easy_async](https://github.com/sara-czasak/py-simple-wrap/issues/463) — `sara-czasak/py-simple-wrap` (güncellendi: 2026-10-20)
-- [ ] [Add screenshots or a short GIF for each module in the README](https://github.com/hackersong/demand-forecast/issues/8) — `hackersong/demand-forecast` (güncellendi: 2026-10-20)
-- [ ] [docs: model examples set config.fallback_models to the primary model, so each failed call runs twice on the same model](https://github.com/The-PR-Agent/pr-agent/issues/4203) — `The-PR-Agent/pr-agent` (güncellendi: 2026-10-20)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-20)
-- [ ] [Published date and author are not displayed](https://github.com/django-cms/djangocms-stories/issues/117) — `django-cms/djangocms-stories` (güncellendi: 2026-10-20)
-- [ ] [Add BDD scenario for testing the LDAP access filter](https://github.com/canonical/sssd-operator/issues/81) — `canonical/sssd-operator` (güncellendi: 2026-10-20)
-- [ ] [Add a `--dry-run` flag to `crewforge write`](https://github.com/aimanmalib/crewforge/issues/6) — `aimanmalib/crewforge` (güncellendi: 2026-10-20)
+- [ ] [Agent status bubbles in the 3D office](https://github.com/DG-Elom/orchestra-live/issues/10) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [More tests for the CLI-only fallback (no Claude Desktop metadata)](https://github.com/DG-Elom/orchestra-live/issues/9) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [Filter and search the event feed](https://github.com/DG-Elom/orchestra-live/issues/7) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [Kiosk mode: open the 3D office straight into presentation mode](https://github.com/DG-Elom/orchestra-live/issues/4) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [Test and fix Windows support](https://github.com/DG-Elom/orchestra-live/issues/2) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [Run the test suite in CI on macOS, Linux and Windows](https://github.com/DG-Elom/orchestra-live/issues/1) — `DG-Elom/orchestra-live` (güncellendi: 2026-10-21)
+- [ ] [Page monitor: fhamortgagefinder-com](https://github.com/markramm/data-broker-registry/issues/96) — `markramm/data-broker-registry` (güncellendi: 2026-10-21)
+- [ ] [Add skills for non-tech jobs and German/French terms](https://github.com/rfi-irfos/pass-the-bot/issues/7) — `rfi-irfos/pass-the-bot` (güncellendi: 2026-10-21)
 
 ## Javascript
 
-- [ ] [[NSoC 2026] There is no way to skip the navigation and reach the main content](https://github.com/DivyashreeR008/Open-Agents/issues/342) — `DivyashreeR008/Open-Agents` (güncellendi: 2026-10-20)
-- [ ] [test(fml-dsa): cover ACVP sigGen/sigVer through the public API](https://github.com/Lennonhaha/fibemate/issues/296) — `Lennonhaha/fibemate` (güncellendi: 2026-10-20)
-- [ ] [ci: stop letting jest pass with no tests (--passWithNoTests hides a dead test suite)](https://github.com/Lennonhaha/fibemate-react-native/issues/67) — `Lennonhaha/fibemate-react-native` (güncellendi: 2026-10-20)
-- [ ] [ci: make CBOM drift and schema validation a pull-request gate](https://github.com/Lennonhaha/fibemate/issues/298) — `Lennonhaha/fibemate` (güncellendi: 2026-10-20)
-- [ ] [Sorted grid and table headers do not announce their sort direction](https://github.com/neomjs/neo/issues/19886) — `neomjs/neo` (güncellendi: 2026-10-20)
-- [ ] [Dark Mode: toggle between light and dark themes](https://github.com/thomas-more-devops/taskflow-group-7-IADI3/issues/5) — `thomas-more-devops/taskflow-group-7-IADI3` (güncellendi: 2026-10-20)
-- [ ] [A restore whose media index rebuild cannot reach Postgres reports an empty reason](https://github.com/atomantic/PortOS/issues/12628) — `atomantic/PortOS` (güncellendi: 2026-10-20)
-- [ ] [Related memories fail with a negative SQL LIMIT for memories with more links than the limit](https://github.com/atomantic/PortOS/issues/12601) — `atomantic/PortOS` (güncellendi: 2026-10-20)
+- [ ] [fix(proposal-studio): "Improve with AI" writes invented technical claims into the proposal when Gemini is unavailable](https://github.com/subhranshudash13-dotcom/Contribo/issues/71) — `subhranshudash13-dotcom/Contribo` (güncellendi: 2026-10-21)
+- [ ] [fix(organizations): the jupyter/docker slug aliases redirect to ?search=, a parameter the directory ignores, so they land on the unfiltered list](https://github.com/subhranshudash13-dotcom/Contribo/issues/81) — `subhranshudash13-dotcom/Contribo` (güncellendi: 2026-10-21)
+- [ ] [feat(editor): add font size and font family preferences with persistence](https://github.com/gojaildev/vylop/issues/44) — `gojaildev/vylop` (güncellendi: 2026-10-21)
+- [ ] [feat(editor): Add keyboard shortcuts for code execution, panel toggles, and workspace management](https://github.com/gojaildev/vylop/issues/34) — `gojaildev/vylop` (güncellendi: 2026-10-21)
+- [ ] [[Bug] Image Slider / Logo Carousel: empty item height outputs a stray "auto" that drops the item padding (and display:flex on tablet/mobile)](https://github.com/noruzzamans/gslider-blocks/issues/311) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-21)
+- [ ] [[Bug] Logo Carousel: tablet hover background is applied as the normal background (missing :hover)](https://github.com/noruzzamans/gslider-blocks/issues/310) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-21)
+- [ ] [[Bug] Image Slider / Logo Carousel: "Link Rel Attribute" field throws a TypeError and can't be edited (onChange vs onChangeValue)](https://github.com/noruzzamans/gslider-blocks/issues/308) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-21)
+- [ ] [[Bug] Testimonial: default content padding and title margin are not applied until the Style panel is opened](https://github.com/noruzzamans/gslider-blocks/issues/306) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-21)
 
 ## Typescript
 
