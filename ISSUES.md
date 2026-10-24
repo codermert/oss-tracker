@@ -1,24 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-23 10:41 UTC_
+_Son güncelleme: 2026-10-24 09:58 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Page monitor: sourceitmarketing-com](https://github.com/markramm/data-broker-registry/issues/45) — `markramm/data-broker-registry` (güncellendi: 2026-10-23)
-- [ ] [[Telemetry] Add JSONL and CSV Audit Log Exporters for RingBuffer Events [Level 1]](https://github.com/Shinraya-Tech-Labs/AgentWatch/issues/769) — `Shinraya-Tech-Labs/AgentWatch` (güncellendi: 2026-10-23)
-- [ ] [[Guardrails] Add Pre-Packaged Dangerous Shell & Cloud CLI Regex Presets [Level 1]](https://github.com/Shinraya-Tech-Labs/AgentWatch/issues/768) — `Shinraya-Tech-Labs/AgentWatch` (güncellendi: 2026-10-23)
-- [ ] [bug(cli): global-config help example uses a non-existent category, and options before list-global-config are ignored](https://github.com/docling-project/docling-pipelines/issues/373) — `docling-project/docling-pipelines` (güncellendi: 2026-10-23)
-- [ ] [Translate the README (Chinese and Japanese)](https://github.com/thinkerwave-ai/thinkerwave/issues/8) — `thinkerwave-ai/thinkerwave` (güncellendi: 2026-10-23)
-- [ ] [A new worked example: market entry](https://github.com/thinkerwave-ai/thinkerwave/issues/7) — `thinkerwave-ai/thinkerwave` (güncellendi: 2026-10-23)
-- [ ] [A Jupyter notebook example](https://github.com/thinkerwave-ai/thinkerwave/issues/6) — `thinkerwave-ai/thinkerwave` (güncellendi: 2026-10-23)
-- [ ] [Add a `py.typed` marker](https://github.com/thinkerwave-ai/thinkerwave/issues/5) — `thinkerwave-ai/thinkerwave` (güncellendi: 2026-10-23)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-24)
+- [ ] [[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart](https://github.com/doomsday-network/bounty-guard/issues/1) — `doomsday-network/bounty-guard` (güncellendi: 2026-10-24)
+- [ ] [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) — `doomsday-network/doomsday` (güncellendi: 2026-10-24)
+- [ ] [Mention estimate of tokens used in docs](https://github.com/holoviz/lumen/issues/908) — `holoviz/lumen` (güncellendi: 2026-10-24)
+- [ ] [[BOUNTY] ⭐ 500 DOOM ($wDOOM on Base) — Star Both Repos & Run Quickstart (Auto-Verified via GitHub Stargazers API!)](https://github.com/doomsday-network/doomsday/issues/8) — `doomsday-network/doomsday` (güncellendi: 2026-10-24)
+- [ ] [実装するべき機能](https://github.com/deshihito/BOT/issues/140) — `deshihito/BOT` (güncellendi: 2026-10-24)
+- [ ] [Website](https://github.com/TanbirRamim/open-source-radar/issues/286) — `TanbirRamim/open-source-radar` (güncellendi: 2026-10-24)
+- [ ] [cache: validate the WAV header in cache_hit and sweep orphaned .tmp files](https://github.com/guruswami-ai/not-happy-jan/issues/59) — `guruswami-ai/not-happy-jan` (güncellendi: 2026-10-24)
 
 ## Javascript
 
-_Şu an uygun issue bulunamadı._
+- [ ] [chore(lint): fix legacy JS/CSS lint debt file-by-file (tracking)](https://github.com/noruzzamans/gslider-blocks/issues/349) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-24)
+- [ ] [issue 4](https://github.com/nitinsk0920/copilot-demo-repo/issues/4) — `nitinsk0920/copilot-demo-repo` (güncellendi: 2026-10-24)
+- [ ] [good first issue](https://github.com/nitinsk0920/copilot-demo-repo/issues/1) — `nitinsk0920/copilot-demo-repo` (güncellendi: 2026-10-24)
+- [ ] [[Good First Issue] Add clarity guidance for Finding titles [MC-100]](https://github.com/Berserk-hub150/skillhawk/issues/235) — `Berserk-hub150/skillhawk` (güncellendi: 2026-10-24)
+- [ ] [issue2](https://github.com/nitinsk0920/copilot-demo-repo/issues/2) — `nitinsk0920/copilot-demo-repo` (güncellendi: 2026-10-24)
+- [ ] [issue3](https://github.com/nitinsk0920/copilot-demo-repo/issues/3) — `nitinsk0920/copilot-demo-repo` (güncellendi: 2026-10-24)
+- [ ] [Desktop: screen readers are not told which of Send and Receive, or Files and Text, is selected](https://github.com/jannskiee/floe/issues/707) — `jannskiee/floe` (güncellendi: 2026-10-24)
+- [ ] [Browser: the main page's red error banner is not announced to screen readers, and its X button has no name](https://github.com/jannskiee/floe/issues/706) — `jannskiee/floe` (güncellendi: 2026-10-24)
 
 ## Typescript
 
