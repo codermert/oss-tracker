@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-25 10:21 UTC_
+_Son güncelleme: 2026-10-26 11:51 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output](https://github.com/doomsday-network/doomsday/issues/4) — `doomsday-network/doomsday` (güncellendi: 2026-10-25)
-- [ ] [Add tests for invalid cache inputs](https://github.com/0x-bala/semanticcache/issues/1) — `0x-bala/semanticcache` (güncellendi: 2026-10-25)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-25)
-- [ ] [language attribute for text types](https://github.com/collective/icalendar/issues/1890) — `collective/icalendar` (güncellendi: 2026-10-25)
-- [ ] [[Phase 4] test(services): add unit tests for interviewNotesService.ts](https://github.com/Rahul-pamula/Open_Source_Scout/issues/409) — `Rahul-pamula/Open_Source_Scout` (güncellendi: 2026-10-25)
-- [ ] [Test that every stress preset only uses known knobs](https://github.com/SpiliosDimakopoulos/fintwin/issues/6) — `SpiliosDimakopoulos/fintwin` (güncellendi: 2026-10-25)
-- [ ] [Let users choose whether the created GitHub repository is private](https://github.com/skdas20/Synapse/issues/25) — `skdas20/Synapse` (güncellendi: 2026-10-25)
-- [ ] [Add a 2008-style financial crisis stress preset](https://github.com/SpiliosDimakopoulos/fintwin/issues/5) — `SpiliosDimakopoulos/fintwin` (güncellendi: 2026-10-25)
+- [ ] [Bottom paginator always shown](https://github.com/CentreForDigitalHumanities/Textcavator/issues/2166) — `CentreForDigitalHumanities/Textcavator` (güncellendi: 2026-10-26)
+- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/5) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-10-26)
+- [ ] [LocalCache allows empty strings as keys, causing delete("") to silently fail](https://github.com/eclipse-tractusx/tractusx-sdk/issues/281) — `eclipse-tractusx/tractusx-sdk` (güncellendi: 2026-10-26)
+- [ ] [admission_repair.py writes bypass update log — no actor/reason stamped on healed rows](https://github.com/Venkateshvenki404224/benchpress/issues/423) — `Venkateshvenki404224/benchpress` (güncellendi: 2026-10-26)
+- [ ] [docs: Завести CONTRIBUTORS.md и добавить себя](https://github.com/AndreyVyaznikovtsev/seismic-signal-processing/issues/1) — `AndreyVyaznikovtsev/seismic-signal-processing` (güncellendi: 2026-10-26)
+- [ ] [Document edge cases and add CPU inference benchmarks](https://github.com/sid-lakhani/erml/issues/12) — `sid-lakhani/erml` (güncellendi: 2026-10-26)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-26)
+- [ ] [Support `tlp` in power management](https://github.com/h8d13/archinstoo/issues/239) — `h8d13/archinstoo` (güncellendi: 2026-10-26)
 
 ## Javascript
 
-- [ ] [[Help]:](https://github.com/efficiencyx/JunOS/issues/5) — `efficiencyx/JunOS` (güncellendi: 2026-10-25)
-- [ ] [[03-CodeForces-Clone]: tables overflow mobile, flags no alt, logo squish](https://github.com/jaikaran109/51_Web_Projects/issues/84) — `jaikaran109/51_Web_Projects` (güncellendi: 2026-10-25)
-- [ ] [05-Pokemon-Card-Game: implement flip/match logic](https://github.com/jaikaran109/51_Web_Projects/issues/50) — `jaikaran109/51_Web_Projects` (güncellendi: 2026-10-25)
-- [ ] [01-Rock-Paper-Scissors: score persist + best-of-5](https://github.com/jaikaran109/51_Web_Projects/issues/48) — `jaikaran109/51_Web_Projects` (güncellendi: 2026-10-25)
-- [ ] [Catalogue d'applications connues pour remplir les tuiles automatiquement](https://github.com/Circule-studio/server-dashboard/issues/14) — `Circule-studio/server-dashboard` (güncellendi: 2026-10-25)
-- [ ] [Nouveau widget : Immich (photos, vidéos, stockage)](https://github.com/Circule-studio/server-dashboard/issues/10) — `Circule-studio/server-dashboard` (güncellendi: 2026-10-25)
-- [ ] [Add opt-in JSON reports for CI integrations](https://github.com/Vaibhav2470/json-file-checker/issues/3) — `Vaibhav2470/json-file-checker` (güncellendi: 2026-10-25)
-- [ ] [i18n: add Hindi translation](https://github.com/saisiddi/raktsetu/issues/1) — `saisiddi/raktsetu` (güncellendi: 2026-10-25)
+- [ ] [refactor(base): eliminate no-nested-ternary in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/473) — `noruzzamans/gslider-blocks` (güncellendi: 2026-10-26)
+- [ ] [Microcks.io Migration to Docusaurus + Netlify: Validation Phase & Feedback Wanted](https://github.com/microcks/microcks.io/issues/619) — `microcks/microcks.io` (güncellendi: 2026-10-26)
+- [ ] [NoteView borrows its title field, NOTE_TITLE_MAX names its CHECK, and web uses mobile's notes.composer.* keys (dogfood #17-#19)](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/157) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
+- [ ] [Mobile doctrine names @app/design-system-native, but apps/mobile renders its own src/components primitives (dogfood #16)](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/150) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
+- [ ] [CONTRIBUTING's "Your first change" names only the i18n tests that skip without `pnpm install`; the Single Home and Edge Function split tests skip too](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/274) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
+- [ ] [The header comment in installer/cli.mjs gives the old `npx github:` command; hold it to docs/cli.md](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/273) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
+- [ ] [e2ee rule says the secrets gate checks EXPO_PUBLIC_/NEXT_PUBLIC_ names; the write guard and expo-policy do](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/272) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
+- [ ] [`update --rollback` leaves `tools/agents.lock.json` as the update wrote it, so `prompts` reds on a tree nobody edited](https://github.com/BhodiSea/next-expo-supabase-agent-harness/issues/271) — `BhodiSea/next-expo-supabase-agent-harness` (güncellendi: 2026-10-26)
 
 ## Typescript
 
