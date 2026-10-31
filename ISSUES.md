@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-10-30 11:50 UTC_
+_Son güncelleme: 2026-10-31 11:23 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Make the hash tests catch split installs, new requirements files and .yaml workflows](https://github.com/tomgreef/dj-toolkit/issues/126) — `tomgreef/dj-toolkit` (güncellendi: 2026-10-30)
-- [ ] [GRN-C006 sdist-wheel-mismatch: a wheel file with no counterpart in the sdist](https://github.com/Orca-Solutions/garnet-guard/issues/60) — `Orca-Solutions/garnet-guard` (güncellendi: 2026-10-30)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-10-30)
-- [ ] [feat(providers): establish actionable provider error taxonomy without credential leakage](https://github.com/tanveer-arch/promptdrift/issues/14) — `tanveer-arch/promptdrift` (güncellendi: 2026-10-30)
-- [ ] [feat(storage): harden monitoring history retention and database recovery guidance](https://github.com/tanveer-arch/promptdrift/issues/17) — `tanveer-arch/promptdrift` (güncellendi: 2026-10-30)
-- [ ] [test(cli): expand cross-platform CLI smoke coverage and isolated execution tests](https://github.com/tanveer-arch/promptdrift/issues/16) — `tanveer-arch/promptdrift` (güncellendi: 2026-10-30)
-- [ ] [test(providers): expand OpenAI-compatible response fixture matrix and edge cases](https://github.com/tanveer-arch/promptdrift/issues/15) — `tanveer-arch/promptdrift` (güncellendi: 2026-10-30)
-- [ ] [feat: add detailed failure diff output to rich terminal report](https://github.com/tanveer-arch/promptdrift/issues/26) — `tanveer-arch/promptdrift` (güncellendi: 2026-10-30)
+- [ ] [[enhancement]: fix typing of untyped-defs](https://github.com/canonical/cloud-init/issues/5445) — `canonical/cloud-init` (güncellendi: 2026-10-31)
+- [ ] [Compare between external clients features and what CacheLib support](https://github.com/pallets-eco/cachelib/issues/486) — `pallets-eco/cachelib` (güncellendi: 2026-10-31)
+- [ ] [Unpin Pytest on Redis tests](https://github.com/getsentry/sentry-python/issues/3715) — `getsentry/sentry-python` (güncellendi: 2026-10-31)
+- [ ] [Add a plugin icon](https://github.com/GillMacedo/permwhy/issues/5) — `GillMacedo/permwhy` (güncellendi: 2026-10-31)
+- [ ] [Support PowerShell(...) rules](https://github.com/GillMacedo/permwhy/issues/4) — `GillMacedo/permwhy` (güncellendi: 2026-10-31)
+- [ ] [Add SARIF output for lint](https://github.com/GillMacedo/permwhy/issues/3) — `GillMacedo/permwhy` (güncellendi: 2026-10-31)
+- [ ] [Explain Read and Edit rules as well as Bash](https://github.com/GillMacedo/permwhy/issues/2) — `GillMacedo/permwhy` (güncellendi: 2026-10-31)
+- [ ] [Handle FOO=bar command environment prefixes](https://github.com/GillMacedo/permwhy/issues/1) — `GillMacedo/permwhy` (güncellendi: 2026-10-31)
 
 ## Javascript
 
