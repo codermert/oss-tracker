@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-01 12:16 UTC_
+_Son güncelleme: 2026-11-02 14:09 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [good first issue: 新增 1 个文档/金融/工程向 skill（榜单未覆盖）](https://github.com/kanjiandahai/skills-collection/issues/3) — `kanjiandahai/skills-collection` (güncellendi: 2026-11-01)
-- [ ] [good first issue: 纠正 2–5 个明显分错的 category](https://github.com/kanjiandahai/skills-collection/issues/2) — `kanjiandahai/skills-collection` (güncellendi: 2026-11-01)
-- [ ] [good first issue: 加厚 3 个 stub 的 description 与正文](https://github.com/kanjiandahai/skills-collection/issues/1) — `kanjiandahai/skills-collection` (güncellendi: 2026-11-01)
-- [ ] [Add offline documentation checks to the public CI workflow](https://github.com/GopalGB/FridayOutreach/issues/3) — `GopalGB/FridayOutreach` (güncellendi: 2026-11-01)
-- [ ] [Add a small fictional repeated-card directory recipe and walkthrough](https://github.com/GopalGB/FridayOutreach/issues/2) — `GopalGB/FridayOutreach` (güncellendi: 2026-11-01)
-- [ ] [Show FridayOutreach in canonical CLI help while preserving the legacy alias](https://github.com/GopalGB/FridayOutreach/issues/1) — `GopalGB/FridayOutreach` (güncellendi: 2026-11-01)
-- [ ] [Reference plans wanted: bring a basin you know, especially outside the US, UK and France](https://github.com/Rekin226/aquascope/issues/442) — `Rekin226/aquascope` (güncellendi: 2026-11-01)
-- [ ] [Add more guard patterns, with tests](https://github.com/GillMacedo/shiftbaton/issues/5) — `GillMacedo/shiftbaton` (güncellendi: 2026-11-01)
+- [ ] [Git-history search breaks under user git config (color.ui, diff.external, textconv)](https://github.com/chunkhound/chunkhound/issues/470) — `chunkhound/chunkhound` (güncellendi: 2026-11-02)
+- [ ] [# fix(events): explain why a cron expression is invalid instead of raising raw Python errors](https://github.com/cuga-project/cuga-agent/issues/816) — `cuga-project/cuga-agent` (güncellendi: 2026-11-02)
+- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/6) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-11-02)
+- [ ] [`transform compare` sends agents to raw `dbt run` when its inputs are not built](https://github.com/exmergo/dex/issues/1058) — `exmergo/dex` (güncellendi: 2026-11-02)
+- [ ] [[ci] A measurement-completeness check for PRs that touch the retrieval path](https://github.com/akash-coded/nanorag/issues/56) — `akash-coded/nanorag` (güncellendi: 2026-11-02)
+- [ ] [Recognise dart analyze, flutter analyze, detekt and terraform validate as lint](https://github.com/TanbirRamim/show-receipts/issues/33) — `TanbirRamim/show-receipts` (güncellendi: 2026-11-02)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-02)
+- [ ] [Policy: driving the Docker API through its socket, or a cgroup release_agent, waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/535) — `Cygnux-Labs/Tracekit` (güncellendi: 2026-11-02)
 
 ## Javascript
 
-- [ ] [feat(cli): add validate command to verify project state and template integrity](https://github.com/PicadoLabs/build-with-ai/issues/212) — `PicadoLabs/build-with-ai` (güncellendi: 2026-11-01)
-- [ ] [Check mouse reporting in the remaining terminals](https://github.com/modulane/dev-workspace-cli/issues/26) — `modulane/dev-workspace-cli` (güncellendi: 2026-11-01)
-- [ ] [feat(ui): add local browser dashboard UI to visualize project graph](https://github.com/PicadoLabs/build-with-ai/issues/222) — `PicadoLabs/build-with-ai` (güncellendi: 2026-11-01)
-- [ ] [[outreach] Add a pattern set for IBM Bob (bob) — Crux pipes Bob sessions into pluk with no patterns](https://github.com/hivecommons/pluk/issues/400) — `hivecommons/pluk` (güncellendi: 2026-11-01)
-- [ ] [Add Italian translation](https://github.com/Primeteumm/Screenshot-Enhancer/issues/16) — `Primeteumm/Screenshot-Enhancer` (güncellendi: 2026-11-01)
-- [ ] [Add Brazilian Portuguese translation](https://github.com/Primeteumm/Screenshot-Enhancer/issues/15) — `Primeteumm/Screenshot-Enhancer` (güncellendi: 2026-11-01)
-- [ ] [[DOCS] Add project introduction, architecture specifications, and team charter](https://github.com/ranadeepyasa/Student-Management-System/issues/1) — `ranadeepyasa/Student-Management-System` (güncellendi: 2026-11-01)
-- [ ] [Fix the Fetch example's return value](https://github.com/meteor/meteor/issues/14904) — `meteor/meteor` (güncellendi: 2026-11-01)
+- [ ] [Let pending Retry callbacks be cancelled with an AbortSignal](https://github.com/meteor/meteor/issues/14930) — `meteor/meteor` (güncellendi: 2026-11-02)
+- [ ] [Website: show "Copied" feedback for screen readers only once](https://github.com/TanbirRamim/open-source-radar/issues/164) — `TanbirRamim/open-source-radar` (güncellendi: 2026-11-02)
+- [ ] [Design and style to the website](https://github.com/erickcernarequejo/Carrito-Compras-JavaScript/issues/2) — `erickcernarequejo/Carrito-Compras-JavaScript` (güncellendi: 2026-11-02)
+- [ ] [Allow customizing the per-stream name inside the exported JSON](https://github.com/albertolicea00/m3u8-detector/issues/6) — `albertolicea00/m3u8-detector` (güncellendi: 2026-11-02)
+- [ ] [Two tests pass for any value: `updateGasState()` and `calculateChemicalEquilibriumTP()` compare arrays with `RunAssertForFloat`](https://github.com/srebughini/JASALI/issues/4) — `srebughini/JASALI` (güncellendi: 2026-11-02)
+- [ ] [Documentation: describe the two bundle workflows (esbuild and Browserify/esmify) and fix the ASALI link in the README](https://github.com/srebughini/JASALI/issues/5) — `srebughini/JASALI` (güncellendi: 2026-11-02)
+- [ ] [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337) — `louislam/uptime-kuma` (güncellendi: 2026-11-02)
+- [ ] [Add ReactiveDict.has(key) with presence-only reactivity](https://github.com/meteor/meteor/issues/14929) — `meteor/meteor` (güncellendi: 2026-11-02)
 
 ## Typescript
 
