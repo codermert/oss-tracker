@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-02 14:09 UTC_
+_Son güncelleme: 2026-11-03 13:13 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Git-history search breaks under user git config (color.ui, diff.external, textconv)](https://github.com/chunkhound/chunkhound/issues/470) — `chunkhound/chunkhound` (güncellendi: 2026-11-02)
-- [ ] [# fix(events): explain why a cron expression is invalid instead of raising raw Python errors](https://github.com/cuga-project/cuga-agent/issues/816) — `cuga-project/cuga-agent` (güncellendi: 2026-11-02)
-- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/6) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-11-02)
-- [ ] [`transform compare` sends agents to raw `dbt run` when its inputs are not built](https://github.com/exmergo/dex/issues/1058) — `exmergo/dex` (güncellendi: 2026-11-02)
-- [ ] [[ci] A measurement-completeness check for PRs that touch the retrieval path](https://github.com/akash-coded/nanorag/issues/56) — `akash-coded/nanorag` (güncellendi: 2026-11-02)
-- [ ] [Recognise dart analyze, flutter analyze, detekt and terraform validate as lint](https://github.com/TanbirRamim/show-receipts/issues/33) — `TanbirRamim/show-receipts` (güncellendi: 2026-11-02)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-02)
-- [ ] [Policy: driving the Docker API through its socket, or a cgroup release_agent, waits for a person](https://github.com/Cygnux-Labs/Tracekit/issues/535) — `Cygnux-Labs/Tracekit` (güncellendi: 2026-11-02)
+- [ ] [CLI: add mission spend and status inspection (sellable-mcp mission inspect)](https://github.com/HarshDubey23/SELLABLE/issues/18) — `HarshDubey23/SELLABLE` (güncellendi: 2026-11-03)
+- [ ] [tests: cover the dashboard's degrade-to-empty advisory blocks and malformed POST refusals](https://github.com/Cyrax321/CONTINUUM/issues/1924) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [tests: cover the thin adapters' availability probes, non-dict arguments, and unknown-token no-ops](https://github.com/Cyrax321/CONTINUUM/issues/1925) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [tests: cover hooks.py's missing-file fallbacks, unprojectable progress, and async-hook early returns](https://github.com/Cyrax321/CONTINUUM/issues/1926) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [tests: drive the TUI detail view's keyboard control surface (tabs, selection, queue mutations)](https://github.com/Cyrax321/CONTINUUM/issues/1927) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [build: ruff lockstep broke — pyproject pins 0.17.3 but .pre-commit-config.yaml and CONTRIBUTING.md still say v0.16.10](https://github.com/Cyrax321/CONTINUUM/issues/1947) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [docs: architecture figures say "55 event types" but the EventType enum has 57](https://github.com/Cyrax321/CONTINUUM/issues/1948) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [docs: the documented test count drifted to ~3950 while the suite collects 4289](https://github.com/Cyrax321/CONTINUUM/issues/1949) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
 
 ## Javascript
 
-- [ ] [Let pending Retry callbacks be cancelled with an AbortSignal](https://github.com/meteor/meteor/issues/14930) — `meteor/meteor` (güncellendi: 2026-11-02)
-- [ ] [Website: show "Copied" feedback for screen readers only once](https://github.com/TanbirRamim/open-source-radar/issues/164) — `TanbirRamim/open-source-radar` (güncellendi: 2026-11-02)
-- [ ] [Design and style to the website](https://github.com/erickcernarequejo/Carrito-Compras-JavaScript/issues/2) — `erickcernarequejo/Carrito-Compras-JavaScript` (güncellendi: 2026-11-02)
-- [ ] [Allow customizing the per-stream name inside the exported JSON](https://github.com/albertolicea00/m3u8-detector/issues/6) — `albertolicea00/m3u8-detector` (güncellendi: 2026-11-02)
-- [ ] [Two tests pass for any value: `updateGasState()` and `calculateChemicalEquilibriumTP()` compare arrays with `RunAssertForFloat`](https://github.com/srebughini/JASALI/issues/4) — `srebughini/JASALI` (güncellendi: 2026-11-02)
-- [ ] [Documentation: describe the two bundle workflows (esbuild and Browserify/esmify) and fix the ASALI link in the README](https://github.com/srebughini/JASALI/issues/5) — `srebughini/JASALI` (güncellendi: 2026-11-02)
-- [ ] [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337) — `louislam/uptime-kuma` (güncellendi: 2026-11-02)
-- [ ] [Add ReactiveDict.has(key) with presence-only reactivity](https://github.com/meteor/meteor/issues/14929) — `meteor/meteor` (güncellendi: 2026-11-02)
+- [ ] [Improve the link jump to web map](https://github.com/Greenstand/treetracker-admin-client/issues/1158) — `Greenstand/treetracker-admin-client` (güncellendi: 2026-11-03)
+- [ ] [Make the watch debounce configurable for serve and mcp](https://github.com/aziron-ai/atlas/issues/204) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
+- [ ] [Use distinct exit codes for ambiguous and not-found names](https://github.com/aziron-ai/atlas/issues/199) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
+- [ ] [Offer to pre-approve Atlas tools and keep them always loaded in Claude Code](https://github.com/aziron-ai/atlas/issues/179) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
+- [ ] [Write "use Atlas first" guidance into every agent's instruction file](https://github.com/aziron-ai/atlas/issues/178) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
+- [ ] [budget set --model and budget show: suggest the nearest model when the name matches nothing](https://github.com/nrzz/claude-cost-guard/issues/9) — `nrzz/claude-cost-guard` (güncellendi: 2026-11-03)
+- [ ] [Microcks.io Migration to Docusaurus + Netlify: Validation Phase & Feedback Wanted](https://github.com/microcks/microcks.io/issues/619) — `microcks/microcks.io` (güncellendi: 2026-11-03)
+- [ ] [uuid of capture is missing in the "Captures" Module download](https://github.com/Greenstand/treetracker-admin-client/issues/928) — `Greenstand/treetracker-admin-client` (güncellendi: 2026-11-03)
 
 ## Typescript
 
