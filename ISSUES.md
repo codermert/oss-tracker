@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-03 13:13 UTC_
+_Son güncelleme: 2026-11-04 13:27 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [CLI: add mission spend and status inspection (sellable-mcp mission inspect)](https://github.com/HarshDubey23/SELLABLE/issues/18) — `HarshDubey23/SELLABLE` (güncellendi: 2026-11-03)
-- [ ] [tests: cover the dashboard's degrade-to-empty advisory blocks and malformed POST refusals](https://github.com/Cyrax321/CONTINUUM/issues/1924) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [tests: cover the thin adapters' availability probes, non-dict arguments, and unknown-token no-ops](https://github.com/Cyrax321/CONTINUUM/issues/1925) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [tests: cover hooks.py's missing-file fallbacks, unprojectable progress, and async-hook early returns](https://github.com/Cyrax321/CONTINUUM/issues/1926) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [tests: drive the TUI detail view's keyboard control surface (tabs, selection, queue mutations)](https://github.com/Cyrax321/CONTINUUM/issues/1927) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [build: ruff lockstep broke — pyproject pins 0.17.3 but .pre-commit-config.yaml and CONTRIBUTING.md still say v0.16.10](https://github.com/Cyrax321/CONTINUUM/issues/1947) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [docs: architecture figures say "55 event types" but the EventType enum has 57](https://github.com/Cyrax321/CONTINUUM/issues/1948) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
-- [ ] [docs: the documented test count drifted to ~3950 while the suite collects 4289](https://github.com/Cyrax321/CONTINUUM/issues/1949) — `Cyrax321/CONTINUUM` (güncellendi: 2026-11-03)
+- [ ] [test(cli): cli.py の baseline_update で未テストの分岐をテストする（3 行）](https://github.com/Sh1n1230/security-checker/issues/483) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
+- [ ] [Audit item 16: bot-only comments should not count as a reply](https://github.com/harsimran-preet/repo-launch/issues/3) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
+- [ ] [Audit: add --only flag to run selected checks](https://github.com/harsimran-preet/repo-launch/issues/2) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
+- [ ] [Audit: support reStructuredText READMEs (tagline + install checks)](https://github.com/harsimran-preet/repo-launch/issues/1) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-04)
+- [ ] [test(cli): cli.py の config_show で未テストの分岐をテストする（1 行）](https://github.com/Sh1n1230/security-checker/issues/482) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
+- [ ] [test(cli): cli.py の _select で未テストの分岐をテストする（12 行）](https://github.com/Sh1n1230/security-checker/issues/481) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
+- [ ] [renamechannel logging](https://github.com/PuzzleTechHub/bot-be-named/issues/457) — `PuzzleTechHub/bot-be-named` (güncellendi: 2026-11-04)
 
 ## Javascript
 
-- [ ] [Improve the link jump to web map](https://github.com/Greenstand/treetracker-admin-client/issues/1158) — `Greenstand/treetracker-admin-client` (güncellendi: 2026-11-03)
-- [ ] [Make the watch debounce configurable for serve and mcp](https://github.com/aziron-ai/atlas/issues/204) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
-- [ ] [Use distinct exit codes for ambiguous and not-found names](https://github.com/aziron-ai/atlas/issues/199) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
-- [ ] [Offer to pre-approve Atlas tools and keep them always loaded in Claude Code](https://github.com/aziron-ai/atlas/issues/179) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
-- [ ] [Write "use Atlas first" guidance into every agent's instruction file](https://github.com/aziron-ai/atlas/issues/178) — `aziron-ai/atlas` (güncellendi: 2026-11-03)
-- [ ] [budget set --model and budget show: suggest the nearest model when the name matches nothing](https://github.com/nrzz/claude-cost-guard/issues/9) — `nrzz/claude-cost-guard` (güncellendi: 2026-11-03)
-- [ ] [Microcks.io Migration to Docusaurus + Netlify: Validation Phase & Feedback Wanted](https://github.com/microcks/microcks.io/issues/619) — `microcks/microcks.io` (güncellendi: 2026-11-03)
-- [ ] [uuid of capture is missing in the "Captures" Module download](https://github.com/Greenstand/treetracker-admin-client/issues/928) — `Greenstand/treetracker-admin-client` (güncellendi: 2026-11-03)
+- [ ] [[DOCS] Fix typos and expand local setup instructions](https://github.com/codebreakers-ulk/cb-campus-directory/issues/5) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
+- [ ] [[CONTENT] Add Kigali Public Library entry](https://github.com/codebreakers-ulk/cb-campus-directory/issues/2) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
+- [ ] [[CONTENT] Add Rwanda Coding Academy / ALU resources](https://github.com/codebreakers-ulk/cb-campus-directory/issues/1) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
+- [ ] [Remove bind/unbind](https://github.com/jcubic/jquery.terminal/issues/1077) — `jcubic/jquery.terminal` (güncellendi: 2026-11-04)
+- [ ] [Ship a `penthera.lock` for the repo's own agent config](https://github.com/danoszz/penthera/issues/236) — `danoszz/penthera` (güncellendi: 2026-11-04)
+- [ ] [El color de la J no esta bien. Debería ser un azul pálido](https://github.com/cosorio26/claude-tetris/issues/7) — `cosorio26/claude-tetris` (güncellendi: 2026-11-04)
+- [ ] [[Feature]: Link references in agent questions to the items they name](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/684) — `aws-samples/sample-collaborative-ai-dlc` (güncellendi: 2026-11-04)
+- [ ] [Add security headers with Helmet](https://github.com/KEX-03/taskflow/issues/64) — `KEX-03/taskflow` (güncellendi: 2026-11-04)
 
 ## Typescript
 
