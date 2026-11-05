@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-04 13:27 UTC_
+_Son güncelleme: 2026-11-05 13:41 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [test(cli): cli.py の baseline_update で未テストの分岐をテストする（3 行）](https://github.com/Sh1n1230/security-checker/issues/483) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
-- [ ] [Audit item 16: bot-only comments should not count as a reply](https://github.com/harsimran-preet/repo-launch/issues/3) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
-- [ ] [Audit: add --only flag to run selected checks](https://github.com/harsimran-preet/repo-launch/issues/2) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
-- [ ] [Audit: support reStructuredText READMEs (tagline + install checks)](https://github.com/harsimran-preet/repo-launch/issues/1) — `harsimran-preet/repo-launch` (güncellendi: 2026-11-04)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-04)
-- [ ] [test(cli): cli.py の config_show で未テストの分岐をテストする（1 行）](https://github.com/Sh1n1230/security-checker/issues/482) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
-- [ ] [test(cli): cli.py の _select で未テストの分岐をテストする（12 行）](https://github.com/Sh1n1230/security-checker/issues/481) — `Sh1n1230/security-checker` (güncellendi: 2026-11-04)
-- [ ] [renamechannel logging](https://github.com/PuzzleTechHub/bot-be-named/issues/457) — `PuzzleTechHub/bot-be-named` (güncellendi: 2026-11-04)
+- [ ] [Test windows and mac os in CI](https://github.com/pasqal-io/pasqal-cloud/issues/317) — `pasqal-io/pasqal-cloud` (güncellendi: 2026-11-05)
+- [ ] [Update `ExperimentStructureV4_2_0` schema `fail_ok` -> `weak`](https://github.com/BSC-ES/autosubmit-api/issues/337) — `BSC-ES/autosubmit-api` (güncellendi: 2026-11-05)
+- [ ] [tank cart rescipie issue](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/27211) — `GTNewHorizons/GT-New-Horizons-Modpack` (güncellendi: 2026-11-05)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-05)
+- [ ] [[docs] Add a runnable offline custom LLM quick-start example](https://github.com/crewAIInc/crewAI/issues/8003) — `crewAIInc/crewAI` (güncellendi: 2026-11-05)
+- [ ] [Add an MCP server: an empty strip above the results](https://github.com/KonstantinStarovoytov/kitden/issues/19) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-05)
+- [ ] [Catalog search: the publisher's own server is often far down the list](https://github.com/KonstantinStarovoytov/kitden/issues/18) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-05)
+- [ ] [[FT] showing count in Markdown summary table](https://github.com/huggingface/lighteval/issues/804) — `huggingface/lighteval` (güncellendi: 2026-11-05)
 
 ## Javascript
 
-- [ ] [[DOCS] Fix typos and expand local setup instructions](https://github.com/codebreakers-ulk/cb-campus-directory/issues/5) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
-- [ ] [[CONTENT] Add Kigali Public Library entry](https://github.com/codebreakers-ulk/cb-campus-directory/issues/2) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
-- [ ] [[CONTENT] Add Rwanda Coding Academy / ALU resources](https://github.com/codebreakers-ulk/cb-campus-directory/issues/1) — `codebreakers-ulk/cb-campus-directory` (güncellendi: 2026-11-04)
-- [ ] [Remove bind/unbind](https://github.com/jcubic/jquery.terminal/issues/1077) — `jcubic/jquery.terminal` (güncellendi: 2026-11-04)
-- [ ] [Ship a `penthera.lock` for the repo's own agent config](https://github.com/danoszz/penthera/issues/236) — `danoszz/penthera` (güncellendi: 2026-11-04)
-- [ ] [El color de la J no esta bien. Debería ser un azul pálido](https://github.com/cosorio26/claude-tetris/issues/7) — `cosorio26/claude-tetris` (güncellendi: 2026-11-04)
-- [ ] [[Feature]: Link references in agent questions to the items they name](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/684) — `aws-samples/sample-collaborative-ai-dlc` (güncellendi: 2026-11-04)
-- [ ] [Add security headers with Helmet](https://github.com/KEX-03/taskflow/issues/64) — `KEX-03/taskflow` (güncellendi: 2026-11-04)
+- [ ] [统一前端模块的 ?v= 版本号，避免同一模块加载两次](https://github.com/BlackSlience-Reaper/egress-observatory/issues/16) — `BlackSlience-Reaper/egress-observatory` (güncellendi: 2026-11-05)
+- [ ] [Flag .pnpmfile.cjs hooks](https://github.com/cryptostrapon/npm-install-audit/issues/14) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
+- [ ] [Flag yarnPath in .yarnrc.yml](https://github.com/cryptostrapon/npm-install-audit/issues/13) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
+- [ ] [Check .npmrc for risky settings](https://github.com/cryptostrapon/npm-install-audit/issues/7) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
+- [ ] [CI: run the script unit tests on macOS too](https://github.com/MehdiMamas/rebuild-review/issues/119) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
+- [ ] [capture: let the screen widths be set (--widths)](https://github.com/MehdiMamas/rebuild-review/issues/118) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
+- [ ] [Stop a leftover app on Linux without lsof](https://github.com/MehdiMamas/rebuild-review/issues/117) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
+- [ ] [Update AAuth section in v1.1?](https://github.com/decentralized-identity/delegated-authority-evaluations/issues/23) — `decentralized-identity/delegated-authority-evaluations` (güncellendi: 2026-11-05)
 
 ## Typescript
 
