@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-05 13:41 UTC_
+_Son güncelleme: 2026-11-06 13:25 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Test windows and mac os in CI](https://github.com/pasqal-io/pasqal-cloud/issues/317) — `pasqal-io/pasqal-cloud` (güncellendi: 2026-11-05)
-- [ ] [Update `ExperimentStructureV4_2_0` schema `fail_ok` -> `weak`](https://github.com/BSC-ES/autosubmit-api/issues/337) — `BSC-ES/autosubmit-api` (güncellendi: 2026-11-05)
-- [ ] [tank cart rescipie issue](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/27211) — `GTNewHorizons/GT-New-Horizons-Modpack` (güncellendi: 2026-11-05)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-05)
-- [ ] [[docs] Add a runnable offline custom LLM quick-start example](https://github.com/crewAIInc/crewAI/issues/8003) — `crewAIInc/crewAI` (güncellendi: 2026-11-05)
-- [ ] [Add an MCP server: an empty strip above the results](https://github.com/KonstantinStarovoytov/kitden/issues/19) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-05)
-- [ ] [Catalog search: the publisher's own server is often far down the list](https://github.com/KonstantinStarovoytov/kitden/issues/18) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-05)
-- [ ] [[FT] showing count in Markdown summary table](https://github.com/huggingface/lighteval/issues/804) — `huggingface/lighteval` (güncellendi: 2026-11-05)
+- [ ] [[Plugin] Add ExchangeRate-API currency converter plugin](https://github.com/mefeusl/plugin-cli/issues/3) — `mefeusl/plugin-cli` (güncellendi: 2026-11-06)
+- [ ] [[Plugin] Add GitHub User Status API plugin](https://github.com/mefeusl/plugin-cli/issues/2) — `mefeusl/plugin-cli` (güncellendi: 2026-11-06)
+- [ ] [[Plugin] Add Open-Meteo Weather API plugin](https://github.com/mefeusl/plugin-cli/issues/1) — `mefeusl/plugin-cli` (güncellendi: 2026-11-06)
+- [ ] [GV002 is skipped when a scalar subquery in the SELECT list aggregates](https://github.com/laaielichter/Gulliver/issues/33) — `laaielichter/Gulliver` (güncellendi: 2026-11-06)
+- [ ] [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2) — `IES-BoilerRoom/asyncpg-savepoint-harness` (güncellendi: 2026-11-06)
+- [ ] [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) — `IES-BoilerRoom/vllm-paged-kv-verifier` (güncellendi: 2026-11-06)
+- [ ] [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) — `IES-BoilerRoom/vllm-paged-kv-verifier` (güncellendi: 2026-11-06)
+- [ ] [[Need support]: Make the credential scrub speed test independent of machine load](https://github.com/mloda-ai/mloda/issues/2664) — `mloda-ai/mloda` (güncellendi: 2026-11-06)
 
 ## Javascript
 
-- [ ] [统一前端模块的 ?v= 版本号，避免同一模块加载两次](https://github.com/BlackSlience-Reaper/egress-observatory/issues/16) — `BlackSlience-Reaper/egress-observatory` (güncellendi: 2026-11-05)
-- [ ] [Flag .pnpmfile.cjs hooks](https://github.com/cryptostrapon/npm-install-audit/issues/14) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
-- [ ] [Flag yarnPath in .yarnrc.yml](https://github.com/cryptostrapon/npm-install-audit/issues/13) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
-- [ ] [Check .npmrc for risky settings](https://github.com/cryptostrapon/npm-install-audit/issues/7) — `cryptostrapon/npm-install-audit` (güncellendi: 2026-11-05)
-- [ ] [CI: run the script unit tests on macOS too](https://github.com/MehdiMamas/rebuild-review/issues/119) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
-- [ ] [capture: let the screen widths be set (--widths)](https://github.com/MehdiMamas/rebuild-review/issues/118) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
-- [ ] [Stop a leftover app on Linux without lsof](https://github.com/MehdiMamas/rebuild-review/issues/117) — `MehdiMamas/rebuild-review` (güncellendi: 2026-11-05)
-- [ ] [Update AAuth section in v1.1?](https://github.com/decentralized-identity/delegated-authority-evaluations/issues/23) — `decentralized-identity/delegated-authority-evaluations` (güncellendi: 2026-11-05)
+- [ ] [[Bug] Align forms:builder Extension Point with Slot Catalog Specification](https://github.com/NITRR-Official/CampusOS/issues/147) — `NITRR-Official/CampusOS` (güncellendi: 2026-11-06)
+- [ ] [[Feature] Expose Isomorphic Barrel Exports in Root @campus-os/shared](https://github.com/NITRR-Official/CampusOS/issues/146) — `NITRR-Official/CampusOS` (güncellendi: 2026-11-06)
+- [ ] [[Good First Issue]: Let ScheduleCreateTransaction getters read a frozen transaction](https://github.com/hiero-ledger/hiero-sdk-js/issues/4681) — `hiero-ledger/hiero-sdk-js` (güncellendi: 2026-11-06)
+- [ ] [STEM Subjects has no linear-algebra tutoring skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/288) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-11-06)
+- [ ] [Study & Productivity has no mnemonic / memory-palace skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/311) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-11-06)
+- [ ] [STEM Subjects has no human anatomy / physiology study skill](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/305) — `StudentSuite/awesome-skills-plugins-for-students` (güncellendi: 2026-11-06)
+- [ ] [captions: SRT files with cue coordinates or one-digit hours are rejected](https://github.com/laaielichter/Ai-edit-studio/issues/39) — `laaielichter/Ai-edit-studio` (güncellendi: 2026-11-06)
+- [ ] [transcripts: VTT import keeps HTML entities ("Tom &amp; Jerry" stays as "&amp;")](https://github.com/laaielichter/Ai-edit-studio/issues/38) — `laaielichter/Ai-edit-studio` (güncellendi: 2026-11-06)
 
 ## Typescript
 
