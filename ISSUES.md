@@ -1,31 +1,31 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-07 12:04 UTC_
+_Son güncelleme: 2026-11-08 12:25 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Text size setting for the floating window](https://github.com/GianlucaBave/murmury/issues/13) — `GianlucaBave/murmury` (güncellendi: 2026-11-07)
-- [ ] [Analyse de BOM : alerter quand une exemption RoHS expire dans moins d'un an](https://github.com/ElliotGalaor/ElectronicEnvironmental/issues/5) — `ElliotGalaor/ElectronicEnvironmental` (güncellendi: 2026-11-07)
-- [ ] [Remove reportUnknownMemberType file pragma from remaining 24 tests](https://github.com/elviskahoro/buridan-ui/issues/346) — `elviskahoro/buridan-ui` (güncellendi: 2026-11-07)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-07)
-- [ ] [test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10) — `PhanKhoa95/oss-bot-trap-benchmark` (güncellendi: 2026-11-07)
-- [ ] [[Feature Request]: Migrate acceptance tests for blog-post-writer from Puppeteer to Playwright](https://github.com/oppia/oppia/issues/26818) — `oppia/oppia` (güncellendi: 2026-11-07)
-- [ ] [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) — `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` (güncellendi: 2026-11-07)
-- [ ] [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) — `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` (güncellendi: 2026-11-07)
+- [ ] [🐾 Búsqueda de colaboradores para Gatogpt](https://github.com/luciano2-web/Luciano-Sarmiento/issues/25) — `luciano2-web/Luciano-Sarmiento` (güncellendi: 2026-11-08)
+- [ ] [🐛 fix: typo en nombres de servos en firmware](https://github.com/luciano2-web/Luciano-Sarmiento/issues/33) — `luciano2-web/Luciano-Sarmiento` (güncellendi: 2026-11-08)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-08)
+- [ ] [update_camera under does not provide reference up or view direction options](https://github.com/fury-gl/fury/issues/1411) — `fury-gl/fury` (güncellendi: 2026-11-08)
+- [ ] [test: direct tests for source_namespaces_admit](https://github.com/memtomem/memtomem/issues/3137) — `memtomem/memtomem` (güncellendi: 2026-11-08)
+- [ ] [test: direct tests for parse_tag_filter](https://github.com/memtomem/memtomem/issues/3138) — `memtomem/memtomem` (güncellendi: 2026-11-08)
+- [ ] [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2) — `IES-BoilerRoom/mlir-tensor-tiling-pass` (güncellendi: 2026-11-08)
+- [ ] [Add a Windows test that pb down stops the whole process tree](https://github.com/SutariyaVishal/parallel-branches/issues/17) — `SutariyaVishal/parallel-branches` (güncellendi: 2026-11-08)
 
 ## Javascript
 
-- [ ] [Analytics "Peak Velocity Day" shows the previous weekday for users west of UTC](https://github.com/LetsCook-Organization/CodeOrbit/issues/9) — `LetsCook-Organization/CodeOrbit` (güncellendi: 2026-11-07)
-- [ ] [Light / dark theme switch in the app](https://github.com/priyansh1210/shiro/issues/3) — `priyansh1210/shiro` (güncellendi: 2026-11-07)
-- [ ] [Goal and project deadlines show the wrong day depending on timezone](https://github.com/LetsCook-Organization/CodeOrbit/issues/8) — `LetsCook-Organization/CodeOrbit` (güncellendi: 2026-11-07)
-- [ ] [[404] "Report Broken Link" issue points to the wrong URL when it ends with ) or .](https://github.com/layer5io/layer5/issues/8333) — `layer5io/layer5` (güncellendi: 2026-11-07)
-- [ ] [Add a "Design lead" reviewer to the panel](https://github.com/priyansh1210/shiro/issues/2) — `priyansh1210/shiro` (güncellendi: 2026-11-07)
-- [ ] [Empty dashboard: offer "Add your first skill" and "Load demo data" buttons](https://github.com/LetsCook-Organization/CodeOrbit/issues/13) — `LetsCook-Organization/CodeOrbit` (güncellendi: 2026-11-07)
-- [ ] [Replace the illustrative ASCII preview in the README with real screenshots](https://github.com/LetsCook-Organization/CodeOrbit/issues/12) — `LetsCook-Organization/CodeOrbit` (güncellendi: 2026-11-07)
-- [ ] [Add unit tests for the date and duration formatting helpers in utils.js](https://github.com/LetsCook-Organization/CodeOrbit/issues/11) — `LetsCook-Organization/CodeOrbit` (güncellendi: 2026-11-07)
+- [ ] [cc-mcp: the DOM suite never runs in CI, and two of its assertions are stale](https://github.com/Bcy2020/dsh-cc-ecosystem/issues/30) — `Bcy2020/dsh-cc-ecosystem` (güncellendi: 2026-11-08)
+- [ ] [Ekran okuyucu ve "Sesli oku" · Screen reader and read aloud](https://github.com/esdesen-star/CLE-Heybe/issues/12) — `esdesen-star/CLE-Heybe` (güncellendi: 2026-11-08)
+- [ ] [publish: a long brief cuts the call to action and hashtags off the X draft](https://github.com/laaielichter/Ai-edit-studio/issues/50) — `laaielichter/Ai-edit-studio` (güncellendi: 2026-11-08)
+- [ ] [Improve bundled snippets](https://github.com/voxpupuli/openvox-vscode/issues/100) — `voxpupuli/openvox-vscode` (güncellendi: 2026-11-08)
+- [ ] [Add 5 questions to "Maven, Git & SDLC"](https://github.com/babylonace/repaso/issues/25) — `babylonace/repaso` (güncellendi: 2026-11-08)
+- [ ] [Review the Spanish of one topic](https://github.com/babylonace/repaso/issues/26) — `babylonace/repaso` (güncellendi: 2026-11-08)
+- [ ] [good first issue: keyboard recovery regression after guarded-denial in browser playground](https://github.com/esheenj/flow-state-machine-oss/issues/11) — `esheenj/flow-state-machine-oss` (güncellendi: 2026-11-08)
+- [ ] [good first issue: add Unicode whitespace formula-safety CSV regression cases](https://github.com/esheenj/data-table-interactions-oss/issues/10) — `esheenj/data-table-interactions-oss` (güncellendi: 2026-11-08)
 
 ## Typescript
 
