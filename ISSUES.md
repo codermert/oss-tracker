@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-09 14:39 UTC_
+_Son güncelleme: 2026-11-10 13:56 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [i18n(dashboard): drop seven dead catalog keys and guard index.html against unwired text](https://github.com/doobidoo/mcp-memory-service/issues/1928) — `doobidoo/mcp-memory-service` (güncellendi: 2026-11-09)
-- [ ] [Feeds: Types chart: hover tooltip lists honeypots in reverse order of the stacked bar](https://github.com/GreedyBear-Project/GreedyBear/issues/1830) — `GreedyBear-Project/GreedyBear` (güncellendi: 2026-11-09)
-- [ ] [fix(core): CSV import should handle semicolon delimiters, decimal commas and a UTF-8 BOM](https://github.com/Santhosh-zeta/ColdGuard/issues/127) — `Santhosh-zeta/ColdGuard` (güncellendi: 2026-11-09)
-- [ ] [fix:Duplicated EPSS data in database](https://github.com/ossf/cve-bin-tool/issues/5490) — `ossf/cve-bin-tool` (güncellendi: 2026-11-09)
-- [ ] [Parse bounty reward strings for the feed importer](https://github.com/andrewsiah/agentswarm-data-tasks/issues/4) — `andrewsiah/agentswarm-data-tasks` (güncellendi: 2026-11-09)
-- [ ] [Add a How-to-propose guide + Discussions Ideas pointer](https://github.com/TopRemnantAcademy/robot-monitor/issues/15) — `TopRemnantAcademy/robot-monitor` (güncellendi: 2026-11-09)
-- [ ] [WebSocket reconnection UX indicator](https://github.com/TopRemnantAcademy/robot-monitor/issues/14) — `TopRemnantAcademy/robot-monitor` (güncellendi: 2026-11-09)
-- [ ] [Grafana dashboard example JSON](https://github.com/TopRemnantAcademy/robot-monitor/issues/12) — `TopRemnantAcademy/robot-monitor` (güncellendi: 2026-11-09)
+- [ ] [from_script and infer_descriptor raise a builtin IndexError on a CHECKMULTISIG whose key count is negative](https://github.com/btclib-org/bip32-descriptors/issues/215) — `btclib-org/bip32-descriptors` (güncellendi: 2026-11-10)
+- [ ] [Add more troubleshooting and loading tasks from real pain points](https://github.com/geodelab/data-agent-gauntlet/issues/7) — `geodelab/data-agent-gauntlet` (güncellendi: 2026-11-10)
+- [ ] [Run the gauntlet with Kiro CLI and share your results](https://github.com/geodelab/data-agent-gauntlet/issues/1) — `geodelab/data-agent-gauntlet` (güncellendi: 2026-11-10)
+- [ ] [Sprint Rollover -> Edit -> Enter leftover, not reduction](https://github.com/WickedCoding/tendril/issues/10) — `WickedCoding/tendril` (güncellendi: 2026-11-10)
+- [ ] [Translate the Quick start into Portuguese (Brazil) (docs/i18n/QUICKSTART.pt-BR.md)](https://github.com/Veristria/runesmith/issues/5) — `Veristria/runesmith` (güncellendi: 2026-11-10)
+- [ ] [Translate the Quick start into Mandarin Chinese (Simplified) (docs/i18n/QUICKSTART.zh-CN.md)](https://github.com/Veristria/runesmith/issues/6) — `Veristria/runesmith` (güncellendi: 2026-11-10)
+- [ ] [Fix counting consecutive string runs](https://github.com/andrewsiah/agentswarm-data-tasks/issues/96) — `andrewsiah/agentswarm-data-tasks` (güncellendi: 2026-11-10)
+- [ ] [normalize: the "no reference values" warning repeats per group and doesn't say which group](https://github.com/scverse/mantispy/issues/278) — `scverse/mantispy` (güncellendi: 2026-11-10)
 
 ## Javascript
 
