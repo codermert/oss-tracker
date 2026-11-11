@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-10 13:56 UTC_
+_Son güncelleme: 2026-11-11 13:10 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [from_script and infer_descriptor raise a builtin IndexError on a CHECKMULTISIG whose key count is negative](https://github.com/btclib-org/bip32-descriptors/issues/215) — `btclib-org/bip32-descriptors` (güncellendi: 2026-11-10)
-- [ ] [Add more troubleshooting and loading tasks from real pain points](https://github.com/geodelab/data-agent-gauntlet/issues/7) — `geodelab/data-agent-gauntlet` (güncellendi: 2026-11-10)
-- [ ] [Run the gauntlet with Kiro CLI and share your results](https://github.com/geodelab/data-agent-gauntlet/issues/1) — `geodelab/data-agent-gauntlet` (güncellendi: 2026-11-10)
-- [ ] [Sprint Rollover -> Edit -> Enter leftover, not reduction](https://github.com/WickedCoding/tendril/issues/10) — `WickedCoding/tendril` (güncellendi: 2026-11-10)
-- [ ] [Translate the Quick start into Portuguese (Brazil) (docs/i18n/QUICKSTART.pt-BR.md)](https://github.com/Veristria/runesmith/issues/5) — `Veristria/runesmith` (güncellendi: 2026-11-10)
-- [ ] [Translate the Quick start into Mandarin Chinese (Simplified) (docs/i18n/QUICKSTART.zh-CN.md)](https://github.com/Veristria/runesmith/issues/6) — `Veristria/runesmith` (güncellendi: 2026-11-10)
-- [ ] [Fix counting consecutive string runs](https://github.com/andrewsiah/agentswarm-data-tasks/issues/96) — `andrewsiah/agentswarm-data-tasks` (güncellendi: 2026-11-10)
-- [ ] [normalize: the "no reference values" warning repeats per group and doesn't say which group](https://github.com/scverse/mantispy/issues/278) — `scverse/mantispy` (güncellendi: 2026-11-10)
+- [ ] [New skill: /standup](https://github.com/saksham10arora-dotcom/everything-claude-codex/issues/30) — `saksham10arora-dotcom/everything-claude-codex` (güncellendi: 2026-11-11)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-11)
+- [ ] [Repository Sync on Frontend between Tabs](https://github.com/amosproj/amos2026ws01-legacy-migrator/issues/97) — `amosproj/amos2026ws01-legacy-migrator` (güncellendi: 2026-11-11)
+- [ ] [Top navigation items disappear on Administration → User](https://github.com/taranis-ai/taranis-ai/issues/1268) — `taranis-ai/taranis-ai` (güncellendi: 2026-11-11)
+- [ ] [[Feature]: Expand statistics and normalization options](https://github.com/mllam/mllam-data-prep/issues/121) — `mllam/mllam-data-prep` (güncellendi: 2026-11-11)
+- [ ] [Add tests for lane proposal commit identity validation](https://github.com/rusharlabs/house-party-protocol/issues/61) — `rusharlabs/house-party-protocol` (güncellendi: 2026-11-11)
+- [ ] [Bootstrap 95% confidence intervals in analyze.py](https://github.com/Rakshitha-Ireddi/UniInfer/issues/4) — `Rakshitha-Ireddi/UniInfer` (güncellendi: 2026-11-11)
+- [ ] [GNOME Shell intermittently consumes a full CPU core; extension errors need attribution](https://github.com/projectbluefin/utah/issues/997) — `projectbluefin/utah` (güncellendi: 2026-11-11)
 
 ## Javascript
 
