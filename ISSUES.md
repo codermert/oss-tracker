@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-11 13:10 UTC_
+_Son güncelleme: 2026-11-12 14:13 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [New skill: /standup](https://github.com/saksham10arora-dotcom/everything-claude-codex/issues/30) — `saksham10arora-dotcom/everything-claude-codex` (güncellendi: 2026-11-11)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-11)
-- [ ] [Repository Sync on Frontend between Tabs](https://github.com/amosproj/amos2026ws01-legacy-migrator/issues/97) — `amosproj/amos2026ws01-legacy-migrator` (güncellendi: 2026-11-11)
-- [ ] [Top navigation items disappear on Administration → User](https://github.com/taranis-ai/taranis-ai/issues/1268) — `taranis-ai/taranis-ai` (güncellendi: 2026-11-11)
-- [ ] [[Feature]: Expand statistics and normalization options](https://github.com/mllam/mllam-data-prep/issues/121) — `mllam/mllam-data-prep` (güncellendi: 2026-11-11)
-- [ ] [Add tests for lane proposal commit identity validation](https://github.com/rusharlabs/house-party-protocol/issues/61) — `rusharlabs/house-party-protocol` (güncellendi: 2026-11-11)
-- [ ] [Bootstrap 95% confidence intervals in analyze.py](https://github.com/Rakshitha-Ireddi/UniInfer/issues/4) — `Rakshitha-Ireddi/UniInfer` (güncellendi: 2026-11-11)
-- [ ] [GNOME Shell intermittently consumes a full CPU core; extension errors need attribution](https://github.com/projectbluefin/utah/issues/997) — `projectbluefin/utah` (güncellendi: 2026-11-11)
+- [ ] [[~1-2 hours] Add a Dart example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/46) — `andrewsiah/agentswarm-examples` (güncellendi: 2026-11-12)
+- [ ] [Translations needed for comparison functionality messages](https://github.com/OWASP/Nettacker/issues/905) — `OWASP/Nettacker` (güncellendi: 2026-11-12)
+- [ ] [Issue in fullscan search: Fatal Python error: _Py_CheckRecursiveCall: Cannot recover from stack overflow](https://github.com/scylladb/python-driver/issues/203) — `scylladb/python-driver` (güncellendi: 2026-11-12)
+- [ ] [Decide whether a bounded Python integer is a pronic number](https://github.com/andrewsiah/agentswarm-data-tasks/issues/291) — `andrewsiah/agentswarm-data-tasks` (güncellendi: 2026-11-12)
+- [ ] [docs: Issue in page User Defined Types](https://github.com/scylladb/python-driver/issues/294) — `scylladb/python-driver` (güncellendi: 2026-11-12)
+- [ ] [Issue templates with acceptance criteria and an epic template](https://github.com/openpickleball/backend/issues/126) — `openpickleball/backend` (güncellendi: 2026-11-12)
+- [ ] [[shared-ci] Check consumer validation evidence failing across projectbluefin/actions](https://github.com/projectbluefin/actions/issues/748) — `projectbluefin/actions` (güncellendi: 2026-11-12)
+- [ ] [Add a PHP example that lists open bounties](https://github.com/andrewsiah/agentswarm-examples/issues/45) — `andrewsiah/agentswarm-examples` (güncellendi: 2026-11-12)
 
 ## Javascript
 
