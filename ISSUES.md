@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-18 14:46 UTC_
+_Son güncelleme: 2026-11-19 14:53 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [tooling: add dry-run mode to proof scripts](https://github.com/starboytiimz/procuresettle/issues/54) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [refactor: extract magic numbers into named constants in `lib.rs`](https://github.com/starboytiimz/procuresettle/issues/53) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [chore: add cargo audit check for known security vulnerabilities](https://github.com/starboytiimz/procuresettle/issues/52) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [chore: add `CHANGELOG.md` following Keep a Changelog standard](https://github.com/starboytiimz/procuresettle/issues/51) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [ci: add Markdown linting step to CI workflow](https://github.com/starboytiimz/procuresettle/issues/50) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [ci: add trailing whitespace and EOF newline check to CI](https://github.com/starboytiimz/procuresettle/issues/49) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [ci: add dependabot configuration for GitHub Actions and dependencies](https://github.com/starboytiimz/procuresettle/issues/48) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
-- [ ] [ci: add Clippy linting step to GitHub Actions workflow](https://github.com/starboytiimz/procuresettle/issues/47) — `starboytiimz/procuresettle` (güncellendi: 2026-11-18)
+- [ ] [Add test for builtin partitionings](https://github.com/DecentralizedLearning/dEngine/issues/37) — `DecentralizedLearning/dEngine` (güncellendi: 2026-11-19)
+- [ ] [observability: three event names are defined but never emitted](https://github.com/oracle/locus/issues/536) — `oracle/locus` (güncellendi: 2026-11-19)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-19)
+- [ ] [Slow loading or error while opening plugins page on the website](https://github.com/qgis/QGIS-Website/issues/1171) — `qgis/QGIS-Website` (güncellendi: 2026-11-19)
+- [ ] [appzones check: warn when Ubuntu's AppArmor blocks user namespaces](https://github.com/mirql/appzones/issues/77) — `mirql/appzones` (güncellendi: 2026-11-19)
+- [ ] [Update the contributor file map in DESIGN.md](https://github.com/samhoon000/Oribi/issues/62) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
+- [ ] [Keep timezone offsets on midnight ranges in compact context](https://github.com/samhoon000/Oribi/issues/61) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
+- [ ] [Preserve nanosecond cadence in temporal gap warnings](https://github.com/samhoon000/Oribi/issues/60) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
 
 ## Javascript
 
