@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-19 14:53 UTC_
+_Son güncelleme: 2026-11-20 14:34 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Add test for builtin partitionings](https://github.com/DecentralizedLearning/dEngine/issues/37) — `DecentralizedLearning/dEngine` (güncellendi: 2026-11-19)
-- [ ] [observability: three event names are defined but never emitted](https://github.com/oracle/locus/issues/536) — `oracle/locus` (güncellendi: 2026-11-19)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-19)
-- [ ] [Slow loading or error while opening plugins page on the website](https://github.com/qgis/QGIS-Website/issues/1171) — `qgis/QGIS-Website` (güncellendi: 2026-11-19)
-- [ ] [appzones check: warn when Ubuntu's AppArmor blocks user namespaces](https://github.com/mirql/appzones/issues/77) — `mirql/appzones` (güncellendi: 2026-11-19)
-- [ ] [Update the contributor file map in DESIGN.md](https://github.com/samhoon000/Oribi/issues/62) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
-- [ ] [Keep timezone offsets on midnight ranges in compact context](https://github.com/samhoon000/Oribi/issues/61) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
-- [ ] [Preserve nanosecond cadence in temporal gap warnings](https://github.com/samhoon000/Oribi/issues/60) — `samhoon000/Oribi` (güncellendi: 2026-11-19)
+- [ ] [Show Codex reading project instructions only in trusted projects](https://github.com/KonstantinStarovoytov/kitden/issues/66) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
+- [ ] [Remove the extra gap above the hint in both Add panels](https://github.com/KonstantinStarovoytov/kitden/issues/21) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
+- [ ] [Phase 11: Write the audit and compliance guide](https://github.com/AyinkxLab/ai-code-assistant/issues/642) — `AyinkxLab/ai-code-assistant` (güncellendi: 2026-11-20)
+- [ ] [--discover --jobs 0 fires the budget identity probe before rejecting the usage error](https://github.com/RogueAlg0/taken/issues/577) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
+- [ ] [CITATION.cff still says 0.8.0 while the package is 0.9.2](https://github.com/RogueAlg0/taken/issues/576) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
+- [ ] [GraphQL httpx transport reports a rate limit as (resets at 0)](https://github.com/RogueAlg0/taken/issues/575) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
+- [ ] [Try Kitden on one Linux setup and share the result](https://github.com/KonstantinStarovoytov/kitden/issues/16) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
+- [ ] [[Need support]: Type activate() so the with-block value is not Optional](https://github.com/mloda-ai/mloda/issues/2931) — `mloda-ai/mloda` (güncellendi: 2026-11-20)
 
 ## Javascript
 
