@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-20 14:34 UTC_
+_Son güncelleme: 2026-11-21 13:52 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Show Codex reading project instructions only in trusted projects](https://github.com/KonstantinStarovoytov/kitden/issues/66) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
-- [ ] [Remove the extra gap above the hint in both Add panels](https://github.com/KonstantinStarovoytov/kitden/issues/21) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
-- [ ] [Phase 11: Write the audit and compliance guide](https://github.com/AyinkxLab/ai-code-assistant/issues/642) — `AyinkxLab/ai-code-assistant` (güncellendi: 2026-11-20)
-- [ ] [--discover --jobs 0 fires the budget identity probe before rejecting the usage error](https://github.com/RogueAlg0/taken/issues/577) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
-- [ ] [CITATION.cff still says 0.8.0 while the package is 0.9.2](https://github.com/RogueAlg0/taken/issues/576) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
-- [ ] [GraphQL httpx transport reports a rate limit as (resets at 0)](https://github.com/RogueAlg0/taken/issues/575) — `RogueAlg0/taken` (güncellendi: 2026-11-20)
-- [ ] [Try Kitden on one Linux setup and share the result](https://github.com/KonstantinStarovoytov/kitden/issues/16) — `KonstantinStarovoytov/kitden` (güncellendi: 2026-11-20)
-- [ ] [[Need support]: Type activate() so the with-block value is not Optional](https://github.com/mloda-ai/mloda/issues/2931) — `mloda-ai/mloda` (güncellendi: 2026-11-20)
+- [ ] [Add a Google ADK adapter example: a recorded run imported into agentest (offline)](https://github.com/srpadmanabhuni/agentest/issues/235) — `srpadmanabhuni/agentest` (güncellendi: 2026-11-21)
+- [ ] [Add Markdown-aware chunking (split on headings)](https://github.com/SreejaPasula/flowmcp/issues/45) — `SreejaPasula/flowmcp` (güncellendi: 2026-11-21)
+- [ ] [[CI] Plain Install E2E failed on main](https://github.com/projectbluefin/dakota-iso/issues/322) — `projectbluefin/dakota-iso` (güncellendi: 2026-11-21)
+- [ ] [Pack: two new system-prompt-extraction cases (format-forcing + summarise-your-instructions)](https://github.com/gravion-ux/llm-redteam-kit/issues/3) — `gravion-ux/llm-redteam-kit` (güncellendi: 2026-11-21)
+- [ ] [Pack: two new data-exfiltration cases (base64 smuggling + DNS-style URL exfil)](https://github.com/gravion-ux/llm-redteam-kit/issues/2) — `gravion-ux/llm-redteam-kit` (güncellendi: 2026-11-21)
+- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-21)
+- [ ] [Pack: two new prompt-injection cases (payload splitting + Unicode smuggling)](https://github.com/gravion-ux/llm-redteam-kit/issues/1) — `gravion-ux/llm-redteam-kit` (güncellendi: 2026-11-21)
+- [ ] [Docs: worked example — annotated sample scan report](https://github.com/gravion-ux/wp-cve-hunter/issues/4) — `gravion-ux/wp-cve-hunter` (güncellendi: 2026-11-21)
 
 ## Javascript
 
