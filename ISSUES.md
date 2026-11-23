@@ -1,20 +1,20 @@
 # Önerilen Issue'lar
 
-_Son güncelleme: 2026-11-22 13:45 UTC_
+_Son güncelleme: 2026-11-23 16:48 UTC_
 
 Bu liste her gün otomatik güncellenir. Bir issue seçip PR açtığında
 `scripts/log_contribution.sh` ile `CONTRIBUTIONS.md`'ye kaydet.
 
 ## Python
 
-- [ ] [Small checks: DOI links, and a timing claim in §10.1](https://github.com/RamanLab/sysbio-code-companion/issues/5) — `RamanLab/sysbio-code-companion` (güncellendi: 2026-11-22)
-- [ ] [Revisión comunitaria: auditar el recibo del agua de Andalucía (5 revisiones independientes)](https://github.com/gsusI/vota-con-la-chola/issues/20) — `gsusI/vota-con-la-chola` (güncellendi: 2026-11-22)
-- [ ] [Update docstrings in classes and functions](https://github.com/openSUSE/docbuild/issues/327) — `openSUSE/docbuild` (güncellendi: 2026-11-22)
-- [ ] [MATLAB figures: match Python's figure and font sizes](https://github.com/RamanLab/sysbio-code-companion/issues/3) — `RamanLab/sysbio-code-companion` (güncellendi: 2026-11-22)
-- [ ] [Improve: add usage examples to the fixit --help output](https://github.com/codepiyusss/open_source_issue_contribution/issues/121) — `codepiyusss/open_source_issue_contribution` (güncellendi: 2026-11-22)
-- [ ] [Implement validation job for prod models inheriting from base models](https://github.com/oppia/oppia/issues/21869) — `oppia/oppia` (güncellendi: 2026-11-22)
-- [ ] [fix(backend): the payment reminder leaves out the ledger's opening balance, so it disagrees with the statement it links to](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software/issues/920) — `nikhilb2/simple-invoicing-free-gst-billing-software` (güncellendi: 2026-11-22)
-- [ ] [Add a Dockerfile to run the dashboard without a local Python setup](https://github.com/MDABDURRAUF/supplylens/issues/3) — `MDABDURRAUF/supplylens` (güncellendi: 2026-11-22)
+- [ ] [[PLUGIN] cache_audit: Calculate disk space used by build & cache folders](https://github.com/phantom-mbx1/devpulse-cli/issues/3) — `phantom-mbx1/devpulse-cli` (güncellendi: 2026-11-23)
+- [ ] [[PLUGIN] ssl_chain_audit: Check TLS certificate expiration for a domain](https://github.com/phantom-mbx1/devpulse-cli/issues/2) — `phantom-mbx1/devpulse-cli` (güncellendi: 2026-11-23)
+- [ ] [[PLUGIN] json_lint: Validate JSON files and report syntax errors](https://github.com/phantom-mbx1/devpulse-cli/issues/1) — `phantom-mbx1/devpulse-cli` (güncellendi: 2026-11-23)
+- [ ] [Broken links detected (automated weekly check)](https://github.com/jeremybaraka-dev/devsecops-engineering-guide/issues/10) — `jeremybaraka-dev/devsecops-engineering-guide` (güncellendi: 2026-11-23)
+- [ ] [Accept a path-like path and name the keywords in viz.save_schedule](https://github.com/NVIDIA/cudaq-pulse/issues/130) — `NVIDIA/cudaq-pulse` (güncellendi: 2026-11-23)
+- [ ] [Pipeline page: write `@pulse.kernel` and show how to print each IR level](https://github.com/NVIDIA/cudaq-pulse/issues/133) — `NVIDIA/cudaq-pulse` (güncellendi: 2026-11-23)
+- [ ] [Name the bad value in the ControlSystem limit errors and the drive amplitude-scale error](https://github.com/NVIDIA/cudaq-pulse/issues/31) — `NVIDIA/cudaq-pulse` (güncellendi: 2026-11-23)
+- [ ] [[Feature Request]: Allow to unpublish the stories on temporary basis](https://github.com/oppia/oppia/issues/21166) — `oppia/oppia` (güncellendi: 2026-11-23)
 
 ## Javascript
 
